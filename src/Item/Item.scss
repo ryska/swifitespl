@@ -1,12 +1,21 @@
 .item {
-    width: 200px;
-    height: 200px;
+
     margin: 20px;
     min-width: 200px;
+    background-color: #947b9a;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px;
+    flex-direction: column;
+    filter: drop-shadow(0 10px 8px rgb(0 0 0 / 0.04)) drop-shadow(0 4px 3px rgb(0 0 0 / 0.1));
 
     .item-content {
         width: 180px;
         height: 180px;
+        margin: 20px 20px 10px 20px;
+        border-radius: 10px;
+        overflow: hidden;
     }
 
     img {
@@ -17,5 +26,6 @@
     .title {
         color: #fff;
         text-decoration: none;
+        margin-bottom: 10px;
     }
 }

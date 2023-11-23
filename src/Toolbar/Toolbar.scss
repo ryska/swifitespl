@@ -1,22 +1,134 @@
 .toolbar {
-    background-color: #2E4374;
+    background-color: #464d60;
     height: 80px;
     display: flex;
     align-items: center;
     justify-content: space-between;
     width: 100%;
 
-    span {
-        padding: 20px;
-    }
-
-    a {
-        color: #EEF5FF;
-        text-decoration: none;
-        padding: 20px;
-
-        &:hover {
-            color: #9EB8D9;
+    @media (max-width: 600px) {
+        & .logopic img {
+            display: none;
+            width: 0;
+            height: 0;
         }
+
+        justify-content: center;
     }
+}
+
+.toolbar .logopic {
+    width: 40px;
+    height: 40px;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+
+    @media (max-width: 600px) {
+        display: none;
+        width: 0;
+        height: 0;
+    }
+}
+
+.toolbar .logopic img {
+    width: 40px;
+    height: 40px;
+    max-width: unset;
+}
+
+.toolbar .links {
+    margin: 0 40px;
+}
+
+.toolbar .toolbarlink {
+    background-color: #e8c490;
+    border-radius: 12px;
+    color: #464d60;
+    font-weight: 500;
+
+    @media (max-width: 600px) {}
+}
+
+.toolbar span {
+    padding: 4px 20px;
+}
+
+.toolbar a {
+    text-decoration: none;
+    padding: 10px 20px;
+    margin: 0 4px;
+    font-size: 16px;
+
+    @media (max-width: 600px) {
+        padding: 10px;
+        font-size: 12px;
+
+    }
+}
+
+.toolbar .eraslink {
+    position: relative;
+    padding: 0px 0;
+    font-weight: 500;
+}
+
+.toolbar .eraslist {
+    display: none;
+    position: absolute;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    left: 50%;
+    top: 30px;
+    transform: translate(-50%, 0);
+    width: 140px;
+    padding: 20px 0;
+    border-radius: 6px;
+    z-index: 100;
+    background-color: rgba($color: #947b9a, $alpha: 0.7)
+}
+
+.toolbar .eraslist>span {
+    padding: 4px 0;
+    width: 100%;
+    border-radius: 6px;
+}
+
+.toolbar .eraslist>span>a {
+    padding: 0;
+}
+
+.toolbar .eraslink:hover>.eraslist {
+    display: flex;
+}
+
+.toolbar .eraslink:hover>.eraslistwrapper {
+    // padding-top: 50px;
+}
+
+.toolbar .midnights,
+.toolbar .evermore,
+.toolbar .folklore,
+.toolbar .lover,
+.toolbar .rep,
+.toolbar .nen,
+.toolbar .red,
+.toolbar .sn,
+.toolbar .fearless,
+.toolbar .ts {
+    color: #EEF5FF;
+}
+
+.toolbar .midnights:hover,
+.toolbar .evermore:hover,
+.toolbar .folklore:hover,
+.toolbar .lover:hover,
+.toolbar .rep:hover,
+.toolbar .nen:hover,
+.toolbar .red:hover,
+.toolbar .sn:hover,
+.toolbar .fearless:hover,
+.toolbar .ts:hover {
+    color: #464d60;
 }
