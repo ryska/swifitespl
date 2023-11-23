@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/swiftiespl/static/css/main.f5318d12.css",
-    "main.js": "/swiftiespl/static/js/main.61622dba.js",
-    "static/js/787.d4aba7ab.chunk.js": "/swiftiespl/static/js/787.d4aba7ab.chunk.js",
-    "index.html": "/swiftiespl/index.html",
-    "main.f5318d12.css.map": "/swiftiespl/static/css/main.f5318d12.css.map",
-    "main.61622dba.js.map": "/swiftiespl/static/js/main.61622dba.js.map",
-    "787.d4aba7ab.chunk.js.map": "/swiftiespl/static/js/787.d4aba7ab.chunk.js.map"
+    "main.css": "/www.swifties.pl/static/css/main.e240df3c.css",
+    "main.js": "/www.swifties.pl/static/js/main.d2d4d297.js",
+    "static/js/787.d4aba7ab.chunk.js": "/www.swifties.pl/static/js/787.d4aba7ab.chunk.js",
+    "index.html": "/www.swifties.pl/index.html",
+    "main.e240df3c.css.map": "/www.swifties.pl/static/css/main.e240df3c.css.map",
+    "main.d2d4d297.js.map": "/www.swifties.pl/static/js/main.d2d4d297.js.map",
+    "787.d4aba7ab.chunk.js.map": "/www.swifties.pl/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f5318d12.css",
-    "static/js/main.61622dba.js"
+    "static/css/main.e240df3c.css",
+    "static/js/main.d2d4d297.js"
   ]
 }
