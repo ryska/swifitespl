@@ -19,7 +19,7 @@ const rootElement = document.getElementById("root");
 if (rootElement) {
   ReactDOM.createRoot(rootElement).render(
       <React.StrictMode>
-          <BrowserRouter basename="/">
+          <BrowserRouter basename="/repository-name">
               <App />
           </BrowserRouter>
       </React.StrictMode>
