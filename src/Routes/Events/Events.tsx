@@ -1,6 +1,3 @@
-import { Link } from "react-router-dom";
-import Toolbar from "../../Toolbar/Toolbar"
-import Item from "../../Item/Item";
 import './Events.scss';
 
 const Events = () => {

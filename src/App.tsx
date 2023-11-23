@@ -1,8 +1,7 @@
 
 import './App.scss';
 import Toolbar from './Toolbar/Toolbar';
-import Item from './Item/Item';
-import { Route, Router, Routes } from 'react-router-dom';
+import { Route, Routes } from 'react-router-dom';
 import Home from './Routes/Home/Home';
 import Eras from './Routes/Eras/Eras';
 import Events from './Routes/Events/Events';

@@ -1,6 +1,4 @@
-import { Link } from "react-router-dom";
-import Toolbar from "../../Toolbar/Toolbar"
-import Item from "../../Item/Item";
+
 import './Artists.scss';
 
 const Artists = () => {
