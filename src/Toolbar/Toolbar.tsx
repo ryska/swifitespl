@@ -13,7 +13,7 @@ const Toolbar = () => {
         <Link className='toolbarlink' to="/">GŁÓWNA</Link>
         <Link className='toolbarlink' to="/events">WYDARZENIA</Link>
         <span className='eraslink'>
-          <Link className='toolbarlink' to="/eras">ERAS</Link>
+          <Link className='toolbarlink' to="eras">ERAS</Link>
           {/* <div className='eraslistwrapper'> */}
           <div className='eraslist'>
             <span className='midnights'>
