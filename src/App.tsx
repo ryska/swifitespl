@@ -18,6 +18,7 @@ import SpeakNow from './Routes/Eras/SpeakNow/SpeakNow';
 import Fearless from './Routes/Eras/Fearless/Fearless';
 import TaylorSwift from './Routes/Eras/TaylorSwift/TaylorSwift';
 import Cardigans from './Routes/Cardigans/Cardigans';
+import Other from './Routes/Other/Other';
 
 function App() {
   return (
@@ -27,22 +28,23 @@ function App() {
         <div className='appwrapper'>
           <Toolbar />
           <Routes>
-            <Route path="/" element={<Home />} />
-            <Route path="/events" element={<Events />} />
-            <Route path="/eras" element={<Eras />} />
-            <Route path="/eras/midnights" element={<Midnights />} />
-            <Route path="/eras/evermore" element={<Evermore />} />
-            <Route path="/eras/folklore" element={<Folklore />} />
-            <Route path="/eras/lover" element={<Lover />} />
-            <Route path="/eras/reputation" element={<Reputation />} />
-            <Route path="/eras/1989" element={<NEN />} />
-            <Route path="/eras/red" element={<Red />} />
-            <Route path="/eras/speak-now" element={<SpeakNow />} />
-            <Route path="/eras/fearless" element={<Fearless />} />
-            <Route path="/eras/taylor-swift" element={<TaylorSwift />} />
-            <Route path="/custom-merch" element={<Artists />} />
-            <Route path="/custom-merch/fan-art" element={<Artists />} />
-            <Route path="/custom-merch/cardigans" element={<Cardigans />} />
+            <Route path-exact path="/eras" element={<Eras />} />
+            <Route path-exact path="events" element={<Events />} />
+            <Route path-exact path="/eras/midnights" element={<Midnights />} />
+            <Route path-exact path="/eras/evermore" element={<Evermore />} />
+            <Route path-exact path="/eras/folklore" element={<Folklore />} />
+            <Route path-exact path="/eras/lover" element={<Lover />} />
+            <Route path-exact path="/eras/reputation" element={<Reputation />} />
+            <Route path-exact path="/eras/1989" element={<NEN />} />
+            <Route path-exact path="/eras/red" element={<Red />} />
+            <Route path-exact path="/eras/speak-now" element={<SpeakNow />} />
+            <Route path-exact path="/eras/fearless" element={<Fearless />} />
+            <Route path-exact path="/eras/taylor-swift" element={<TaylorSwift />} />
+            <Route path-exact path="/custom-merch" element={<Artists />} />
+            <Route path-exact path="/custom-merch/fan-art" element={<Artists />} />
+            <Route path-exact path="/custom-merch/cardigans" element={<Cardigans />} />
+            <Route path-exact path="/custom-merch/other" element={<Other />} />
+            <Route path-exact path="/" element={<Home />} />
           </Routes>
         </div>
         <Footer />

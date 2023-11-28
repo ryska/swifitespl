@@ -56,6 +56,9 @@ const Toolbar = () => {
             <span className='midnights'>
               <Link to="/custom-merch/cardigans">Cardigans</Link>
             </span>
+            <span className='midnights'>
+              <Link to="/custom-merch/other">Inne</Link>
+            </span>
           </div>
         </span>
       </div >
