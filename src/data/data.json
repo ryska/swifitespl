@@ -1,82 +1,914 @@
 [
-    {
-      "link": "https://www.shopcider.com/goods/asymmetrical-hem-glitter-ruched-drawstring-short-dress?style_id=136991&gaListId=114674&gaListName=Dresses&ciderListId=13&ciderListName=Dresses&selectSkuIndex=0&moduleTitle=1&p=1033229&shopPage=2&shopIndex=8&navTitle=Dresses&navId=114674&listSource=activity_page-5689%3Bactivity_579771%3B1-0&listSort=&listId=114674&listAttribute=&operationContent=&operationImage=https%3A%2F%2Fimg.shopcider.com%2Fhermes%2Fposting%2F1696923448000-y8hkny.png&linkUrl=https%253A%252F%252Fwww.shopcider.com%252Factivity%252F5689&operationpageTitle=homepage&operationPosition=6-1&operationType=homepage_column&productPosition=9&strategyNameList=&listType=13&businessType=New%20In&listTitle=Dresses",
-      "shop": "cider",
-      "imageLink": "https://img1.shopcider.com/product/1678179521000-eayPB4.jpg?x-oss-process=image/resize,w_350,m_lfit/quality,Q_80/interlace,1",
-      "imageId": "",
-      "era": "mn",
-      "affLink": "https://sovrn.co/15l93vu"
-    },
-    {
-      "link": "https://www.shopcider.com/goods/tweed-sleeveless-pleated-tube-mini-dress-102749088?style_id=1158778&gaListId=114674&gaListName=Dresses&ciderListId=13&ciderListName=Dresses&selectSkuIndex=0&moduleTitle=1&p=102749088&shopPage=12&shopIndex=216&navTitle=Dresses&navId=114674&listSource=activity_page-5689%3Bactivity_579771%3B1-0&listSort=&listId=114674&listAttribute=&operationContent=&operationImage=https%3A%2F%2Fimg.shopcider.com%2Fhermes%2Fposting%2F1696923448000-y8hkny.png&linkUrl=https%253A%252F%252Fwww.shopcider.com%252Factivity%252F5689&operationpageTitle=homepage&operationPosition=6-1&operationType=homepage_column&productPosition=217&strategyNameList=&listType=13&businessType=New%20In&listTitle=Dresses",
-      "shop": "cider",
-      "imageLink": "https://img1.shopcider.com/product/1697725168000-Kfer7k.jpg?x-oss-process=image/resize,w_350,m_lfit/quality,Q_80/interlace,1",
-      "imageId": "",
-      "era": "sn",
-      "affLink": "https://sovrn.co/c4ftwp7"
-    },
-    {
-      "link": "https://www2.hm.com/pl_pl/productpage.1178465003.html",
-      "shop": "H&M",
-      "imageLink": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F0f%2Fa1%2F0fa1ecaae1a0dff056f7097b425a46d15abad228.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
-      "imageId": "",
-      "era": "fl",
-      "affLink": "https://sovrn.co/bcg5ahn"
-    },
-    {
-      "link": "https://www2.hm.com/pl_pl/productpage.1182231001.html",
-      "shop": "H&M",
-      "imageLink": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F2a%2F0e%2F2a0e26c7cf318630fc370bebd96f373610bfbc00.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B3%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
-      "imageId": "",
-      "era": "fl",
-      "affLink": "https://sovrn.co/1c8gjfp"
-    },
-    {
-      "link": "https://www2.hm.com/pl_pl/productpage.1182232001.html",
-      "shop": "H&M",
-      "imageLink": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fd3%2F1c%2Fd31c4cb4e87e4e9ba7cf49c3b4843f5925a83474.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
-      "imageId": "",
-      "era": "fl",
-      "affLink": "https://sovrn.co/4bb8w6e"
-    },
-    {
-      "link": "https://www2.hm.com/pl_pl/productpage.1112095002.html",
-      "shop": "H&M",
-      "imageLink": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F16%2Fc3%2F16c34700ccae042ad12917737ea6b7c3328efe72.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
-      "imageId": "",
-      "era": "fl",
-      "affLink": "https://sovrn.co/1jfz0xu"
-    },
-    {
-      "link": "https://www.asos.com/pl/beauut/beauut-lodoworozowa-tiulowa-spodnica-midi/prd/204321728?clr=chodny-roz&colourWayId=204321753&cid=50711",
-      "shop": "asos",
-      "imageLink": "https://images.asos-media.com/products/beauut-lodoworozowa-tiulowa-spodnica-midi/204321728-1-frostedpink?$n_320w$&wid=317&fit=constrain",
-      "imageId": "",
-      "era": "fl",
-      "affLink": "https://sovrn.co/1guh1vw"
-    },
-    {
-      "link": "https://www.asos.com/pl/naanaa/naanaa-cekinowa-sukienka-mini-z-ozdobnym-detalem-na-plecach-w-kolorze-rozowego-zota/prd/203897771?clr=rose-gold&colourWayId=203897774&cid=50711",
-      "shop": "asos",
-      "imageLink": "https://images.asos-media.com/products/naanaa-cekinowa-sukienka-mini-z-ozdobnym-detalem-na-plecach-w-kolorze-rozowego-zota/203897771-1-rosegold?$n_320w$&wid=317&fit=constrain",
-      "imageId": "",
-      "era": "fl",
-      "affLink": "https://sovrn.co/2ds5bqv"
-    },
-    {
-      "link": "https://www.shopcider.com/goods/sequins-square-neck-geometric-tassel-mini-dress-1050201?style_id=1151804&gaListId=114674&gaListName=Dresses&ciderListId=2&ciderListName=Dresses&selectSkuIndex=0&moduleTitle=1&p=1050201&shopPage=1&shopIndex=2&navTitle=Dresses&navId=114674&listSource=activity_page-5689%3Bactivity_579771%3B1-0&listSort=&listId=114674&listAttribute=&operationContent=&operationImage=https%3A%2F%2Fimg.shopcider.com%2Fhermes%2Fposting%2F1696923448000-y8hkny.png&linkUrl=https%253A%252F%252Fwww.shopcider.com%252Factivity%252F5689&operationpageTitle=homepage&operationPosition=6-1&operationType=homepage_column&productPosition=3&strategyNameList=&listType=2&businessType=New%20In&listTitle=Dresses",
-      "shop": "cider",
-      "imageLink": "https://img1.shopcider.com/product/1691725643000-ZD5xtx.jpg?x-oss-process=image/resize,w_350,m_lfit/quality,Q_80/interlace,1",
-      "imageId": "",
-      "era": "fl",
-      "affLink": "https://sovrn.co/1je2ods"
-    },
-    {
-      "link": "https://www.shopcider.com/goods/sequins-v-neck-solid-backless-mini-dress-1053535?style_id=1151818&gaListId=114674&gaListName=Dresses&ciderListId=13&ciderListName=Dresses&selectSkuIndex=0&moduleTitle=1&p=1053535&shopPage=4&shopIndex=54&navTitle=Dresses&navId=114674&listSource=activity_page-5689%3Bactivity_579771%3B1-0&listSort=&listId=114674&listAttribute=&operationContent=&operationImage=https%3A%2F%2Fimg.shopcider.com%2Fhermes%2Fposting%2F1696923448000-y8hkny.png&linkUrl=https%253A%252F%252Fwww.shopcider.com%252Factivity%252F5689&operationpageTitle=homepage&operationPosition=6-1&operationType=homepage_column&productPosition=55&strategyNameList=&listType=13&businessType=New%20In&listTitle=Dresses",
-      "shop": "cider",
-      "imageLink": "https://img1.shopcider.com/product/1691651060000-Z2afEa.jpg?x-oss-process=image/resize,w_350,m_lfit/quality,Q_80/interlace,1",
-      "imageId": "",
-      "era": "fl",
-      "affLink": "https://sovrn.co/1evv17j"
-    }
-  ]
+  {
+    "imageLink": "https://static.pullandbear.net/2/photos//2024/V/0/1/p/3241/400/808/3241400808_2_6_8.jpg?t=1700569092344&imwidth=750",
+    "shop": "pull & bear",
+    "era": "ts",
+    "affLink": "https://sovrn.co/tjsc4ne"
+  },
+  {
+    "imageLink": "https://static.pullandbear.net/2/photos//2023/I/0/1/p/8558/310/712/8558310712_2_6_8.jpg?t=1683881423134&imwidth=850",
+    "shop": "pull & bear",
+    "era": "ts",
+    "affLink": "https://sovrn.co/1oppj6e"
+  },
+  {
+    "imageLink": "https://static.pullandbear.net/2/photos//2023/I/0/1/p/7473/349/615/7473349615_2_6_8.jpg?t=1686587557348&imwidth=850",
+    "shop": "pull & bear",
+    "era": "ts",
+    "affLink": "https://sovrn.co/18gyh6o"
+  },
+  {
+    "imageLink": "https://static.pullandbear.net/2/photos//2023/I/0/1/p/7242/308/121/7242308121_2_1_8.jpg?t=1689180484907&imwidth=850",
+    "shop": "pull & bear",
+    "era": "ts",
+    "affLink": "https://sovrn.co/4h92heb"
+  },
+  {
+    "imageLink": "https://static.pullandbear.net/2/photos//2023/I/0/1/p/7241/438/612/7241438612_2_6_8.jpg?t=1685637009011&imwidth=850",
+    "shop": "pull & bear",
+    "era": "ts",
+    "affLink": "https://sovrn.co/urn7u49"
+  },
+  {
+    "imageLink": "https://static.pullandbear.net/2/photos//2023/I/0/1/p/7473/321/637/7473321637_2_6_8.jpg?t=1682683516486&imwidth=850",
+    "shop": "pull & bear",
+    "era": "ts",
+    "affLink": "https://sovrn.co/0rknga8"
+  },
+  {
+    "imageLink": "https://static.pullandbear.net/2/photos//2023/I/0/1/p/8395/320/712/8395320712_2_1_8.jpg?t=1685519888529&imwidth=850",
+    "shop": "pull & bear",
+    "era": "ts",
+    "affLink": "https://sovrn.co/1ceapf2"
+  },
+  {
+    "imageLink": "https://img1.shopcider.com/product/1686237354000-esWeMT.jpg?x-oss-process=image/resize,w_350,m_lfit/quality,Q_80/interlace,1",
+    "shop": "cider",
+    "era": "ts",
+    "affLink": "https://sovrn.co/16ecyx9"
+  },
+  {
+    "imageLink": "https://img1.shopcider.com/product/1657102090000-sW3N6P.jpg?x-oss-process=image/resize,w_350,m_lfit/quality,Q_80/interlace,1",
+    "shop": "cider",
+    "era": "ts",
+    "affLink": "https://sovrn.co/1axxo29"
+  },
+  {
+    "imageLink": "https://img1.shopcider.com/product/1685865044000-itA35c.jpg?x-oss-process=image/resize,w_350,m_lfit/quality,Q_80/interlace,1",
+    "shop": "cider",
+    "era": "ts",
+    "affLink": "https://sovrn.co/183lwxu"
+  },
+  {
+    "imageLink": "https://img1.shopcider.com/product/1681276510000-iY7MaJ.jpg?x-oss-process=image/resize,w_350,m_lfit/quality,Q_80/interlace,1",
+    "shop": "cider",
+    "era": "ts",
+    "affLink": "https://sovrn.co/4yle466"
+  },
+  {
+    "imageLink": "https://img1.shopcider.com/product/1685974341000-MwrC5A.jpg?x-oss-process=image/resize,w_350,m_lfit/quality,Q_80/interlace,1",
+    "shop": "cider",
+    "era": "ts",
+    "affLink": "https://sovrn.co/7aakelo"
+  },
+  {
+    "imageLink": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F0f%2Fa1%2F0fa1ecaae1a0dff056f7097b425a46d15abad228.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "shop": "h&m",
+    "era": "fless",
+    "affLink": "https://sovrn.co/bcg5ahn"
+  },
+  {
+    "imageLink": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F2a%2F0e%2F2a0e26c7cf318630fc370bebd96f373610bfbc00.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B3%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+    "shop": "h&m",
+    "era": "fless",
+    "affLink": "https://sovrn.co/1c8gjfp"
+  },
+  {
+    "imageLink": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F06%2F27%2F062705e88f2865047375ff280166a5c17245cb12.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B3%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+    "shop": "h&m",
+    "era": "fless",
+    "affLink": "https://sovrn.co/stox3su"
+  },
+  {
+    "imageLink": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F16%2Fc3%2F16c34700ccae042ad12917737ea6b7c3328efe72.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+    "shop": "h&m",
+    "era": "fless",
+    "affLink": "https://sovrn.co/4bb8w6e"
+  },
+  {
+    "imageLink": "https://images.asos-media.com/products/beauut-lodoworozowa-tiulowa-spodnica-midi/204321728-1-frostedpink?$n_320w$&wid=317&fit=constrain",
+    "shop": "asos",
+    "era": "fless",
+    "affLink": "https://sovrn.co/1guh1vw"
+  },
+  {
+    "imageLink": "https://images.asos-media.com/products/naanaa-cekinowa-sukienka-mini-z-ozdobnym-detalem-na-plecach-w-kolorze-rozowego-zota/203897771-1-rosegold?$n_320w$&wid=317&fit=constrain",
+    "shop": "asos",
+    "era": "fless",
+    "affLink": "https://sovrn.co/2ds5bqv"
+  },
+  {
+    "imageLink": "https://img1.shopcider.com/product/1691725643000-ZD5xtx.jpg?x-oss-process=image/resize,w_350,m_lfit/quality,Q_80/interlace,1",
+    "shop": "cider",
+    "era": "fless",
+    "affLink": "https://sovrn.co/1je2ods"
+  },
+  {
+    "imageLink": "https://img1.shopcider.com/product/1691651060000-Z2afEa.jpg?x-oss-process=image/resize,w_350,m_lfit/quality,Q_80/interlace,1",
+    "shop": "cider",
+    "era": "fless",
+    "affLink": "https://sovrn.co/1evv17j"
+  },
+  {
+    "imageLink": "https://img.ltwebstatic.com/images3_pi/2023/08/25/cf/1692927879791e130eb113443aa5cf9ecce25cf05e.webp",
+    "shop": "shein",
+    "era": "fless",
+    "affLink": "https://sovrn.co/1ptwzok"
+  },
+  {
+    "imageLink": "https://img.ltwebstatic.com/images3_pi/2023/08/11/41/1691726602954cfec1fb8291884d08b0f24dc92436.webp",
+    "shop": "shein",
+    "era": "fless",
+    "affLink": "https://sovrn.co/w7ueksc"
+  },
+  {
+    "imageLink": "https://img.ltwebstatic.com/images3_pi/2023/08/30/bc/16933777873bd3ad16b4a63e66935c363b4a1a684a_thumbnail_220x293.webp",
+    "shop": "shein",
+    "era": "fless",
+    "affLink": "https://sovrn.co/1knkp43"
+  },
+  {
+    "imageLink": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F79%2F16%2F79162b32d63e8e6e0bf42cf241c6b5b300f0c55e.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+    "shop": "h&m",
+    "era": "sn",
+    "affLink": "https://sovrn.co/gfezr4f"
+  },
+  {
+    "imageLink": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F1a%2F41%2F1a419e1a852c7489e4e5452f2559074563ad8a8f.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_tops_croppedtops%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+    "shop": "h&m",
+    "era": "sn",
+    "affLink": "https://sovrn.co/ft2fvqt"
+  },
+  {
+    "imageLink": "https://images.asos-media.com/products/pretty-lavish-srebrna-zdobiona-spodnica-maxi-z-rozcieciem/203581227-3?$n_320w$&wid=317&fit=constrain",
+    "shop": "asos",
+    "era": "sn",
+    "affLink": "https://sovrn.co/x9hzpd8"
+  },
+  {
+    "imageLink": "https://static.pullandbear.net/2/photos//2023/I/0/1/p/7242/389/668/7242389668_2_6_8.jpg?t=1688052850995&imwidth=850",
+    "shop": "pull & bear",
+    "era": "sn",
+    "affLink": "https://sovrn.co/lcvv0ni"
+  },
+  {
+    "imageLink": "https://ae01.alicdn.com/kf/Sa7d904d4b5694a38b292082851cb1ff50/Taylr-Swif-sweter-bia-y-r-owy-dzianinowy-typu-oversize-folklor-m-wi-ju-dawno-sweter.jpg_.webp",
+    "shop": "aliexpress",
+    "era": "sn",
+    "affLink": "https://sovrn.co/kmsg3hp"
+  },
+  {
+    "imageLink": "https://img.ltwebstatic.com/images3_pi/2023/08/17/e3/1692243000cf5f9ea83baaa2f8651460dbe1f05876_thumbnail_600x.webp",
+    "shop": "shein",
+    "era": "sn",
+    "affLink": "https://sovrn.co/1lcnciz"
+  },
+  {
+    "imageLink": "https://img.ltwebstatic.com/images3_pi/2023/07/10/16889616840313dbe6a47823403140b384785f1f11_thumbnail_600x.webp",
+    "shop": "shein",
+    "era": "sn",
+    "affLink": "https://sovrn.co/ewl7739"
+  },
+  {
+    "imageLink": "https://img.ltwebstatic.com/images3_pi/2023/09/23/de/169546378087facc7e092eb09f7ef01a0c1068334b_thumbnail_600x.webp",
+    "shop": "shein",
+    "era": "sn",
+    "affLink": "https://sovrn.co/1jedxp3"
+  },
+  {
+    "imageLink": "https://img.ltwebstatic.com/images3_pi/2023/11/03/09/1698977610b4122db78d0ed3fe09b6c747be236259_thumbnail_600x.webp",
+    "shop": "shein",
+    "era": "sn",
+    "affLink": "https://sovrn.co/1bx7hfg"
+  },
+  {
+    "imageLink": "https://img.ltwebstatic.com/images3_pi/2023/10/23/86/169804191360ba211ab22a6cd1e8a3917ded1eb816_thumbnail_600x.webp",
+    "shop": "shein",
+    "era": "sn",
+    "affLink": "https://sovrn.co/zxy2asw"
+  },
+  {
+    "imageLink": "https://img.ltwebstatic.com/images3_pi/2023/02/20/167686213141ab902065d3a029b44d4814fd07f8a8_thumbnail_600x.webp",
+    "shop": "shein",
+    "era": "sn",
+    "affLink": "https://sovrn.co/09x4c57"
+  },
+  {
+    "imageLink": "https://img.ltwebstatic.com/images3_pi/2023/05/16/1684219872d5b00d1acb9b8bc06fb79b6b2a18ce4c_thumbnail_600x.webp",
+    "shop": "shein",
+    "era": "sn",
+    "affLink": "https://sovrn.co/xj9ffw3"
+  },
+  {
+    "imageLink": "https://static.pullandbear.net/2/photos//2023/I/0/1/p/7982/331/629/7982331629_2_1_8.jpg?t=1681472331245&imwidth=850",
+    "shop": "pull & bear",
+    "era": "sn",
+    "affLink": "https://sovrn.co/1khg1kq"
+  },
+  {
+    "imageLink": "https://img1.shopcider.com/product/1682510081000-E4f2H3.jpg?x-oss-process=image/resize,w_350,m_lfit/quality,Q_80/interlace,1",
+    "shop": "cider",
+    "era": "sn",
+    "affLink": "https://sovrn.co/w9lhxd0"
+  },
+  {
+    "imageLink": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fbe%2F8c%2Fbe8cabd0ceb0b2ef1fec6bb4ca0e31e78c78e5f3.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_accessories_scarves%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/fullscreen]",
+    "shop": "h&m",
+    "era": "red",
+    "affLink": "https://sovrn.co/1a9swak"
+  },
+  {
+    "imageLink": "https://img1.shopcider.com/product/1697725168000-Kfer7k.jpg?x-oss-process=image/resize,w_350,m_lfit/quality,Q_80/interlace,1",
+    "shop": "cider",
+    "era": "red",
+    "affLink": "https://sovrn.co/rewqv51"
+  },
+  {
+    "imageLink": "https://static.pullandbear.net/2/photos//2023/I/0/1/p/3679/401/600/3679401600_2_6_8.jpg?t=1700568196713&imwidth=375",
+    "shop": "pull & bear",
+    "era": "red",
+    "affLink": "https://sovrn.co/8rdr1st"
+  },
+  {
+    "imageLink": "https://static.pullandbear.net/2/photos//2024/V/0/1/p/7677/305/600/7677305600_2_6_8.jpg?t=1698940636653&imwidth=375",
+    "shop": "pull & bear",
+    "era": "red",
+    "affLink": "https://sovrn.co/6vno1d3"
+  },
+  {
+    "imageLink": "https://static.pullandbear.net/2/photos//2023/I/0/1/p/7691/300/800/7691300800_2_6_8.jpg?t=1682068352088&imwidth=375",
+    "shop": "pull & bear",
+    "era": "red",
+    "affLink": "https://sovrn.co/1j3lo91"
+  },
+  {
+    "imageLink": "https://img.ltwebstatic.com/images3_pi/2023/09/20/a0/169520246493f003750320b79e2424e53c8fe5de10.webp",
+    "shop": "shein",
+    "era": "red",
+    "affLink": "https://sovrn.co/13ghjco"
+  },
+  {
+    "imageLink": "https://img.ltwebstatic.com/images3_pi/2023/11/16/7f/17001039073df36b0556c2c8683e8db1c407cf2586_thumbnail_220x293.webp",
+    "shop": "shein",
+    "era": "red",
+    "affLink": "https://sovrn.co/q0wofx3"
+  },
+  {
+    "imageLink": "https://img.ltwebstatic.com/images3_pi/2020/12/23/160870219334ac9dda8b69d1823596b13c722cc39f_thumbnail_220x293.webp",
+    "shop": "shein",
+    "era": "red",
+    "affLink": "https://sovrn.co/32u6vyi"
+  },
+  {
+    "imageLink": "https://img.ltwebstatic.com/images3_pi/2022/11/29/16697115681fa76764887bf2b45430aca902ebe347_thumbnail_220x293.webp",
+    "shop": "shein",
+    "era": "red",
+    "affLink": "https://sovrn.co/1fa3k4g"
+  },
+  {
+    "imageLink": "https://img.ltwebstatic.com/images3_spmp/2023/10/23/45/1698041840307efad08835e0eaa2e430f0581e11c7_thumbnail_220x293.webp",
+    "shop": "shein",
+    "era": "red",
+    "affLink": "https://sovrn.co/ek1ufbp"
+  },
+  {
+    "imageLink": "https://img.ltwebstatic.com/images3_spmp/2023/11/13/83/1699847841c3fa81fe34b0968a06969996a01383f4_thumbnail_220x293.webp",
+    "shop": "shein",
+    "era": "red",
+    "affLink": "https://sovrn.co/rub8kvx"
+  },
+  {
+    "imageLink": "https://img.ltwebstatic.com/images3_spmp/2023/10/24/4f/16981396161d43435dcb37d6f58467781087a5385b_thumbnail_220x293.webp",
+    "shop": "shein",
+    "era": "red",
+    "affLink": "https://sovrn.co/84tm6l4"
+  },
+  {
+    "imageLink": "https://static.pullandbear.net/2/photos//2023/I/0/1/p/7843/320/615/7843320615_2_1_8.jpg?t=1694780342235&imwidth=850",
+    "shop": "pull & bear",
+    "era": "red",
+    "affLink": "https://sovrn.co/148vvo6"
+  },
+  {
+    "imageLink": "https://img1.shopcider.com/product/1685636020000-hGz3Qh.jpg?x-oss-process=image/resize,w_350,m_lfit/quality,Q_80/interlace,1",
+    "shop": "cider",
+    "era": "red",
+    "affLink": "https://sovrn.co/avdog4d"
+  },
+  {
+    "imageLink": "https://img1.shopcider.com/product/1652334251000-ZYZBGd.jpg?x-oss-process=image/resize,w_350,m_lfit/quality,Q_80/interlace,1",
+    "shop": "cider",
+    "era": "red",
+    "affLink": "https://sovrn.co/13d3vik"
+  },
+  {
+    "imageLink": "https://static.pullandbear.net/2/photos//2024/V/0/1/p/3555/309/712/3555309712_2_6_8.jpg?t=1699280560810&imwidth=375",
+    "shop": "pull & bear",
+    "era": "red",
+    "affLink": "https://sovrn.co/18g1sxy"
+  },
+  {
+    "imageLink": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F82%2Fc8%2F82c89953089efdbf20ceab750152a59301079657.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "shop": "h&m",
+    "era": 1989,
+    "affLink": "https://sovrn.co/2jhq82g"
+  },
+  {
+    "imageLink": "https://img1.shopcider.com/product/1679311286000-R6Ccis.jpg?x-oss-process=image/resize,w_350,m_lfit/quality,Q_80/interlace,1",
+    "shop": "cider",
+    "era": 1989,
+    "affLink": "https://sovrn.co/prumabp"
+  },
+  {
+    "imageLink": "https://static.pullandbear.net/2/photos//2023/I/0/1/p/7393/362/741/01/7393362741_2_1_8.jpg?t=1700648229308&imwidth=375",
+    "shop": "pull & bear",
+    "era": 1989,
+    "affLink": "https://sovrn.co/1hdpmnv"
+  },
+  {
+    "imageLink": "https://static.pullandbear.net/2/photos//2023/I/0/1/p/7395/386/808/13/7395386808_2_1_8.jpg?t=1699345814207&imwidth=850",
+    "shop": "pull & bear",
+    "era": 1989,
+    "affLink": "https://sovrn.co/wesyjef"
+  },
+  {
+    "imageLink": "https://static.pullandbear.net/2/photos//2023/I/0/1/p/7393/359/808/7393359808_2_1_8.jpg?t=1698762687534&imwidth=375",
+    "shop": "pull & bear",
+    "era": 1989,
+    "affLink": "https://sovrn.co/075k3ol"
+  },
+  {
+    "imageLink": "https://static.pullandbear.net/2/photos//2023/I/0/1/p/7473/459/611/7473459611_2_6_8.jpg?t=1695286625261&imwidth=375",
+    "shop": "pull & bear",
+    "era": 1989,
+    "affLink": "https://sovrn.co/bfwnh2m"
+  },
+  {
+    "imageLink": "https://static.pullandbear.net/2/photos//2023/I/0/1/p/7473/459/808/7473459808_2_6_8.jpg?t=1695286625430&imwidth=375",
+    "shop": "pull & bear",
+    "era": 1989,
+    "affLink": "https://sovrn.co/1oekmgw"
+  },
+  {
+    "imageLink": "https://ae01.alicdn.com/kf/Sf458e0c9698c4ad3a1bad8bf665366c2b/Nowy-1989-Taylor-sweter-zimowy-dziergany-sweter-damski-Femme-niebieski-ptak-szybki-sweter-Slouchy-styl-ubrania.jpg_.webp",
+    "shop": "aliexpress",
+    "era": 1989,
+    "affLink": "https://sovrn.co/s0ma3rp"
+  },
+  {
+    "imageLink": "https://ae01.alicdn.com/kf/Sc1a2ab55e3a8474fb3fceb7baa450faft/Plus-Size-Taylor-1989-nadrukowany-sweter-bluza-damska-odzie-Streetwear-na-jesie-i-zim-bluza-o.jpg_.webp",
+    "shop": "aliexpress",
+    "era": 1989,
+    "affLink": "https://sovrn.co/16x2uo6"
+  },
+  {
+    "imageLink": "https://img.ltwebstatic.com/images3_pi/2023/10/28/ef/16984726293af694f80bc5f85e696af97600340ff6_thumbnail_600x.webp",
+    "shop": "shein",
+    "era": 1989,
+    "affLink": "https://sovrn.co/16qg4bf"
+  },
+  {
+    "imageLink": "https://img.ltwebstatic.com/images3_pi/2023/09/06/1b/169396638281928b3c807795947aca3e3f76ee2384_thumbnail_220x293.webp",
+    "shop": "shein",
+    "era": 1989,
+    "affLink": "https://sovrn.co/n6sbngg"
+  },
+  {
+    "imageLink": "https://img1.shopcider.com/product/1683714394000-b7AM7W.jpg?x-oss-process=image/resize,w_350,m_lfit/quality,Q_80/interlace,1",
+    "shop": "cider",
+    "era": 1989,
+    "affLink": "https://sovrn.co/opck6p9"
+  },
+  {
+    "imageLink": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F2b%2Ff0%2F2bf0d1e9f257633f173d7d1a0c4bcff232f5587d.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+    "shop": "h&m",
+    "era": "reputation",
+    "affLink": "https://sovrn.co/ccrdlgd"
+  },
+  {
+    "imageLink": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F97%2F5c%2F975ce12a1b6b348fc583268d5f23aee1bd3bf799.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+    "shop": "h&m",
+    "era": "reputation",
+    "affLink": "https://sovrn.co/1po0hbe"
+  },
+  {
+    "imageLink": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fc1%2F3e%2Fc13e7dbc18e3235ba24a6ba3e50605e49b474db7.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "shop": "h&m",
+    "era": "reputation",
+    "affLink": "https://sovrn.co/whvbsgn"
+  },
+  {
+    "imageLink": "https://images.asos-media.com/products/asos-design-czarny-cekinowy-kombinezon-z-zabudowanym-dekoltem/204201908-1-black?$n_320w$&wid=317&fit=constrain",
+    "shop": "asos",
+    "era": "reputation",
+    "affLink": "https://sovrn.co/e8lrd96"
+  },
+  {
+    "imageLink": "https://img1.shopcider.com/product/1694518042000-xKJtzM.jpg?x-oss-process=image/resize,w_350,m_lfit/quality,Q_80/interlace,1",
+    "shop": "cider",
+    "era": "reputation",
+    "affLink": "https://sovrn.co/131v9sr"
+  },
+  {
+    "imageLink": "https://img1.shopcider.com/product/1697518344000-itRATj.jpg?x-oss-process=image/resize,w_350,m_lfit/quality,Q_80/interlace,1",
+    "shop": "cider",
+    "era": "reputation",
+    "affLink": "https://sovrn.co/tfv0ocw"
+  },
+  {
+    "imageLink": "https://images.asos-media.com/products/raga-natasha-czarna-lakierowana-spodnica-mini-z-imitacji-skory/203026781-1-black?$n_320w$&wid=317&fit=constrain",
+    "shop": "asos",
+    "era": "reputation",
+    "affLink": "https://sovrn.co/1ka199m"
+  },
+  {
+    "imageLink": "https://images.asos-media.com/products/bershka-czarna-braletka-z-imitacji-skory/205749496-2?$n_320w$&wid=317&fit=constrain",
+    "shop": "asos",
+    "era": "reputation",
+    "affLink": "https://sovrn.co/nusijqo"
+  },
+  {
+    "imageLink": "https://static.pullandbear.net/2/photos//2024/V/0/1/p/3390/302/808/02/3390302808_2_1_8.jpg?t=1700644258901&imwidth=375",
+    "shop": "pull & bear",
+    "era": "reputation",
+    "affLink": "https://sovrn.co/1ozgmez"
+  },
+  {
+    "imageLink": "https://static.pullandbear.net/2/photos//2023/I/0/1/p/7677/305/800/7677305800_2_6_8.jpg?t=1692691373224&imwidth=375",
+    "shop": "pull & bear",
+    "era": "reputation",
+    "affLink": "https://sovrn.co/16enjiv"
+  },
+  {
+    "imageLink": "https://static.pullandbear.net/2/photos//2023/I/0/1/p/7676/348/800/7676348800_2_6_8.jpg?t=1690376578954&imwidth=375",
+    "shop": "pull & bear",
+    "era": "reputation",
+    "affLink": "https://sovrn.co/hw1arql"
+  },
+  {
+    "imageLink": "https://static.pullandbear.net/2/photos//2023/I/0/1/p/7473/456/800/7473456800_2_6_8.jpg?t=1694013858538&imwidth=375",
+    "shop": "pull & bear",
+    "era": "reputation",
+    "affLink": "https://sovrn.co/1qqvhg2"
+  },
+  {
+    "imageLink": "https://ae01.alicdn.com/kf/S8c77b9d5b6c4459ab140edd197ff2d7bG/Taylor-Vintage-nadruk-gwiazdy-sweter-dziergany-kobiety-szybki-sweter-zapinana-d-ugi-p-aszcz-z-r.jpg_.webp",
+    "shop": "aliexpress",
+    "era": "reputation",
+    "affLink": "https://sovrn.co/lfwk1rj"
+  },
+  {
+    "imageLink": "https://img.ltwebstatic.com/images3_pi/2023/04/25/1682402559655b924827bba212fa5b6acda719f2eb_thumbnail_220x293.webp",
+    "shop": "shein",
+    "era": "reputation",
+    "affLink": "https://sovrn.co/163xchf"
+  },
+  {
+    "imageLink": "https://img.ltwebstatic.com/images3_pi/2022/12/27/167211863916c84595d656b67c3d7b34e09d6febd9_thumbnail_220x293.webp",
+    "shop": "shein",
+    "era": "reputation",
+    "affLink": "https://sovrn.co/6fdil71"
+  },
+  {
+    "imageLink": "https://img.ltwebstatic.com/images3_spmp/2023/05/26/168509218380c057f2a8d562322123b31c466683cd_thumbnail_220x293.webp",
+    "shop": "shein",
+    "era": "reputation",
+    "affLink": "https://sovrn.co/17kwjop"
+  },
+  {
+    "imageLink": "https://img.ltwebstatic.com/images3_spmp/2023/08/03/3b/1691047878c13cb6406c125e83286b9390888cadcd_thumbnail_220x293.webp",
+    "shop": "shein",
+    "era": "reputation",
+    "affLink": "https://sovrn.co/2ho65vj"
+  },
+  {
+    "imageLink": "https://img1.shopcider.com/product/1673865868000-xzmXYR.jpg?x-oss-process=image/resize,w_350,m_lfit/quality,Q_80/interlace,1",
+    "shop": "cider",
+    "era": "reputation",
+    "affLink": "https://sovrn.co/u2hhrup"
+  },
+  {
+    "imageLink": "https://images.asos-media.com/products/jaded-rose-sukienka-na-ramiaczkach-mini-z-cekinow/204228469-1-pinkandnude?$n_320w$&wid=317&fit=constrain",
+    "shop": "asos",
+    "era": "lover",
+    "affLink": "https://sovrn.co/1ms8nts"
+  },
+  {
+    "imageLink": "https://images.asos-media.com/products/collective-the-label-exclusive-pastelowa-warstwowa-sukienka-mini/203824347-1-pastelmix?$n_320w$&wid=317&fit=constrain",
+    "shop": "asos",
+    "era": "lover",
+    "affLink": "https://sovrn.co/1hn7z2o"
+  },
+  {
+    "imageLink": "https://images.asos-media.com/products/collective-the-label-exclusive-cekinowa-sukienka-mini-w-kolorze-szampana/203616799-1-softgold?$n_320w$&wid=317&fit=constrain",
+    "shop": "asos",
+    "era": "lover",
+    "affLink": "https://sovrn.co/quuh0nl"
+  },
+  {
+    "imageLink": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F1e%2Fab%2F1eabaf70b5395f05aa04e817304361ee648bba35.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+    "shop": "h&m",
+    "era": "lover",
+    "affLink": "https://sovrn.co/1el0w12"
+  },
+  {
+    "imageLink": "https://img1.shopcider.com/product/1697599622000-nNdP7n.jpg?x-oss-process=image/resize,w_350,m_lfit/quality,Q_80/interlace,1",
+    "shop": "cider",
+    "era": "lover",
+    "affLink": "https://sovrn.co/ar08rpb"
+  },
+  {
+    "imageLink": "https://static.pullandbear.net/2/photos//2023/I/0/1/p/3679/305/620/3679305620_2_6_8.jpg?t=1695227165414&imwidth=750",
+    "shop": "pull & bear",
+    "era": "lover",
+    "affLink": "https://sovrn.co/14mg2bq"
+  },
+  {
+    "imageLink": "https://static.pullandbear.net/2/photos//2023/I/0/1/p/7676/349/620/7676349620_2_6_8.jpg?t=1693571252678&imwidth=750",
+    "shop": "pull & bear",
+    "era": "lover",
+    "affLink": "https://sovrn.co/1ik99kk"
+  },
+  {
+    "imageLink": "https://img.ltwebstatic.com/images3_pi/2023/08/21/71/1692587212a47415cd42709cfe687100b7135e2afa_thumbnail_220x293.webp",
+    "shop": "shein",
+    "era": "lover",
+    "affLink": "https://sovrn.co/1gnczxi"
+  },
+  {
+    "imageLink": "https://img.ltwebstatic.com/images3_pi/2023/04/14/1681468387c00f6c63011da14242a4ec94d3049305_thumbnail_600x.webp",
+    "shop": "shein",
+    "era": "lover",
+    "affLink": "https://sovrn.co/15dvsel"
+  },
+  {
+    "imageLink": "https://img.ltwebstatic.com/images3_spmp/2023/07/01/168819810909676069640285b40aab1464460444b1_thumbnail_220x293.webp",
+    "shop": "shein",
+    "era": "lover",
+    "affLink": "https://sovrn.co/1o36vtf"
+  },
+  {
+    "imageLink": "https://img1.shopcider.com/product/1652882739000-SMwGGP.jpg?x-oss-process=image/resize,w_350,m_lfit/quality,Q_80/interlace,1",
+    "shop": "cider",
+    "era": "folklore",
+    "affLink": "https://sovrn.co/10i60cj"
+  },
+  {
+    "imageLink": "https://img1.shopcider.com/product/1693396172000-ZppeSH.jpg?x-oss-process=image/resize,w_350,m_lfit/quality,Q_80/interlace,1",
+    "shop": "cider",
+    "era": "folklore",
+    "affLink": "https://sovrn.co/1m759el"
+  },
+  {
+    "imageLink": "https://img1.shopcider.com/product/1665477191000-nGBnZm.jpg?x-oss-process=image/resize,w_350,m_lfit/quality,Q_80/interlace,1",
+    "shop": "cider",
+    "era": "folklore",
+    "affLink": "https://sovrn.co/p2q8bhm"
+  },
+  {
+    "imageLink": "https://static.pullandbear.net/2/photos//2023/I/0/1/p/7242/398/511/7242398511_2_6_8.jpg?t=1686150939455&imwidth=375",
+    "shop": "pull & bear",
+    "era": "folklore",
+    "affLink": "https://sovrn.co/1ott0g3"
+  },
+  {
+    "imageLink": "https://static.pullandbear.net/2/photos//2023/I/0/1/p/8474/301/500/8474301500_2_6_8.jpg?t=1685711062157&imwidth=375",
+    "shop": "pull & bear",
+    "era": "folklore",
+    "affLink": "https://sovrn.co/rcwdwjw"
+  },
+  {
+    "imageLink": "https://img.ltwebstatic.com/images3_pi/2023/10/26/33/16983116389654526fb64af1173c9f3bcf6005e902_thumbnail_220x293.webp",
+    "shop": "shein",
+    "era": "folklore",
+    "affLink": "https://sovrn.co/1lnptml"
+  },
+  {
+    "imageLink": "https://img.ltwebstatic.com/images3_pi/2023/05/31/1685505191ed2c10b09c3470e755499f8eecab3e12_thumbnail_600x.webp",
+    "shop": "shein",
+    "era": "folklore",
+    "affLink": "https://sovrn.co/v31o6h3"
+  },
+  {
+    "imageLink": "https://img.ltwebstatic.com/images3_pi/2023/11/06/e7/1699267038f64aa32f6d64983167fc25f6d480aa3e_thumbnail_220x293.webp",
+    "shop": "shein",
+    "era": "folklore",
+    "affLink": "https://sovrn.co/y6rcofz"
+  },
+  {
+    "imageLink": "https://img.ltwebstatic.com/images3_pi/2023/03/08/1678261689cc868f947eb2ba13dab254cf4db62cdd_thumbnail_220x293.webp",
+    "shop": "shein",
+    "era": "folklore",
+    "affLink": "https://sovrn.co/189aqn8"
+  },
+  {
+    "imageLink": "https://ae01.alicdn.com/kf/S31ea2ae28aa3471e942f624a1ae7bad7r/Zimowa-lu-ne-koszule-bez-guzik-w-damska-gwiazda-haftowana-Tay-Vintage-Y2K-Streetwear-z-d.jpg_640x640.jpg_.webp",
+    "shop": "aliexpress",
+    "era": "folklore",
+    "affLink": "https://sovrn.co/1l42j5c"
+  },
+  {
+    "imageLink": "https://img1.shopcider.com/product/1681197152000-h4rsPp.jpg?x-oss-process=image/resize,w_350,m_lfit/quality,Q_80/interlace,1",
+    "shop": "cider",
+    "era": "folklore",
+    "affLink": "https://sovrn.co/vybr332"
+  },
+  {
+    "imageLink": "https://img.shopcider.com/hermes/posting/1659093774000-e6e6ck.jpg?x-oss-process=image/resize,w_350,m_lfit/quality,Q_80/interlace,1",
+    "shop": "cider",
+    "era": "folklore",
+    "affLink": "https://sovrn.co/myqq3hf"
+  },
+  {
+    "imageLink": "https://img1.shopcider.com/product/1684754733000-yna4ES.jpg?x-oss-process=image/resize,w_350,m_lfit/quality,Q_80/interlace,1",
+    "shop": "cider",
+    "era": "folklore",
+    "affLink": "https://sovrn.co/vfkkmgy"
+  },
+  {
+    "imageLink": "https://images.asos-media.com/products/heartbreak-brazowa-dopasowana-spodnica-mini-w-krate/203523795-4?$n_320w$&wid=317&fit=constrain",
+    "shop": "asos",
+    "era": "evermore",
+    "affLink": "https://sovrn.co/86bgq6k"
+  },
+  {
+    "imageLink": "https://static.pullandbear.net/2/photos//2023/I/0/1/p/3679/401/717/3679401717_2_6_8.jpg?t=1700568196982&imwidth=850",
+    "shop": "pull & bear",
+    "era": "evermore",
+    "affLink": "https://sovrn.co/1858bza"
+  },
+  {
+    "imageLink": "https://static.pullandbear.net/2/photos//2023/I/0/1/p/7473/332/700/7473332700_2_6_8.jpg?t=1683211706661&imwidth=850",
+    "shop": "pull & bear",
+    "era": "evermore",
+    "affLink": "https://sovrn.co/4kukoc8"
+  },
+  {
+    "imageLink": "https://static.pullandbear.net/2/photos//2023/I/0/1/p/7676/325/700/7676325700_2_6_8.jpg?t=1689246729156&imwidth=850",
+    "shop": "pull & bear",
+    "era": "evermore",
+    "affLink": "https://sovrn.co/wn8zfkl"
+  },
+  {
+    "imageLink": "https://static.pullandbear.net/2/photos//2023/I/0/1/p/7245/307/700/7245307700_2_6_8.jpg?t=1687258070730&imwidth=375",
+    "shop": "pull & bear",
+    "era": "evermore",
+    "affLink": "https://sovrn.co/19vksqg"
+  },
+  {
+    "imageLink": "https://static.pullandbear.net/2/photos//2023/I/0/1/p/7245/305/020/7245305020_2_6_8.jpg?t=1689846035537&imwidth=375",
+    "shop": "pull & bear",
+    "era": "evermore",
+    "affLink": "https://sovrn.co/1n10o2m"
+  },
+  {
+    "imageLink": "https://static.pullandbear.net/2/photos//2023/I/0/1/p/7555/377/502/7555377502_2_6_8.jpg?t=1694691432687&imwidth=375",
+    "shop": "pull & bear",
+    "era": "evermore",
+    "affLink": "https://sovrn.co/1pmsukz"
+  },
+  {
+    "imageLink": "https://static.pullandbear.net/2/photos//2023/I/0/1/p/7844/300/800/02/7844300800_2_1_8.jpg?t=1694104214207&imwidth=375",
+    "shop": "pull & bear",
+    "era": "evermore",
+    "affLink": "https://sovrn.co/19t7812"
+  },
+  {
+    "imageLink": "https://static.pullandbear.net/2/photos//2023/I/0/1/p/7844/305/800/7844305800_2_1_8.jpg?t=1695378445509&imwidth=850",
+    "shop": "pull & bear",
+    "era": "evermore",
+    "affLink": "https://sovrn.co/sw516qh"
+  },
+  {
+    "imageLink": "https://img1.shopcider.com/product/1686582631000-5bbKbE.jpg?x-oss-process=image/resize,w_350,m_lfit/quality,Q_80/interlace,1",
+    "shop": "cider",
+    "era": "evermore",
+    "affLink": "https://sovrn.co/ls4zrro"
+  },
+  {
+    "imageLink": "https://static.pullandbear.net/2/photos//2023/I/0/1/p/7676/348/700/7676348700_2_6_8.jpg?t=1693813550648&imwidth=375",
+    "shop": "pull & bear",
+    "era": "evermore",
+    "affLink": "https://sovrn.co/1k72v2i"
+  },
+  {
+    "imageLink": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Ff9%2F20%2Ff9203dab88595dad416575d9dafc5034c5386743.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B3%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+    "shop": "h&m",
+    "era": "midnights",
+    "affLink": "https://sovrn.co/xqpk9cu"
+  },
+  {
+    "imageLink": "https://img1.shopcider.com/product/1688050443000-iFeGYR.jpg?x-oss-process=image/resize,w_350,m_lfit/quality,Q_80/interlace,1",
+    "shop": "cider",
+    "era": "midnights",
+    "affLink": "https://sovrn.co/z3k0f48"
+  },
+  {
+    "imageLink": "https://img1.shopcider.com/product/1678087096000-XFScYh.jpg?x-oss-process=image/resize,w_350,m_lfit/quality,Q_80/interlace,1",
+    "shop": "cider",
+    "era": "midnights",
+    "affLink": "https://sovrn.co/1apg0ym"
+  },
+  {
+    "imageLink": "https://img.ltwebstatic.com/images3_pi/2023/10/14/94/1697272545f0efbeae5f6b5706ca26d06217ff7a88_thumbnail_220x293.webp",
+    "shop": "shein",
+    "era": "midnights",
+    "affLink": "https://sovrn.co/13tjvso"
+  },
+  {
+    "imageLink": "https://img.ltwebstatic.com/images3_pi/2023/09/25/16/1695621331f155263bb9323776bdcf5dec71ee5fb8_thumbnail_220x293.webp",
+    "shop": "shein",
+    "era": "midnights",
+    "affLink": "https://sovrn.co/i5rsax3"
+  },
+  {
+    "imageLink": "https://img1.shopcider.com/product/1689667235000-5yKeYt.jpg?x-oss-process=image/resize,w_350,m_lfit/quality,Q_80/interlace,1",
+    "shop": "cider",
+    "era": "midnights",
+    "affLink": "https://sovrn.co/84r2nvr"
+  },
+  {
+    "imageLink": "https://static.pullandbear.net/2/photos//2023/I/0/1/p/7676/384/851/7676384851_2_6_8.jpg?t=1695367529476&imwidth=375",
+    "shop": "pull & bear",
+    "era": "midnights",
+    "affLink": "https://sovrn.co/0v1k4vw"
+  },
+  {
+    "imageLink": "https://static.pullandbear.net/2/photos//2024/V/0/1/p/3241/383/800/3241383800_2_6_8.jpg?t=1700138517215&imwidth=375",
+    "shop": "pull & bear",
+    "era": "midnights",
+    "affLink": "https://sovrn.co/2ask79z"
+  },
+  {
+    "imageLink": "https://static.pullandbear.net/2/photos//2023/I/0/1/p/7393/359/490/7393359490_2_6_8.jpg?t=1696935329259&imwidth=375",
+    "shop": "pull & bear",
+    "era": "midnights",
+    "affLink": "https://sovrn.co/eof0j00"
+  },
+  {
+    "imageLink": "https://static.pullandbear.net/2/photos//2023/I/0/1/p/7393/460/800/7393460800_2_6_8.jpg?t=1699532807534&imwidth=375",
+    "shop": "pull & bear",
+    "era": "midnights",
+    "affLink": "https://sovrn.co/1cm94qc"
+  },
+  {
+    "imageLink": "https://static.pullandbear.net/2/photos//2023/I/0/1/p/7250/362/808/7250362808_2_6_8.jpg?t=1698336495002&imwidth=375",
+    "shop": "pull & bear",
+    "era": "midnights",
+    "affLink": "https://sovrn.co/1qja82r"
+  },
+  {
+    "imageLink": "https://static.pullandbear.net/2/photos//2023/I/0/1/p/7677/319/707/7677319707_2_6_8.jpg?t=1699544436113&imwidth=375",
+    "shop": "pull & bear",
+    "era": "midnights",
+    "affLink": "https://sovrn.co/ti0n2f2"
+  },
+  {
+    "imageLink": "https://img1.shopcider.com/product/1685014906000-GHHdpB.jpg?x-oss-process=image/resize,w_350,m_lfit/quality,Q_80/interlace,1",
+    "shop": "cider",
+    "era": "midnights",
+    "affLink": "https://sovrn.co/1o8hntc"
+  },
+  {
+    "imageLink": "https://cdn.aboutstatic.com/file/images/41bbd782dc76e956a635a8490662fa61.jpg?brightness=0.96&quality=75&trim=1&height=1280&width=960",
+    "shop": "about you",
+    "era": "ts",
+    "affLink": "https://sovrn.co/1008y9m"
+  },
+  {
+    "imageLink": "https://cdn.aboutstatic.com/file/images/68d67709cbcd38060daea6340b2a3e51.jpg?brightness=0.96&quality=75&trim=1&height=1280&width=960",
+    "shop": "about you",
+    "era": "fl",
+    "affLink": "https://sovrn.co/3ckjxzp"
+  },
+  {
+    "imageLink": "https://cdn.aboutstatic.com/file/images/24eb7c619dbfe9fa3c0ea6f5c5c98908.jpg?brightness=0.96&quality=75&trim=1&height=1280&width=960",
+    "shop": "about you",
+    "era": "red",
+    "affLink": "https://sovrn.co/1m1mmtm"
+  },
+  {
+    "imageLink": "https://cdn.aboutstatic.com/file/images/6756581a6f68260d0ae0437c9e9e0778.jpg?brightness=0.96&quality=75&trim=1&height=1280&width=960",
+    "shop": "about you",
+    "era": "red",
+    "affLink": "https://sovrn.co/l3alb4a"
+  },
+  {
+    "imageLink": "https://cdn.aboutstatic.com/file/images/e0e185f8311151044a871f604c95222f.png?bg=F4F4F5&quality=75&trim=1&height=1280&width=960",
+    "shop": "about you",
+    "era": "folklore",
+    "affLink": "https://sovrn.co/1ijr43t"
+  },
+  {
+    "imageLink": "https://cdn.aboutstatic.com/file/images/49e4e65e9d455bcbd159151c1f1db66c.jpg?brightness=0.96&quality=75&trim=1&height=1280&width=960",
+    "shop": "about you",
+    "era": "evermore",
+    "affLink": "https://sovrn.co/pamet6t"
+  },
+  {
+    "imageLink": "https://cdn.aboutstatic.com/file/images/11e0c56d5583b3469435ab463ccffad7.jpg?brightness=0.96&quality=75&trim=1&height=1280&width=960",
+    "shop": "about you",
+    "era": "evermore",
+    "affLink": "https://sovrn.co/1dyy6fr"
+  },
+  {
+    "imageLink": "https://cdn.aboutstatic.com/file/images/bb5ba3dd5bc0fef3c6cc36d3e46ea5f6.jpg?brightness=0.96&quality=75&trim=1&height=1280&width=960",
+    "shop": "about you",
+    "era": "evermore",
+    "affLink": "https://sovrn.co/c9pbwib"
+  },
+  {
+    "imageLink": "https://cdn.aboutstatic.com/file/images/0c94b98c3f338b51590e55483597b2b3.jpg?brightness=0.96&quality=75&trim=1&height=1280&width=960",
+    "shop": "about you",
+    "era": "evermore",
+    "affLink": "https://sovrn.co/16o22b3"
+  },
+  {
+    "imageLink": "https://cdn.aboutstatic.com/file/images/c09b000a43824123febb431dc3da9588.png?bg=F4F4F5&quality=75&trim=1&height=1280&width=960",
+    "shop": "about you",
+    "era": "midnights",
+    "affLink": "https://sovrn.co/yczivyc"
+  },
+  {
+    "imageLink": "https://cdn.aboutstatic.com/file/images/45e52c68757f9e54632817e99f8a7f72.jpg?brightness=0.96&quality=75&trim=1&height=1280&width=960",
+    "shop": "about you",
+    "era": "midnights",
+    "affLink": "https://sovrn.co/utzxerv"
+  },
+  {
+    "imageLink": "https://cdn.aboutstatic.com/file/images/e57ba19ed016151b9c67d69a2571a285.jpg?brightness=0.96&quality=75&trim=1&height=1280&width=960",
+    "shop": "about you",
+    "era": "midnights",
+    "affLink": "https://sovrn.co/1f19ywl"
+  },
+  {
+    "imageLink": "https://i.etsystatic.com/43720120/r/il/9594ba/5595826263/il_1588xN.5595826263_fuqp.jpg",
+    "shop": "etsy",
+    "era": "cardigan",
+    "affLink": "https://sovrn.co/7nnbc2t"
+  },
+  {
+    "imageLink": "https://img1.shopcider.com/product/1693396172000-ZppeSH.jpg?x-oss-process=image/resize,w_350,m_lfit/quality,Q_80/interlace,1",
+    "shop": "cider",
+    "era": "cardigan",
+    "affLink": "https://sovrn.co/1j4cqol"
+  },
+  {
+    "imageLink": "https://img1.shopcider.com/product/1665477191000-nGBnZm.jpg?x-oss-process=image/resize,w_350,m_lfit/quality,Q_80/interlace,1",
+    "shop": "cider",
+    "era": "cardigan",
+    "affLink": "https://sovrn.co/5ho1lri"
+  },
+  {
+    "imageLink": "https://img1.shopcider.com/product/1652882739000-SMwGGP.jpg?x-oss-process=image/resize,w_350,m_lfit/quality,Q_80/interlace,1",
+    "shop": "cider",
+    "era": "cardigan",
+    "affLink": "https://sovrn.co/1ln52mc"
+  },
+  {
+    "imageLink": "https://i.etsystatic.com/26724259/r/il/6dd51e/5397229363/il_1588xN.5397229363_ao2w.jpg",
+    "shop": "etsy",
+    "era": "cardigan",
+    "affLink": "https://sovrn.co/1bpeklb"
+  },
+  {
+    "imageLink": "https://img.ltwebstatic.com/images3_pi/2023/11/04/08/16990748215d53fb2fb5ba0e1f69ad3b1822211bf2_thumbnail_600x.webp",
+    "shop": "shein",
+    "era": "cardigan",
+    "affLink": "https://sovrn.co/rs4rvuo"
+  },
+  {
+    "imageLink": "https://img.ltwebstatic.com/images3_pi/2023/07/07/16886969000e114c0faec71c7a7a5670b29ed5b4dc_thumbnail_600x.webp",
+    "shop": "shein",
+    "era": "cardigan",
+    "affLink": "https://sovrn.co/1krsnr4"
+  },
+  {
+    "imageLink": "https://ae01.alicdn.com/kf/Sf458e0c9698c4ad3a1bad8bf665366c2b/Nowy-1989-Taylor-sweter-zimowy-dziergany-sweter-damski-Femme-niebieski-ptak-szybki-sweter-Slouchy-styl-ubrania.jpg_.webp",
+    "shop": "aliexpress",
+    "era": "cardigan",
+    "affLink": "https://sovrn.co/s0ma3rp"
+  },
+  {
+    "imageLink": "https://ae01.alicdn.com/kf/S8c77b9d5b6c4459ab140edd197ff2d7bG/Taylor-Vintage-nadruk-gwiazdy-sweter-dziergany-kobiety-szybki-sweter-zapinana-d-ugi-p-aszcz-z-r.jpg_.webp",
+    "shop": "aliexpress",
+    "era": "cardigan",
+    "affLink": "https://sovrn.co/lfwk1rj"
+  },
+  {
+    "imageLink": "https://ae01.alicdn.com/kf/S31ea2ae28aa3471e942f624a1ae7bad7r/Zimowa-lu-ne-koszule-bez-guzik-w-damska-gwiazda-haftowana-Tay-Vintage-Y2K-Streetwear-z-d.jpg_640x640.jpg_.webp",
+    "shop": "aliexpress",
+    "era": "cardigan",
+    "affLink": "https://sovrn.co/1l42j5c"
+  }
+]

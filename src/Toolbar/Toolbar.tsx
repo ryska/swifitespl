@@ -14,7 +14,6 @@ const Toolbar = () => {
         <Link className='toolbarlink' to="/events">WYDARZENIA</Link>
         <span className='eraslink'>
           <Link className='toolbarlink' to="eras">ERAS</Link>
-          {/* <div className='eraslistwrapper'> */}
           <div className='eraslist'>
             <span className='midnights'>
               <Link to="/eras/midnights">Midnights</Link>
@@ -47,9 +46,18 @@ const Toolbar = () => {
               <Link to="/eras/taylor-swift">Taylor Swift</Link>
             </span>
           </div>
-          {/* </div> */}
         </span>
-        <Link className='toolbarlink' to="/artists">ARTYŚCI</Link>
+        <span className='eraslink'>
+          <Link className='toolbarlink' to="custom-merch">CUSTOM&nbsp;MERCH</Link>
+          <div className='eraslist'>
+            <span className='midnights'>
+              <Link to="/custom-merch/fan-art">Fan art</Link>
+            </span>
+            <span className='midnights'>
+              <Link to="/custom-merch/cardigans">Cardigans</Link>
+            </span>
+          </div>
+        </span>
       </div >
     </div >
   );

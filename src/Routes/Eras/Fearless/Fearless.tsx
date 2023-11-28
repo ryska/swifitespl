@@ -5,7 +5,7 @@ import { useMemo } from 'react';
 
 const Fearless = () => {
 
-    const list = useMemo(() => items.filter((item) => item.era === 'fl'), []);
+    const list = useMemo(() => items.filter((item) => item.era === 'fless'), []);
 
     return (<div className="eras">
         <div className="eras-wrapper">

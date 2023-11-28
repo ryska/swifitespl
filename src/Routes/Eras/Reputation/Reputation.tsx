@@ -5,7 +5,7 @@ import { useMemo } from 'react';
 
 const Reputation = () => {
 
-    const list = useMemo(() => items.filter((item) => item.era === 'rep'), []);
+    const list = useMemo(() => items.filter((item) => item.era === 'reputation'), []);
 
     return (<div className="eras">
         <div className="eras-wrapper">

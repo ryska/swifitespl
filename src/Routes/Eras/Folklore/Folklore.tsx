@@ -5,7 +5,7 @@ import { useMemo } from 'react';
 
 const Folklore = () => {
 
-    const list = useMemo(() => items.filter((item) => item.era === 'fol'), []);
+    const list = useMemo(() => items.filter((item) => item.era === 'folklore'), []);
 
     return (<div className="eras">
         <div className="eras-wrapper">

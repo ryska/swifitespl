@@ -3,11 +3,10 @@ import './Artists.scss';
 
 const Artists = () => {
     return (<div className="artists">
-        {/* <Toolbar /> */}
         <div className="wrapper">
 
             <div className="artistswrapper">
-                <p>Jeszcze nic tu nie ma! Jeśli jesteś artystką i chcesz się tu zareklamować, napisz na <a href="mailto:thepolishswiftie@gmail.com">thepolishswiftie@gmail.com</a> 🌸</p>
+                <p>Jeszcze nic tu nie ma! Jeśli jesteś artyst(k)ą i chcesz się tu zareklamować, napisz na <a href="mailto:thepolishswiftie@gmail.com">thepolishswiftie@gmail.com</a> 🌸</p>
             </div>
         </div>
     </div>)

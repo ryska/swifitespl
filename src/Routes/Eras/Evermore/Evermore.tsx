@@ -5,7 +5,7 @@ import { useEffect, useMemo } from 'react';
 
 const Evermore = () => {
 
-    const list = useMemo(() => items.filter((item) => item.era === 'em'), []);
+    const list = useMemo(() => items.filter((item) => item.era === 'evermore'), []);
 
     return (<div className="eras">
         <div className="eras-wrapper">

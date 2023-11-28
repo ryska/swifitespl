@@ -5,7 +5,7 @@ import { useMemo } from 'react';
 
 const NEN = () => {
 
-    const list = useMemo(() => items.filter((item) => item.era === 'nen'), []);
+    const list = useMemo(() => items.filter((item) => item.era == '1989'), []);
 
     return (<div className="eras">
         <div className="eras-wrapper">

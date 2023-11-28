@@ -17,6 +17,7 @@ import Red from './Routes/Eras/Red/Red';
 import SpeakNow from './Routes/Eras/SpeakNow/SpeakNow';
 import Fearless from './Routes/Eras/Fearless/Fearless';
 import TaylorSwift from './Routes/Eras/TaylorSwift/TaylorSwift';
+import Cardigans from './Routes/Cardigans/Cardigans';
 
 function App() {
   return (
@@ -39,7 +40,9 @@ function App() {
             <Route path="/eras/speak-now" element={<SpeakNow />} />
             <Route path="/eras/fearless" element={<Fearless />} />
             <Route path="/eras/taylor-swift" element={<TaylorSwift />} />
-            <Route path="/artists" element={<Artists />} />
+            <Route path="/custom-merch" element={<Artists />} />
+            <Route path="/custom-merch/fan-art" element={<Artists />} />
+            <Route path="/custom-merch/cardigans" element={<Cardigans />} />
           </Routes>
         </div>
         <Footer />
