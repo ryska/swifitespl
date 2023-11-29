@@ -1,7 +1,6 @@
-.artists {
+.wwm {
     .wrapper {
         height: 100%;
-        width: 100%;
         display: flex;
         align-items: center;
         justify-content: center;
@@ -9,7 +8,7 @@
         filter: drop-shadow(0 10px 8px rgb(0 0 0 / 0.04)) drop-shadow(0 4px 3px rgb(0 0 0 / 0.1));
     }
 
-    .artistswrapper {
+    .contentWrapper {
         padding: 20px;
         background-color: #947b9a;
         max-width: 80%;

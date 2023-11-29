@@ -1,0 +1,34 @@
+[
+    {
+        "id": "all",
+        "label": "wszystkie produkty"
+    },
+    {
+        "id": "fanmade",
+        "label": "✨made by fans✨"
+    },
+    {
+        "id": "clothes",
+        "label": "ubrania"
+    },
+    {
+        "id": "cardigans",
+        "label": "kardigany"
+    },
+    {
+        "id": "bracelets",
+        "label": "friendship bracelets"
+    },
+    {
+        "id": "xmas",
+        "label": "świąteczne"
+    },
+    {
+        "id": "music",
+        "label": "muzyka"
+    },
+    {
+        "id": "custom",
+        "label": "custom merch 💅🏻"
+    }
+]

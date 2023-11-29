@@ -1,0 +1,60 @@
+$ts: #b9d2b5;
+$fless: #f4cb8d;
+$sn: #d1b2d2;
+$red: #823549;
+$nen: #b5e9f6;
+$rep: #847e80;
+$lover: #f9b2d0;
+$flore: #cfcac6;
+$em: #c8ae95;
+$mn: #434961;
+
+.topbar {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px;
+
+    .era {
+        background-color: #4d434e;
+        text-transform: uppercase;
+        font-weight: 600;
+        color: #fff;
+        padding: 6px 16px;
+        border-radius: 20px;
+        margin: 4px 6px;
+        cursor: pointer;
+
+        &.selected {
+            &.TS {
+                background-color: $ts;
+            }
+            &.FEARLESS {
+                background-color: $fless
+            }
+            &.SPEAKNOW {
+                background-color: $sn;
+            }
+            &.RED {
+                background-color: $red;
+            }
+            &.NEN {
+                background-color: $nen;
+            }
+            &.REP {
+                background-color: $rep;
+            }
+            &.LOVER {
+                background-color: $lover;
+            }
+            &.FOLKLORE {
+                background-color: $flore;
+            }
+            &.EVERMORE {
+                background-color: $em;
+            }
+            &.MIDNIGHTS {
+                background-color: $mn;
+            }
+        }
+    }
+}

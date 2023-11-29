@@ -1,0 +1,28 @@
+.sidebar {
+    min-width: 280px;
+    display: flex;
+    flex-direction: column;
+    background-color: #947b9a;
+
+    .sidebar-item {
+        display: flex;
+        align-items: center;
+        justify-content: flex-start;
+        color: #fff;
+        text-transform: uppercase;
+        padding: 16px 20px;
+        cursor: pointer;
+        font-weight: 500;
+        font-size: 18px;
+
+
+        &:hover {
+            font-weight: 700;
+        }
+
+        &.active {
+            background-color: #bea7c4;
+            font-weight: 700;
+        }
+    }
+}

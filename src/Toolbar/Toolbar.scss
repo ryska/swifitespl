@@ -31,6 +31,13 @@
     }
 }
 
+.toolbar .logopic a {
+    display: flex;
+    align-items: center;
+    font-size: 24px;
+    font-weight: 800;
+}
+
 .toolbar .logopic img {
     width: 40px;
     height: 40px;
@@ -42,10 +49,17 @@
 }
 
 .toolbar .toolbarlink {
-    background-color: #e8c490;
-    border-radius: 12px;
-    color: #464d60;
-    font-weight: 500;
+    color: rgba(#fff, 0.7);
+    text-transform: uppercase;
+    font-weight: 800;
+
+    &.active {
+        color: rgba(#fff, 1);
+    }
+
+    &:hover {
+        color: rgba(#fff, 1);
+    }
 
     @media (max-width: 600px) {}
 }
@@ -59,6 +73,8 @@
     padding: 10px 20px;
     margin: 0 4px;
     font-size: 16px;
+    text-transform: uppercase;
+    color: rgba(#fff, 0.7);
 
     @media (max-width: 600px) {
         padding: 10px;
@@ -109,7 +125,7 @@
     // padding-top: 50px;
 }
 
-.toolbar .midnights  a,
+.toolbar .midnights a,
 .toolbar .evermore a,
 .toolbar .folklore a,
 .toolbar .lover a,

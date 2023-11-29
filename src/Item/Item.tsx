@@ -12,7 +12,6 @@ interface ItemProps {
 }   
 
 const Item: FC<ItemProps> = ({ shop, imageLink, era, affLink }) => {
-
     return (
         <div className="item p-8">
             <div className='item-content'>
