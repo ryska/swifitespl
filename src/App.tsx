@@ -19,6 +19,7 @@ import Fearless from './Routes/Eras/Fearless/Fearless';
 import TaylorSwift from './Routes/Eras/TaylorSwift/TaylorSwift';
 import Cardigans from './Routes/Cardigans/Cardigans';
 import Other from './Routes/Other/Other';
+import Bracelets from './Routes/Bracelets/Bracelets';
 
 function App() {
   return (
@@ -44,6 +45,7 @@ function App() {
             <Route path-exact path="/custom-merch/fan-art" element={<Artists />} />
             <Route path-exact path="/custom-merch/cardigans" element={<Cardigans />} />
             <Route path-exact path="/custom-merch/other" element={<Other />} />
+            <Route path-exact path="/custom-merch/bracelets" element={<Bracelets />} />
             <Route path-exact path="/" element={<Home />} />
           </Routes>
         </div>

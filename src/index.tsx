@@ -4,14 +4,15 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import { BrowserRouter } from 'react-router-dom';
+import { HashRouter as Router } from 'react-router-dom';
 
 const rootElement = document.getElementById("root");
 if (rootElement) {
   ReactDOM.createRoot(rootElement).render(
       <React.StrictMode>
-          <BrowserRouter basename="/">
+          <Router basename="/">
               <App />
-          </BrowserRouter>
+          </Router>
       </React.StrictMode>
   );
 }
