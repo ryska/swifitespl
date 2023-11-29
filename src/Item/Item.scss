@@ -9,6 +9,10 @@
     border-radius: 20px;
     flex-direction: column;
     filter: drop-shadow(0 10px 8px rgb(0 0 0 / 0.04)) drop-shadow(0 4px 3px rgb(0 0 0 / 0.1));
+    @media (max-width: 600px) {
+        min-width: 130px;
+
+    }
 
     .item-content {
         width: 180px;
@@ -16,6 +20,10 @@
         margin: 20px 20px 10px 20px;
         border-radius: 10px;
         overflow: hidden;
+        @media (max-width: 600px) {
+            width: 110px;
+            margin: 10px;
+        }
     }
 
     .item-a {

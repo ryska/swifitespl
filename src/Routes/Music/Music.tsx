@@ -4,7 +4,7 @@ import items from '../../data/data.json';
 import { useMemo } from 'react';
 
 const Music = () => {
-    const list = useMemo(() => items.filter((item) => item.type === 'vinyl'), []);
+    const list = useMemo(() => items.filter((item) => item.type === 'music'), []);
 
     return (<div className="music">
         <div className="wrapper">
