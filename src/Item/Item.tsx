@@ -6,6 +6,7 @@ interface ItemProps {
     imageLink: string;
     imageId?: string;
     era?: string;
+    type?: string;
     affLink: string;
     link?: string;
 }   

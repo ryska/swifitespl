@@ -48,7 +48,7 @@ const Toolbar = () => {
           </div>
         </span>
         <span className='eraslink'>
-          <Link className='toolbarlink' to="custom-merch">CUSTOM&nbsp;MERCH</Link>
+          <Link className='toolbarlink' to="custom-merch">PRODUKTY</Link>
           <div className='eraslist'>
             <span className='midnights'>
               <Link to="/custom-merch/fan-art">Fan art</Link>
@@ -58,6 +58,12 @@ const Toolbar = () => {
             </span>
             <span className='midnights'>
               <Link to="/custom-merch/bracelets">Friendship bracelets</Link>
+            </span>
+            <span className='midnights'>
+              <Link to="/custom-merch/xmas">Świąteczne</Link>
+            </span>
+            <span className='midnights'>
+              <Link to="/custom-merch/music">Muzyka</Link>
             </span>
             <span className='midnights'>
               <Link to="/custom-merch/other">Inne</Link>

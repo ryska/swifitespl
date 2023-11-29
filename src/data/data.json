@@ -1022,5 +1022,189 @@
     "shop": "amazon",
     "era": "bracelet",
     "affLink": "https://www.amazon.pl/s?k=koraliki+do+bransoletek&amp;crid=2JFA05FGGWAGW&amp;sprefix=koraliki%252Caps%252C125&amp;ref=nb_sb_ss_ts-doa-p_1_8&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=cd9a3e1306915ff9eae2d9b0807e29d8&camp=247&creative=1211"
+  },
+  {
+    "link": "https://www.amazon.pl/Folklore-Taylor-Swift/dp/B08DSS7Y2M/ref=sr_1_1?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2Z2GQ0G6VHM3K&keywords=taylor+swift+vinyl&qid=1701256028&sprefix=taylor+swift+vinyl+%2Caps%2C135&sr=8-1",
+    "imageLink": "https://m.media-amazon.com/images/I/61aCZ-+3EhL._AC_SX679_.jpg",
+    "shop": "amazon",
+    "type": "vinyl",
+    "era": "folklore",
+    "affLink": "https://www.amazon.pl/Folklore-Taylor-Swift/dp/B08DSS7Y2M/ref=sr_1_1?__mk_pl_PL=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;crid=2Z2GQ0G6VHM3K&amp;keywords=taylor+swift+vinyl&amp;qid=1701256028&amp;sprefix=taylor+swift+vinyl+%252Caps%252C135&amp;sr=8-1&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=d0d2d7f058d7bbc317cdbf79445ca752&camp=247&creative=1211"
+  },
+  {
+    "link": "https://www.amazon.pl/Lover-Taylor-Swift/dp/B07YMFX3DZ/ref=pd_sim_sccl_2_2/261-7601315-0838420?pd_rd_w=9cH0u&content-id=amzn1.sym.b4c57fe5-9080-4ff8-82e2-114bb6ad9047&pf_rd_p=b4c57fe5-9080-4ff8-82e2-114bb6ad9047&pf_rd_r=8SGHTEBX9ATY8NNAW0WY&pd_rd_wg=aRod2&pd_rd_r=27a26f7e-bf9a-451c-bae8-892b0cca4333&pd_rd_i=B07YMFX3DZ&psc=1",
+    "imageLink": "https://m.media-amazon.com/images/I/61lmEXicYUL._AC_SX679_.jpg",
+    "shop": "amazon",
+    "type": "vinyl",
+    "era": "lover",
+    "affLink": "https://www.amazon.pl/Lover-Taylor-Swift/dp/B07YMFX3DZ/ref=pd_sim_sccl_2_2/261-7601315-0838420?pd_rd_w=9cH0u&content-id=amzn1.sym.b4c57fe5-9080-4ff8-82e2-114bb6ad9047&pf_rd_p=b4c57fe5-9080-4ff8-82e2-114bb6ad9047&pf_rd_r=8SGHTEBX9ATY8NNAW0WY&pd_rd_wg=aRod2&pd_rd_r=27a26f7e-bf9a-451c-bae8-892b0cca4333&pd_rd_i=B07YMFX3DZ&psc=1&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=0d29dfe6cc70acb729f3d6741010e300&camp=247&creative=1211"
+  },
+  {
+    "link": "https://www.amazon.pl/1989-TaylorS-Version-Taylor-Swift/dp/B0CFM79D7Y/ref=pd_vtp_h_pd_vtp_h_d_sccl_5/261-7601315-0838420?pd_rd_w=Npdjc&content-id=amzn1.sym.3927fa5e-b61f-47eb-b903-3523684b8962&pf_rd_p=3927fa5e-b61f-47eb-b903-3523684b8962&pf_rd_r=WSF6MK63JS4P5F2SYVP5&pd_rd_wg=X5jMP&pd_rd_r=3fd4099b-d1bf-462b-ab4c-cd5fa89162ae&pd_rd_i=B0CFM79D7Y&psc=1",
+    "imageLink": "https://m.media-amazon.com/images/I/81jw1bKlYyL._AC_SX679_.jpg",
+    "shop": "amazon",
+    "type": "vinyl",
+    "era": 1989,
+    "affLink": "https://www.amazon.pl/1989-TaylorS-Version-Taylor-Swift/dp/B0CFM79D7Y/ref=pd_vtp_h_pd_vtp_h_d_sccl_5/261-7601315-0838420?pd_rd_w=Npdjc&content-id=amzn1.sym.3927fa5e-b61f-47eb-b903-3523684b8962&pf_rd_p=3927fa5e-b61f-47eb-b903-3523684b8962&pf_rd_r=WSF6MK63JS4P5F2SYVP5&pd_rd_wg=X5jMP&pd_rd_r=3fd4099b-d1bf-462b-ab4c-cd5fa89162ae&pd_rd_i=B0CFM79D7Y&psc=1&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=b20edb1aa745e2f7ab608b74afd7bd85&camp=247&creative=1211"
+  },
+  {
+    "link": "https://www.amazon.pl/Midnights-Taylor-Swift/dp/B0BFFBR7LQ/ref=tmm_vnl_swatch_0?_encoding=UTF8&qid=&sr=",
+    "imageLink": "https://m.media-amazon.com/images/I/616P7YioCML._AC_SX679_.jpg",
+    "shop": "amazon",
+    "type": "vinyl",
+    "era": "midnights",
+    "affLink": "https://www.amazon.pl/Midnights-Taylor-Swift/dp/B0BFFBR7LQ/ref=tmm_vnl_swatch_0?_encoding=UTF8&qid=&sr=&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=1c0da8a1608f5ce379693f5cabf0ed00&camp=247&creative=1211"
+  },
+  {
+    "link": "https://www.amazon.pl/Fearless-TaylorS-Version-Taylor-Swift/dp/B092YV2RYY/ref=tmm_vnl_swatch_0?_encoding=UTF8&qid=&sr=",
+    "imageLink": "https://m.media-amazon.com/images/I/71n5E-Y3dzL._AC_SX679_.jpg",
+    "shop": "amazon",
+    "type": "vinyl",
+    "era": "fearless",
+    "affLink": "https://www.amazon.pl/Fearless-TaylorS-Version-Taylor-Swift/dp/B092YV2RYY/ref=tmm_vnl_swatch_0?_encoding=UTF8&qid=&sr=&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=37768038979bc72411f71df5035d96bf&camp=247&creative=1211"
+  },
+  {
+    "link": "https://www.amazon.pl/Speak-TaylorS-Version-Taylor-Swift/dp/B0C7H6HWWH/ref=tmm_vnl_swatch_0?_encoding=UTF8&qid=&sr=",
+    "imageLink": "https://m.media-amazon.com/images/I/61KHzeoZZbL._AC_SX679_.jpg",
+    "shop": "amazon",
+    "type": "vinyl",
+    "era": "sn",
+    "affLink": "https://www.amazon.pl/Speak-TaylorS-Version-Taylor-Swift/dp/B0C7H6HWWH/ref=tmm_vnl_swatch_0?_encoding=UTF8&qid=&sr=&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=d7e3f5d25a6fb409095768a11b1f7c7a&camp=247&creative=1211"
+  },
+  {
+    "link": "https://www.amazon.pl/Red-TaylorS-Version-Taylor-Swift/dp/B09J99PKDF/ref=tmm_vnl_swatch_0?_encoding=UTF8&qid=&sr=",
+    "imageLink": "https://m.media-amazon.com/images/I/81xyR3qZ1FL._AC_SX679_.jpg",
+    "shop": "amazon",
+    "type": "vinyl",
+    "era": "red",
+    "affLink": "https://www.amazon.pl/Red-TaylorS-Version-Taylor-Swift/dp/B09J99PKDF/ref=tmm_vnl_swatch_0?_encoding=UTF8&qid=&sr=&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=3d2ad2213386aa4fdad9c4bdb09222a5&camp=247&creative=1211"
+  },
+  {
+    "link": "https://www.amazon.pl/Evermore-Taylor-Swift/dp/B08QFRKNNJ/ref=pd_vtp_h_pd_vtp_h_d_sccl_2/261-7601315-0838420?pd_rd_w=B9kbw&content-id=amzn1.sym.3927fa5e-b61f-47eb-b903-3523684b8962&pf_rd_p=3927fa5e-b61f-47eb-b903-3523684b8962&pf_rd_r=H7AMJ5THBYQBPQ813CA0&pd_rd_wg=iWCGk&pd_rd_r=6fd26e3d-68fc-49a3-b3ba-9d15ac0ad8bc&pd_rd_i=B08QFRKNNJ&psc=1",
+    "imageLink": "https://m.media-amazon.com/images/I/81xh22kBAUL._AC_SX679_.jpg",
+    "shop": "amazon",
+    "type": "vinyl",
+    "era": "evermore",
+    "affLink": "https://www.amazon.pl/Evermore-Taylor-Swift/dp/B08QFRKNNJ/ref=pd_vtp_h_pd_vtp_h_d_sccl_2/261-7601315-0838420?pd_rd_w=B9kbw&content-id=amzn1.sym.3927fa5e-b61f-47eb-b903-3523684b8962&pf_rd_p=3927fa5e-b61f-47eb-b903-3523684b8962&pf_rd_r=H7AMJ5THBYQBPQ813CA0&pd_rd_wg=iWCGk&pd_rd_r=6fd26e3d-68fc-49a3-b3ba-9d15ac0ad8bc&pd_rd_i=B08QFRKNNJ&psc=1&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=3083857daaa6cab16f8c3563f11d9126&camp=247&creative=1211"
+  },
+  {
+    "link": "https://www.amazon.pl/Midnights-Taylor-Swift/dp/B0BFRRJCG7/ref=pd_sbs_sccl_3_3/261-7601315-0838420?pd_rd_w=orwBq&content-id=amzn1.sym.1ca20caa-cc2d-4968-9d08-d0dddd4bfdfa&pf_rd_p=1ca20caa-cc2d-4968-9d08-d0dddd4bfdfa&pf_rd_r=J4BMNTGV8FRT9AZEX72F&pd_rd_wg=eQDme&pd_rd_r=7cf79fb8-a413-4f4e-bc26-a6f595aa4411&pd_rd_i=B0BFRRJCG7&psc=1",
+    "imageLink": "https://m.media-amazon.com/images/I/81CmHO+T49L._AC_SX679_.jpg",
+    "shop": "amazon",
+    "type": "vinyl",
+    "era": "midnights",
+    "affLink": "https://www.amazon.pl/Midnights-Taylor-Swift/dp/B0BFRRJCG7/ref=pd_sbs_sccl_3_3/261-7601315-0838420?pd_rd_w=orwBq&content-id=amzn1.sym.1ca20caa-cc2d-4968-9d08-d0dddd4bfdfa&pf_rd_p=1ca20caa-cc2d-4968-9d08-d0dddd4bfdfa&pf_rd_r=J4BMNTGV8FRT9AZEX72F&pd_rd_wg=eQDme&pd_rd_r=7cf79fb8-a413-4f4e-bc26-a6f595aa4411&pd_rd_i=B0BFRRJCG7&psc=1&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=b1d6ba447f1f6d9303f33be6ffee347e&camp=247&creative=1211"
+  },
+  {
+    "link": "https://www.etsy.com/pl/listing/1601268668/eras-tour-blanket-xmas-taylor-swift?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=taylor+swift&ref=sc_gallery-1-2&pro=1&frs=1&referrer_page_guid=f79123283f0.dc6492e50f713db0713c.00&plkey=a5f5e34c8efee8d552c0978dc903041ebd71a573%3A1601268668",
+    "imageLink": "https://i.etsystatic.com/47964058/r/il/2bc116/5587255557/il_1588xN.5587255557_j2vb.jpg",
+    "shop": "etsy",
+    "era": "other",
+    "affLink": "https://sovrn.co/szm4qua"
+  },
+  {
+    "link": "https://www.etsy.com/pl/listing/1580521592/in-my-2024-era-wall-calendar-cute-2024?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=taylor+swift&ref=sc_gallery-1-8&pro=1&pop=1&referrer_page_guid=f79123283f0.dc6492e50f713db0713c.00&plkey=f431a9985c2ecca0ceb42f37b563abd4cd80e7fd%3A1580521592",
+    "imageLink": "https://i.etsystatic.com/22978293/r/il/e3b3af/5431071084/il_1588xN.5431071084_4ewa.jpg",
+    "shop": "etsy",
+    "era": "other",
+    "affLink": "https://sovrn.co/kiem5nf"
+  },
+  {
+    "link": "https://www.etsy.com/pl/listing/1575489442/go-taylors-boyfriend-sweatshirt-travis?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=taylor+swift&ref=sc_gallery-1-5&pro=1&pop=1&sts=1&referrer_page_guid=f79123283f0.dc6492e50f713db0713c.00&plkey=c2b70442d03591c4116b6830c7709daba0b39a4e%3A1575489442",
+    "imageLink": "https://i.etsystatic.com/36212461/r/il/698792/5407179284/il_1588xN.5407179284_alvg.jpg",
+    "shop": "etsy",
+    "era": "other",
+    "affLink": "https://sovrn.co/g7q90sr"
+  },
+  {
+    "link": "https://www.etsy.com/pl/listing/1609123463/taylor-swift-as-jesus-physical-print?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=taylor+swift&ref=sr_gallery-1-13&referrer_page_guid=f79123283f0.dc6492e50f713db0713c.00&organic_search_click=1",
+    "imageLink": "https://i.etsystatic.com/47340986/r/il/150c40/5496216308/il_1588xN.5496216308_c15y.jpg",
+    "shop": "etsy",
+    "era": "other",
+    "affLink": "https://sovrn.co/14z7plb"
+  },
+  {
+    "link": "https://www.etsy.com/pl/listing/1571085416/swiftie-jumper-taylor-swift-swiftie?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=taylor+swift&ref=sr_gallery-1-15&pro=1&frs=1&bes=1&referrer_page_guid=f79123283f0.dc6492e50f713db0713c.00&organic_search_click=1",
+    "imageLink": "https://i.etsystatic.com/46358579/r/il/6cbf38/5432071263/il_1588xN.5432071263_oaho.jpg",
+    "shop": "etsy",
+    "era": "other",
+    "affLink": "https://sovrn.co/11nz7b1"
+  },
+  {
+    "link": "https://www.etsy.com/pl/listing/1594764905/albums-as-books-sweatshirt-trendy?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=taylor+swift&ref=sc_gallery-1-10&pro=1&bes=1&referrer_page_guid=f79123283f0.dc6492e50f713db0713c.00&plkey=23a62bff9ac0fa8408f6e62a618e5bb65f6885f0%3A1594764905",
+    "imageLink": "https://i.etsystatic.com/45794819/r/il/1fcb02/5436036458/il_1588xN.5436036458_7ayv.jpg",
+    "shop": "etsy",
+    "era": "other",
+    "affLink": "https://www.etsy.com/pl/listing/1594764905/albums-as-books-sweatshirt-trendy?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=taylor+swift&ref=sc_gallery-1-10&pro=1&bes=1&referrer_page_guid=f79123283f0.dc6492e50f713db0713c.00&plkey=23a62bff9ac0fa8408f6e62a618e5bb65f6885f0%3A1594764905"
+  },
+  {
+    "link": "https://www.etsy.com/pl/listing/1570416168/taylor-swift-you-belong-with-me-music?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=taylor+swift&ref=sr_gallery-1-25&referrer_page_guid=f79123283f0.dc6492e50f713db0713c.00&organic_search_click=1",
+    "imageLink": "https://i.etsystatic.com/23166198/r/il/49db6c/5428366921/il_1588xN.5428366921_3mec.jpg",
+    "shop": "etsy",
+    "era": "other",
+    "affLink": "https://sovrn.co/pb3nm9d"
+  },
+  {
+    "link": "https://www.etsy.com/pl/listing/1490185277/taylor-swift-albums-bracelet-ts-album?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=taylor+swift&ref=sr_gallery-1-44&pro=1&frs=1&referrer_page_guid=f79123283f0.dc6492e50f713db0713c.00&organic_search_click=1",
+    "imageLink": "https://i.etsystatic.com/41551570/r/il/d004b3/4879933159/il_600x600.4879933159_1f9e.jpg",
+    "shop": "etsy",
+    "era": "other",
+    "affLink": "https://sovrn.co/950wg4m"
+  },
+  {
+    "link": "https://www.etsy.com/pl/listing/1506852942/taylor-swift-hoodie-eras-tour-merch?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=taylor+swift&ref=sr_gallery-2-32&pro=1&frs=1&bes=1&referrer_page_guid=94d57208-2cc8-4ff5-acde-f3ab8ce74898&organic_search_click=1",
+    "imageLink": "https://i.etsystatic.com/39230418/r/il/fca615/5127259589/il_1588xN.5127259589_egnj.jpg",
+    "shop": "etsy",
+    "era": "other",
+    "affLink": "https://sovrn.co/zi35stn"
+  },
+  {
+    "link": "https://www.etsy.com/pl/listing/1353604299/fuck-the-patriarchy-keychain-feminist?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=taylor+swift&ref=sr_gallery-2-36&pro=1&frs=1&bes=1&referrer_page_guid=94d57208-2cc8-4ff5-acde-f3ab8ce74898&organic_search_click=1",
+    "imageLink": "https://i.etsystatic.com/24818246/r/il/8fa047/5060830670/il_1588xN.5060830670_u34y.jpg",
+    "shop": "etsy",
+    "era": "other",
+    "affLink": "https://sovrn.co/gcg8jx5"
+  },
+  {
+    "link": "https://www.etsy.com/pl/listing/1580269166/a-lot-in-my-bag-at-the-moment-taylor?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=taylor+swift&ref=sc_gallery-3-7&bes=1&sts=1&referrer_page_guid=8276c4ba-87ae-45be-82e4-d905f39643c2&plkey=d85d68e587e26b95a3c9ebcf60fb1b825c20a3d6%3A1580269166",
+    "imageLink": "https://i.etsystatic.com/38819008/r/il/6b7d96/5478045975/il_1588xN.5478045975_9cdr.jpg",
+    "shop": "etsy",
+    "era": "other",
+    "affLink": "https://sovrn.co/1k48gtw"
+  },
+  {
+    "link": "https://www.etsy.com/pl/listing/1590395364/christmas-taylors-version-2-sides?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=christmas+tree+farm&ref=sc_gallery-1-4&pro=1&referrer_page_guid=f7914cf36f1.c46e31c755c43885c8df.00&plkey=64b96baab12552a5c2215db4beea03cf694048ed%3A1590395364",
+    "imageLink": "https://i.etsystatic.com/45038952/r/il/a89fd3/5523639813/il_1588xN.5523639813_gbhk.jpg",
+    "shop": "etsy",
+    "era": "xmas",
+    "affLink": "https://sovrn.co/2xawp3b"
+  },
+  {
+    "link": "https://www.etsy.com/pl/listing/1590392945/christmas-tree-farm-shirt-merry?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=christmas+tree+farm+hoodie&ref=sc_gallery-1-13&pro=1&referrer_page_guid=0463fcc0-f069-45e9-a9b4-3c1d545c8fde&plkey=f0485ac469660d47b8b6fec994d8f8e098d0b56a%3A1590392945",
+    "imageLink": "https://i.etsystatic.com/36490935/r/il/58ddd4/5410350024/il_1588xN.5410350024_abil.jpg",
+    "shop": "etsy",
+    "era": "xmas",
+    "affLink": "https://sovrn.co/lxvbi8f"
+  },
+  {
+    "link": "https://www.etsy.com/pl/listing/1595076694/christmas-taylor-version-sweatshirt?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=christmas+tree+farm+hoodie&ref=sr_gallery-1-35&pro=1&sts=1&referrer_page_guid=0463fcc0-f069-45e9-a9b4-3c1d545c8fde&organic_search_click=1",
+    "imageLink": "https://i.etsystatic.com/36222047/r/il/c11b2f/5496728712/il_1588xN.5496728712_g336.jpg",
+    "shop": "etsy",
+    "era": "xmas",
+    "affLink": "https://sovrn.co/1drym3x"
+  },
+  {
+    "link": "https://www.etsy.com/pl/listing/1599213724/christmas-tree-farm-embroidered?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=christmas+tree+farm&ref=sr_gallery-1-10&referrer_page_guid=f7914cf36f1.c46e31c755c43885c8df.00&organic_search_click=1",
+    "imageLink": "https://i.etsystatic.com/18394574/r/il/e130b1/5562892941/il_1588xN.5562892941_dnp2.jpg",
+    "shop": "etsy",
+    "era": "xmas",
+    "affLink": "https://sovrn.co/9m0s5uf"
+  },
+  {
+    "link": "https://www.etsy.com/pl/listing/1612504923/christmas-tree-farm-shirt-christmas?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=christmas+tree+farm&ref=sr_gallery-1-12&pro=1&referrer_page_guid=f7914cf36f1.c46e31c755c43885c8df.00&organic_search_click=1",
+    "imageLink": "https://i.etsystatic.com/23496798/r/il/eb5834/5510951264/il_1588xN.5510951264_kj0d.jpg",
+    "shop": "etsy",
+    "era": "xmas",
+    "affLink": "https://sovrn.co/1jkvvof"
   }
 ]
