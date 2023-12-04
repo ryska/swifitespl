@@ -8,6 +8,7 @@ interface Props {
 const Provider: FC<Props> = ({ children }) => {
   const [currentTab, setCurrentTab] = useState<string>('all');
   const [checkedEras, setCheckedEras] = useState<string[]>([]);
+  const [sidebarOpen, setSidebarOpen] = useState<boolean>(false);
 
   const updateCurrentTab = (tab: string) => {
     console.log("updateCurrentTab")
@@ -19,8 +20,13 @@ const Provider: FC<Props> = ({ children }) => {
     setCheckedEras(eras);
   }
 
+  const updateSidebarOpen = () => {
+    setSidebarOpen(!sidebarOpen);
+    console.log(sidebarOpen)
+  }
+
   return (
-    <Context.Provider value={{ currentTab, checkedEras, updateCurrentTab, updateCheckedEras }}>
+    <Context.Provider value={{ currentTab, checkedEras, sidebarOpen, updateCurrentTab, updateCheckedEras, updateSidebarOpen }}>
       {children}
     </Context.Provider>
   );

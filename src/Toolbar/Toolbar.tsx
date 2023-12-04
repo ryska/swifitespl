@@ -1,12 +1,13 @@
 import { Link } from 'react-router-dom';
 import './Toolbar.scss';
+import HouseLogo from './Logo';
 
 const Toolbar = () => {
   return (
     <div className="toolbar drop-shadow-md">
       <div className='logopic'>
         <a href='/'>
-          <img src='/images/house.svg' />
+          <HouseLogo />
           <span>swifties.pl</span>
         </a>
       </div>

@@ -1,5 +1,21 @@
 .home {
     padding-bottom: 120px; 
+    padding-top: 80px;
     display: flex;
     justify-content: center;
+    position: relative;
+
+    .content {
+        width: calc(100vw - 280px);
+        margin-left: auto;
+        @media (max-width: 800px) {
+            width: 100%;
+            &.closed {
+                left: -280px;
+            }
+            &.hidden {
+                left: -280px;
+            }
+        }
+    }
 }

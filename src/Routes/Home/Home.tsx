@@ -42,17 +42,18 @@ const Home = () => {
         }
     }, [checkedEras, currentTab])
 
-    return (<div className="home">
-        <Sidebar />
-        <div className="content">
-            {currentTab !== 'fanmade' && <Topbar />}
-            <div className='items'>
-                {currentTab === 'fanmade' && <Artists />}
-                {filteredItems?.map((item, key) => <Item key={key} shop={item.shop} imageLink={item.imageLink} affLink={item.affLink} />)}
+    return (
+        <div className="home">
+            <Sidebar />
+            <div className="content">
+                {currentTab !== 'fanmade' && <Topbar />}
+                <div className='items'>
+                    {currentTab === 'fanmade' && <Artists />}
+                    {filteredItems?.map((item, key) => <Item key={key} shop={item.shop} imageLink={item.imageLink} affLink={item.affLink} />)}
+                </div>
             </div>
-        </div>
 
-    </div>)
+        </div>)
 }
 
 export default Home;
