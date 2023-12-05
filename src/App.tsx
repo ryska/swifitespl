@@ -20,7 +20,7 @@ function App() {
               <Route path-exact path="/" element={<Home />} />
             </Routes>
           </div>
-          <Footer />
+          {/* <Footer /> */}
         </div>
       </Provider>
     </>

@@ -2,7 +2,9 @@
     min-width: 280px;
     display: flex;
     flex-direction: column;
-    background-color: #947b9a;
+    // background-color: #947b9a;
+    background: rgba(0,0,0,0.1);
+    background-blend-mode: overlay;
     z-index: 20;
     filter: drop-shadow(0 10px 8px rgba(0, 0, 0, 0.04)) drop-shadow(0 4px 3px rgba(0, 0, 0, 0.1));
     transition: left 0.3s ease;
@@ -58,7 +60,8 @@
         }
 
         &.active {
-            background-color: #bea7c4;
+            // background-color: #bea7c4;
+            background: rgba(0,0,0,0.1);
             font-weight: 700;
         }
     }

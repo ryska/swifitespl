@@ -1,5 +1,7 @@
 .toolbar {
-    background-color: #464d60;
+    // background-color: #464d60;
+    background: rgba(0,0,0,0.1);
+    backdrop-filter: blur(4px);
     height: 80px;
     display: flex;
     align-items: center;

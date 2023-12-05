@@ -11,6 +11,7 @@ import Sidebar from "../../Sidebar/Sidebar";
 import Topbar from "../../Topbar/Topbar";
 import Context, { ContextType } from "../../Context/Context";
 import Artists from "../Artists/Artists";
+import Footer from "../../Footer/Footer";
 
 const Home = () => {
     const { checkedEras, currentTab } = useContext(Context) as ContextType;
@@ -43,16 +44,19 @@ const Home = () => {
     }, [checkedEras, currentTab])
 
     return (
-        <div className="home">
-            <Sidebar />
-            <div className="content">
-                {currentTab !== 'fanmade' && <Topbar />}
-                <div className='items'>
-                    {currentTab === 'fanmade' && <Artists />}
-                    {filteredItems?.map((item, key) => <Item key={key} shop={item.shop} imageLink={item.imageLink} affLink={item.affLink} />)}
+        <div>
+
+            <div className="home">
+                <Sidebar />
+                <div className="content">
+                    {currentTab !== 'fanmade' && <Topbar />}
+                    <div className='items'>
+                        {currentTab === 'fanmade' && <Artists />}
+                        {filteredItems?.map((item, key) => <Item key={key} shop={item.shop} imageLink={item.imageLink} affLink={item.affLink} />)}
+                    </div>
                 </div>
             </div>
-
+            <Footer />
         </div>)
 }
 

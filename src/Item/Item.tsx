@@ -11,11 +11,11 @@ interface ItemProps {
     link?: string;
 }   
 
-const Item: FC<ItemProps> = ({ shop, imageLink, era, affLink }) => {
+const Item: FC<ItemProps> = ({ shop, imageLink, era, affLink, link }) => {
     return (
         <div className="item p-8">
             <div className='item-content'>
-                <a className='item-a' target="_blank" href={affLink}>
+                <a className='item-a' target="_blank" href={link || affLink}>
                     <img src={imageLink} />
                 </a>
             </div>
