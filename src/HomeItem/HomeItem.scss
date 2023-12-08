@@ -1,0 +1,44 @@
+$ts: #b9d2b5;
+$fless: #f4cb8d;
+$sn: #d1b2d2;
+$red: #823549;
+$nen: #b5e9f6;
+$rep: #847e80;
+$lover: #f9b2d0;
+$flore: #cfcac6;
+$em: #c8ae95;
+$mn: #434961;
+
+
+.homeItem {
+    max-width: 300px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    border-radius: 20px;
+    overflow: hidden;
+    margin: 20px;
+}
+
+.homeItemTitle {
+    background-color: #C1B1C8;
+    height: 100px;
+    position: relative;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 2px;
+    color: $mn;
+    font-size: 26px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    text-decoration: none;
+}
+.gradient {
+    width: 100%;
+    height: 150px;
+    position: absolute;
+    top: -150px;
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, #C1B1C8 100%);
+}

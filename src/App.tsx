@@ -6,6 +6,7 @@ import Events from './Routes/Events/Events';
 import Footer from './Footer/Footer';
 import Provider from './Context/Provider';
 import WorkWithMe from './WorkWithMe/WorkWithMe';
+import Shop from './Routes/Shop/Shop';
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
             <Routes>
               <Route path-exact path="/work-with-me" element={<WorkWithMe />} />
               <Route path-exact path="events" element={<Events />} />
+              <Route path-exact path="shop" element={<Shop />} />
               <Route path-exact path="/" element={<Home />} />
             </Routes>
           </div>

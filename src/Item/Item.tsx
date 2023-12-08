@@ -9,13 +9,24 @@ interface ItemProps {
     type?: string;
     affLink: string;
     link?: string;
-}   
+}
 
-const Item: FC<ItemProps> = ({ shop, imageLink, era, affLink, link }) => {
+export type ItemType = {
+    shop: string;
+    imageLink: string;
+    imageId?: string;
+    era?: string;
+    type?: string;
+    affLink: string;
+    link?: string;
+}
+
+const Item: FC<ItemProps> = ({ link, shop, imageLink, era, affLink }) => {
+    const currentLink = link || affLink;
     return (
         <div className="item p-8">
             <div className='item-content'>
-                <a className='item-a' target="_blank" href={link || affLink}>
+                <a className='item-a' target="_blank" href={currentLink}>
                     <img src={imageLink} />
                 </a>
             </div>

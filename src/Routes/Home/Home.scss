@@ -1,12 +1,28 @@
+$ts: #b9d2b5;
+$fless: #f4cb8d;
+$sn: #d1b2d2;
+$red: #823549;
+$nen: #b5e9f6;
+$rep: #847e80;
+$lover: #f9b2d0;
+$flore: #cfcac6;
+$em: #c8ae95;
+$mn: #434961;
+
+
+.homeWrapper {
+    background: rgb(245,175,112);
+    background: linear-gradient(180deg, rgba(245,175,112,1) 0%, rgba(186,168,194,1) 100%);
+}
+
 .home {
-    padding-bottom: 120px; 
-    padding-top: 80px;
     display: flex;
     justify-content: center;
     position: relative;
-
+    align-items: center;
+    flex-wrap: wrap;
     .content {
-        width: calc(100vw - 280px);
+        width: 100%;
         margin-left: auto;
         @media (max-width: 800px) {
             width: 100%;
@@ -18,4 +34,65 @@
             }
         }
     }
+}
+.homeLink {
+    text-decoration: none;
+}
+
+.header {
+    width: 100%;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    color: $mn;
+    text-align: center;
+    padding-top: 100px;
+    h1 {
+        margin: 20px;
+        font-size: 76px;
+        @media (max-width: 600px) {
+            font-size: 46px;
+
+        }
+    }
+    h2, h3 {
+        margin: 10px;
+    }
+}
+
+.imageWrapper {
+    width: 560px;
+    height: 560px;
+    position: relative;
+    @media (max-width: 600px) {
+        width: 300px;
+        height: 300px;
+    }
+}
+
+.image {
+    width: 400px;
+    height: 400px;
+    border-radius: 50%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    @media (max-width: 600px) {
+        width: 220px;
+        height: 220px;
+    }
+}
+
+.curvedText {
+    position: absolute;
+    width: 100%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    fill: $mn;
+    font-family: 'Indie Flower', cursive;
+    font-size: 14px;
+    z-index: 5;
 }

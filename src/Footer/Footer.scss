@@ -1,12 +1,8 @@
 .footer {
-    width: calc(100% - 280px);
     min-height: 100px;
     // background-color: #333; /* Adjust the background color as needed */
     background: rgba(0,0,0,0.1);
     color: #fff; /* Adjust the text color as needed */
-    position: absolute;
-    bottom: 0;
-    right: 0;
     text-align: center;
 
     @media (max-width: 800px) {

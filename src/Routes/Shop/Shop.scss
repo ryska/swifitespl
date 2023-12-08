@@ -1,0 +1,24 @@
+.shop {
+    padding-bottom: 120px; 
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    background: linear-gradient(360deg, #ffc5f3 0%, rgb(82, 109, 133) 100%);
+    // background: linear-gradient(180deg, rgba(245,175,112,1) 0%, rgba(186,168,194,1) 100%);
+    height: 100vh;
+    overflow-y: scroll;
+    .content {
+        width: calc(100vw - 280px);
+        margin-left: auto;
+        @media (max-width: 800px) {
+            width: 100%;
+            &.closed {
+                left: -280px;
+            }
+            &.hidden {
+                left: -280px;
+            }
+        }
+    }
+}
