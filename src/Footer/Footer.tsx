@@ -11,7 +11,6 @@ const Footer = () => {
             <p className="text">
                 Żadne zdjęcia na tej stronie nie są moją własnością.
             </p>
-            <br />
             <p className="text">
                 Jest to poboczny projekt i wkładam to swój wolny czas i pieniądze, jeśli masz pomysł jak mogę ulepszyć tę stronę, napisz na
                 <br /><a href="mailto:thepolishswiftie@gmail.com">thepolishswiftie@gmail.com</a>

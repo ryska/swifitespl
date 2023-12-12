@@ -1,5 +1,6 @@
+import Context, { ContextType } from '../Context/Context';
 import './Item.scss';
-import React, { FC, useEffect, useState } from 'react';
+import React, { FC, useContext, useEffect, useState } from 'react';
 
 interface ItemProps {
     shop: string;
@@ -23,11 +24,15 @@ export type ItemType = {
 
 const Item: FC<ItemProps> = ({ link, shop, imageLink, era, affLink }) => {
     const [currentLink, setCurrentLink] = useState(link);
+    const { currentTab } = useContext(Context) as ContextType;
+
     useEffect(() => {
         if (['allegro', 'amazon', 'tania książka'].includes(shop)) {
             setCurrentLink(affLink);
+        } else {
+            setCurrentLink(link);
         }
-    }, [])
+    }, [link, affLink, shop, currentTab])
 
 
     return (

@@ -41,7 +41,8 @@ const Shop = () => {
             default:
                 return all
         }
-    }, [checkedEras, currentTab])
+        return all;
+ }, [checkedEras, currentTab])
 
     return (
         <div className="shop">
@@ -50,7 +51,7 @@ const Shop = () => {
                 {currentTab !== 'fanmade' && <Topbar />}
                 <div className='items'>
                     {currentTab === 'fanmade' && <Artists />}
-                    {filteredItems?.map((item: ItemType, key) => <Item key={key} link={item.link ? item.link : ""} shop={item.shop} imageLink={item.imageLink} affLink={item.affLink} />)}
+                    {filteredItems.map((item: ItemType, key) => <Item key={key} link={item.link ? item.link : ""} shop={item.shop} imageLink={item.imageLink} affLink={item.affLink} />)}
                 </div>
             </div>
         </div>
