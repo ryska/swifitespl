@@ -1,5 +1,5 @@
 import './Item.scss';
-import React, { FC } from 'react';
+import React, { FC, useEffect, useState } from 'react';
 
 interface ItemProps {
     shop: string;
@@ -22,7 +22,14 @@ export type ItemType = {
 }
 
 const Item: FC<ItemProps> = ({ link, shop, imageLink, era, affLink }) => {
-    const currentLink = link || affLink;
+    const [currentLink, setCurrentLink] = useState(link);
+    useEffect(() => {
+        if (['allegro', 'amazon', 'tania książka'].includes(shop)) {
+            setCurrentLink(affLink);
+        }
+    }, [])
+
+
     return (
         <div className="item p-8">
             <div className='item-content'>

@@ -18,6 +18,9 @@ $mn: #434961;
     border-radius: 20px;
     overflow: hidden;
     margin: 20px;
+    @media (max-width: 600px) {
+        max-width: 200px;
+    }
 }
 
 .homeItemTitle {
@@ -34,6 +37,9 @@ $mn: #434961;
     justify-content: center;
     text-align: center;
     text-decoration: none;
+    @media (max-width: 600px) {
+        font-size: 20px;
+    }
 }
 .gradient {
     width: 100%;

@@ -11,18 +11,15 @@ const Provider: FC<Props> = ({ children }) => {
   const [sidebarOpen, setSidebarOpen] = useState<boolean>(false);
 
   const updateCurrentTab = (tab: string) => {
-    console.log("updateCurrentTab")
     setCurrentTab(tab);
   };
 
   const updateCheckedEras = (eras: string[]) => {
-    console.log("updateCheckedEras")
     setCheckedEras(eras);
   }
 
   const updateSidebarOpen = () => {
     setSidebarOpen(!sidebarOpen);
-    console.log(sidebarOpen)
   }
 
   return (
