@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.7925b88b.css",
-    "main.js": "/static/js/main.963cff51.js",
+    "main.js": "/static/js/main.0dfaa21b.js",
     "static/js/787.d4aba7ab.chunk.js": "/static/js/787.d4aba7ab.chunk.js",
     "static/media/PistilliRoman.otf": "/static/media/PistilliRoman.0b400c3fbbaa116d6357.otf",
     "index.html": "/index.html",
     "main.7925b88b.css.map": "/static/css/main.7925b88b.css.map",
-    "main.963cff51.js.map": "/static/js/main.963cff51.js.map",
+    "main.0dfaa21b.js.map": "/static/js/main.0dfaa21b.js.map",
     "787.d4aba7ab.chunk.js.map": "/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7925b88b.css",
-    "static/js/main.963cff51.js"
+    "static/js/main.0dfaa21b.js"
   ]
 }
