@@ -11,7 +11,7 @@ const Topbar = () => {
         if (checkedEras.includes(era)) {
             updateCheckedEras(checkedEras.filter((e) => e !== era));
         } else {
-            updateCheckedEras([...checkedEras, era]);
+            updateCheckedEras([era]);
         }
     }
 

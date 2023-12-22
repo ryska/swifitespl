@@ -11,7 +11,6 @@ import Sidebar from "../../Sidebar/Sidebar";
 import Topbar from "../../Topbar/Topbar";
 import Context, { ContextType } from "../../Context/Context";
 import Artists from "../Artists/Artists";
-import Footer from "../../Footer/Footer";
 
 const Shop = () => {
     const { checkedEras, currentTab } = useContext(Context) as ContextType;
@@ -22,8 +21,7 @@ const Shop = () => {
                 if (!checkedEras.length) return all;
                 return all.filter(item => !!item.era && checkedEras.includes(item.era));
             case "fanmade":
-                // Code for "✨made by fans✨"
-                break;
+                return [];
             case "clothes":
                 if (!checkedEras.length) return clothes;
                 return clothes.filter(item => item.era && checkedEras.includes(item.era))
@@ -41,14 +39,13 @@ const Shop = () => {
             default:
                 return all
         }
-        return all;
  }, [checkedEras, currentTab])
 
     return (
         <div className="shop">
             <Sidebar />
             <div className="content">
-                {currentTab !== 'fanmade' && <Topbar />}
+                {!['fanmade', 'xmas', 'custom'].includes(currentTab) && <Topbar />}
                 <div className='items'>
                     {currentTab === 'fanmade' && <Artists />}
                     {filteredItems.map((item: ItemType, key) => <Item key={key} link={item.link ? item.link : ""} shop={item.shop} imageLink={item.imageLink} affLink={item.affLink} />)}

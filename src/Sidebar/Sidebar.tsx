@@ -5,10 +5,12 @@ import './Sidebar.scss';
 import ToggleIcon from "./Toggle";
 
 const Sidebar = () => {
-    const { sidebarOpen, currentTab, updateCurrentTab, updateSidebarOpen } = useContext(Context) as ContextType;
+    const { sidebarOpen, currentTab, updateCurrentTab, updateSidebarOpen, updateCheckedEras } = useContext(Context) as ContextType;
 
     const handleTabClick = (tab: string) => {
         updateCurrentTab(tab);
+        updateSidebarOpen()
+        updateCheckedEras([])
     }
     const handleOpen = () => {
         updateSidebarOpen()
