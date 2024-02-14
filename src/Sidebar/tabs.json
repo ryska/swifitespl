@@ -8,6 +8,10 @@
         "label": "✨made by fans✨"
     },
     {
+        "id": "custom",
+        "label": "custom merch 💅🏻"
+    },
+    {
         "id": "clothes",
         "label": "ubrania"
     },
@@ -26,9 +30,5 @@
     {
         "id": "music",
         "label": "muzyka"
-    },
-    {
-        "id": "custom",
-        "label": "custom merch 💅🏻"
     }
 ]

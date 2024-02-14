@@ -27,7 +27,7 @@ const Item: FC<ItemProps> = ({ link, shop, imageLink, era, affLink }) => {
     const { currentTab } = useContext(Context) as ContextType;
 
     useEffect(() => {
-        if (['allegro', 'amazon', 'tania książka', 'stradivarius'].includes(shop)) {
+        if (['allegro', 'amazon', 'tania książka', 'stradivarius', 'aliexpress'].includes(shop)) {
             setCurrentLink(affLink);
         } else {
             setCurrentLink(link);

@@ -8,6 +8,7 @@ $lover: #f9b2d0;
 $flore: #cfcac6;
 $em: #c8ae95;
 $mn: #434961;
+$poets: #edece8;
 
 .topbar {
     display: flex;
@@ -59,6 +60,10 @@ $mn: #434961;
             }
             &.MIDNIGHTS {
                 background-color: $mn;
+            }
+            &.POETS {       
+                background-color: $poets;
+                color: #625548;
             }
         }
     }
