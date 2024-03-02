@@ -4,12 +4,8 @@
         "label": "wszystkie produkty"
     },
     {
-        "id": "fanmade",
-        "label": "✨made by fans✨"
-    },
-    {
-        "id": "custom",
-        "label": "custom merch 💅🏻"
+        "id": "bracelets",
+        "label": "friendship bracelets"
     },
     {
         "id": "clothes",
@@ -20,8 +16,12 @@
         "label": "kardigany"
     },
     {
-        "id": "bracelets",
-        "label": "friendship bracelets"
+        "id": "custom",
+        "label": "custom merch 💅🏻"
+    },
+    {
+        "id": "fanmade",
+        "label": "✨made by fans✨"
     },
     {
         "id": "xmas",

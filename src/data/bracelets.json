@@ -1,66 +1,619 @@
 [
-    {
-      "link": "https://www.amazon.pl/Koralik%C3%B3w-bransoletek-Elastyczny-Naszyjniki-Bransoletki/dp/B0B6PP11TP/ref=sr_1_8_mod_primary_new?crid=2JFA05FGGWAGW&keywords=koraliki+do+bransoletek&qid=1701248391&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=koraliki%2Caps%2C125&sr=8-8",
-      "imageLink": "https://m.media-amazon.com/images/I/81PiE1F7G5L._AC_SL1500_.jpg",
-      "shop": "amazon",
-      "type": "bracelet",
-      "era": "",
-      "affLink": "https://www.amazon.pl/Koralik%25C3%25B3w-bransoletek-Elastyczny-Naszyjniki-Bransoletki/dp/B0B6PP11TP/ref=sr_1_8_mod_primary_new?crid=2JFA05FGGWAGW&amp;keywords=koraliki+do+bransoletek&amp;qid=1701248391&amp;sbo=RZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D&amp;sprefix=koraliki%252Caps%252C125&amp;sr=8-8&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=7eea6c5eb6917aee086eedc53d722c2b&camp=247&creative=1211"
-    },
-    {
-      "link": "https://www.amazon.pl/tworzenia-bransoletek-polimerowej-naszyjnik%C3%B3w-kolczyk%C3%B3w/dp/B0BCJGY9S7/ref=sr_1_6?crid=2JFA05FGGWAGW&keywords=koraliki%2Bdo%2Bbransoletek&qid=1701248391&sprefix=koraliki%2Caps%2C125&sr=8-6&th=1",
-      "imageLink": "https://m.media-amazon.com/images/I/81txgyj7tjL._AC_SX679_.jpg",
-      "shop": "amazon",
-      "type": "bracelet",
-      "era": "",
-      "affLink": "https://www.amazon.pl/tworzenia-bransoletek-polimerowej-naszyjnik%25C3%25B3w-kolczyk%25C3%25B3w/dp/B0BCJGY9S7/ref=sr_1_6?crid=2JFA05FGGWAGW&amp;keywords=koraliki+do+bransoletek&amp;qid=1701248391&amp;sprefix=koraliki%252Caps%252C125&amp;sr=8-6&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=178c45c42903ad1e955b59209af129f9&camp=247&creative=1211"
-    },
-    {
-      "link": "https://www.amazon.pl/CoKeeSun-koralik%C3%B3w-literami-bransoletek-bi%C5%BCuterii/dp/B0CBLN3BVS/ref=sr_1_11?crid=2JFA05FGGWAGW&keywords=koraliki+do+bransoletek&qid=1701248391&sprefix=koraliki%2Caps%2C125&sr=8-11",
-      "imageLink": "https://m.media-amazon.com/images/I/814tTFGAwrL._AC_SX679_.jpg",
-      "shop": "amazon",
-      "type": "bracelet",
-      "era": "",
-      "affLink": "https://www.amazon.pl/CoKeeSun-koralik%25C3%25B3w-literami-bransoletek-bi%25C5%25BCuterii/dp/B0CBLN3BVS/ref=sr_1_11?crid=2JFA05FGGWAGW&amp;keywords=koraliki+do+bransoletek&amp;qid=1701248391&amp;sprefix=koraliki%252Caps%252C125&amp;sr=8-11&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=720a0036be673f993a23d63545a7d117&camp=247&creative=1211"
-    },
-    {
-      "link": "https://www.amazon.pl/dystansowych-czarno-bialych-bransoletki-samodzielnego-bransoletek/dp/B0B3XMHKPD/ref=sr_1_14?crid=2JFA05FGGWAGW&keywords=koraliki+do+bransoletek&qid=1701248391&sprefix=koraliki%2Caps%2C125&sr=8-14",
-      "imageLink": "https://m.media-amazon.com/images/I/81wNVlzWQeL._AC_SX679_.jpg",
-      "shop": "amazon",
-      "type": "bracelet",
-      "era": "",
-      "affLink": "https://www.amazon.pl/dystansowych-czarno-bialych-bransoletki-samodzielnego-bransoletek/dp/B0B3XMHKPD/ref=sr_1_14?crid=2JFA05FGGWAGW&amp;keywords=koraliki+do+bransoletek&amp;qid=1701248391&amp;sprefix=koraliki%252Caps%252C125&amp;sr=8-14&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=e79ca6c786065476060c8338bc819d1b&camp=247&creative=1211"
-    },
-    {
-      "link": "https://www.amazon.pl/akrylowych-bransoletek-alfabetowe-bransoletki-bialo-czarne/dp/B09ZY4HWFT/ref=sr_1_15_mod_primary_new?crid=2JFA05FGGWAGW&keywords=koraliki+do+bransoletek&qid=1701248391&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=koraliki%2Caps%2C125&sr=8-15",
-      "imageLink": "https://m.media-amazon.com/images/I/81Siq5CPU4L._AC_SX679_.jpg",
-      "shop": "amazon",
-      "type": "bracelet",
-      "era": "",
-      "affLink": "https://www.amazon.pl/akrylowych-bransoletek-alfabetowe-bransoletki-bialo-czarne/dp/B09ZY4HWFT/ref=sr_1_15_mod_primary_new?crid=2JFA05FGGWAGW&amp;keywords=koraliki+do+bransoletek&amp;qid=1701248391&amp;sbo=RZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D&amp;sprefix=koraliki%252Caps%252C125&amp;sr=8-15&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=ebaf7506cd8eb5b23145e660afdfa9e4&camp=247&creative=1211"
-    },
-    {
-      "link": "https://www.amazon.pl/bransoletek-polimerowej-naszyjnik%C3%B3w-u%C5%9Bmiechni%C4%99tymi-zawieszkami/dp/B0BGSBGLZX/ref=sr_1_16?crid=2JFA05FGGWAGW&keywords=koraliki+do+bransoletek&qid=1701248391&sprefix=koraliki%2Caps%2C125&sr=8-16",
-      "imageLink": "https://m.media-amazon.com/images/I/914o1exZX1L._AC_SX679_.jpg",
-      "shop": "amazon",
-      "type": "bracelet",
-      "era": "",
-      "affLink": "https://www.amazon.pl/bransoletek-polimerowej-naszyjnik%25C3%25B3w-u%25C5%259Bmiechni%25C4%2599tymi-zawieszkami/dp/B0BGSBGLZX/ref=sr_1_16?crid=2JFA05FGGWAGW&amp;keywords=koraliki+do+bransoletek&amp;qid=1701248391&amp;sprefix=koraliki%252Caps%252C125&amp;sr=8-16&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=e898837e3ea71bdcdbd7791bfabbf0d6&camp=247&creative=1211"
-    },
-    {
-      "link": "https://www.amazon.pl/Bransoletek-Rekodziela-Akcesoriami-Przechowywania-Tworzenia/dp/B0C2PB81BQ/ref=sr_1_30?crid=2JFA05FGGWAGW&keywords=koraliki%2Bdo%2Bbransoletek&qid=1701248391&sprefix=koraliki%2Caps%2C125&sr=8-30&th=1",
-      "imageLink": "https://m.media-amazon.com/images/I/71TPrTPck6L._AC_SX679_.jpg",
-      "shop": "amazon",
-      "type": "bracelet",
-      "era": "",
-      "affLink": "https://www.amazon.pl/Bransoletek-Rekodziela-Akcesoriami-Przechowywania-Tworzenia/dp/B0C2PB81BQ/ref=sr_1_30?crid=2JFA05FGGWAGW&amp;keywords=koraliki%252Bdo%252Bbransoletek&amp;qid=1701248391&amp;sprefix=koraliki%252Caps%252C125&amp;sr=8-30&amp;th=1&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=83cb28a89eaa46cf9c40bae9c824239f&camp=247&creative=1211"
-    },
-    {
-      "link": "https://www.amazon.pl/s?k=koraliki+do+bransoletek&crid=2JFA05FGGWAGW&sprefix=koraliki%2Caps%2C125&ref=nb_sb_ss_ts-doa-p_1_8",
-      "imageLink": "https://m.media-amazon.com/images/I/81L-W9beq4L._AC_SX679_.jpg",
-      "shop": "amazon",
-      "type": "bracelet",
-      "era": "",
-      "affLink": "https://www.amazon.pl/gp/search?ie=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=56e2a43b57376c7026e0c4a17ff258fa&camp=247&creative=1211&index=arts-crafts&keywords=koraliki%20bransoletek"
-    }
-  ]
+  {
+      "shop": "amazon", 
+      "type": "bracelet", 
+      "affLink": "https://www.amazon.pl/Mixform-Dystansowe-Bi%25C5%25BCuterii-Tworzenie-15x15x6-5mm/dp/B0CVQ2ZY5G/ref=sr_1_31?__mk_pl_PL=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;crid=ZPKXYSRJ6E81&amp;dib=eyJ2IjoiMSJ9.PwpVLJk4upNVYnihZtNFnBpbgLZ2GRZEn9Yuxrb-Rxyjcnbp2ytAxZ_fIDYjTm_6Q3wfk9YcOi1b1q6JfAwCc4SMr42SPyJMXq_ddZGYE5WuT5w0kcxSLYrOnHPLTOU9AwPts70FanSKVSSIGfcpgM5OepYkFSnj1VSHtCXf7ooum_MG-QbjygwTheifpEkhVGodT_CRSBT--ulp6_VRbkq9pvGJELgzdzbvuecyntNClMFUjUpOXPz8ioQkGk903xYTgDNdiDqrG2kZje4UWiGvDJ29KXmFFFMx3fpgTmg._TGc449bnxzLMi36EGnZNX2ayj-jEA0Gh3IMsr5iecI&amp;dib_tag=se&amp;keywords=koraliki+kwiatki&amp;qid=1709383437&amp;sprefix=koraliki+kwiatk%252Caps%252C263&amp;sr=8-31&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=55dff8decec33ffd6164f58e4d7f5fb4&camp=247&creative=1211", 
+      "link": "https://www.amazon.pl/Mixform-Dystansowe-Bi%C5%BCuterii-Tworzenie-15x15x6-5mm/dp/B0CVQ2ZY5G/ref=sr_1_31?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=ZPKXYSRJ6E81&dib=eyJ2IjoiMSJ9.PwpVLJk4upNVYnihZtNFnBpbgLZ2GRZEn9Yuxrb-Rxyjcnbp2ytAxZ_fIDYjTm_6Q3wfk9YcOi1b1q6JfAwCc4SMr42SPyJMXq_ddZGYE5WuT5w0kcxSLYrOnHPLTOU9AwPts70FanSKVSSIGfcpgM5OepYkFSnj1VSHtCXf7ooum_MG-QbjygwTheifpEkhVGodT_CRSBT--ulp6_VRbkq9pvGJELgzdzbvuecyntNClMFUjUpOXPz8ioQkGk903xYTgDNdiDqrG2kZje4UWiGvDJ29KXmFFFMx3fpgTmg._TGc449bnxzLMi36EGnZNX2ayj-jEA0Gh3IMsr5iecI&dib_tag=se&keywords=koraliki+kwiatki&qid=1709383437&sprefix=koraliki+kwiatk%2Caps%2C263&sr=8-31", 
+      "imageLink": "https://m.media-amazon.com/images/I/61-kS0klrZL._AC_SX679_.jpg"
+  }, 
+  {
+      "shop": "amazon", 
+      "type": "bracelet", 
+      "affLink": "https://www.amazon.pl/Mixform-Dystansowe-Bi%25C5%25BCuterii-16%25D1%258516-5%25D1%25856mm-Przezroczysty/dp/B0CVQCFFFS/ref=sr_1_11?__mk_pl_PL=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;crid=ZPKXYSRJ6E81&amp;dib=eyJ2IjoiMSJ9.PwpVLJk4upNVYnihZtNFnBpbgLZ2GRZEn9Yuxrb-Rxyjcnbp2ytAxZ_fIDYjTm_6Q3wfk9YcOi1b1q6JfAwCc4SMr42SPyJMXq_ddZGYE5WuT5w0kcxSLYrOnHPLTOU9AwPts70FanSKVSSIGfcpgM5OepYkFSnj1VSHtCXf7ooum_MG-QbjygwTheifpEkhVGodT_CRSBT--ulp6_VRbkq9pvGJELgzdzbvuecyntNClMFUjUpOXPz8ioQkGk903xYTgDNdiDqrG2kZje4UWiGvDJ29KXmFFFMx3fpgTmg._TGc449bnxzLMi36EGnZNX2ayj-jEA0Gh3IMsr5iecI&amp;dib_tag=se&amp;keywords=koraliki+kwiatki&amp;qid=1709383437&amp;sprefix=koraliki+kwiatk%252Caps%252C263&amp;sr=8-11&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=b0b4873229294f36236924a696ddb779&camp=247&creative=1211", 
+      "link": "https://www.amazon.pl/Mixform-Dystansowe-Bi%C5%BCuterii-16%D1%8516-5%D1%856mm-Przezroczysty/dp/B0CVQCFFFS/ref=sr_1_11?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=ZPKXYSRJ6E81&dib=eyJ2IjoiMSJ9.PwpVLJk4upNVYnihZtNFnBpbgLZ2GRZEn9Yuxrb-Rxyjcnbp2ytAxZ_fIDYjTm_6Q3wfk9YcOi1b1q6JfAwCc4SMr42SPyJMXq_ddZGYE5WuT5w0kcxSLYrOnHPLTOU9AwPts70FanSKVSSIGfcpgM5OepYkFSnj1VSHtCXf7ooum_MG-QbjygwTheifpEkhVGodT_CRSBT--ulp6_VRbkq9pvGJELgzdzbvuecyntNClMFUjUpOXPz8ioQkGk903xYTgDNdiDqrG2kZje4UWiGvDJ29KXmFFFMx3fpgTmg._TGc449bnxzLMi36EGnZNX2ayj-jEA0Gh3IMsr5iecI&dib_tag=se&keywords=koraliki+kwiatki&qid=1709383437&sprefix=koraliki+kwiatk%2Caps%2C263&sr=8-11", 
+      "imageLink": "https://m.media-amazon.com/images/I/51byMfHl54L._AC_SX679_.jpg"
+  }, 
+  {
+      "shop": "amazon", 
+      "type": "bracelet", 
+      "affLink": "https://www.amazon.pl/ULDIGI-Bi%25C5%25BCuterii-Przewod%25C3%25B3w-Bransoletki-Przekladki/dp/B0C68LD3P1/ref=sr_1_5?__mk_pl_PL=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;crid=ZPKXYSRJ6E81&amp;dib=eyJ2IjoiMSJ9.PwpVLJk4upNVYnihZtNFnBpbgLZ2GRZEn9Yuxrb-Rxyjcnbp2ytAxZ_fIDYjTm_6Q3wfk9YcOi1b1q6JfAwCc4SMr42SPyJMXq_ddZGYE5WuT5w0kcxSLYrOnHPLTOU9AwPts70FanSKVSSIGfcpgM5OepYkFSnj1VSHtCXf7ooum_MG-QbjygwTheifpEkhVGodT_CRSBT--ulp6_VRbkq9pvGJELgzdzbvuecyntNClMFUjUpOXPz8ioQkGk903xYTgDNdiDqrG2kZje4UWiGvDJ29KXmFFFMx3fpgTmg._TGc449bnxzLMi36EGnZNX2ayj-jEA0Gh3IMsr5iecI&amp;dib_tag=se&amp;keywords=koraliki+kwiatki&amp;qid=1709383437&amp;sprefix=koraliki+kwiatk%252Caps%252C263&amp;sr=8-5&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=8606223de13db8a10e776095e812bd4a&camp=247&creative=1211", 
+      "link": "https://www.amazon.pl/ULDIGI-Bi%C5%BCuterii-Przewod%C3%B3w-Bransoletki-Przekladki/dp/B0C68LD3P1/ref=sr_1_5?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=ZPKXYSRJ6E81&dib=eyJ2IjoiMSJ9.PwpVLJk4upNVYnihZtNFnBpbgLZ2GRZEn9Yuxrb-Rxyjcnbp2ytAxZ_fIDYjTm_6Q3wfk9YcOi1b1q6JfAwCc4SMr42SPyJMXq_ddZGYE5WuT5w0kcxSLYrOnHPLTOU9AwPts70FanSKVSSIGfcpgM5OepYkFSnj1VSHtCXf7ooum_MG-QbjygwTheifpEkhVGodT_CRSBT--ulp6_VRbkq9pvGJELgzdzbvuecyntNClMFUjUpOXPz8ioQkGk903xYTgDNdiDqrG2kZje4UWiGvDJ29KXmFFFMx3fpgTmg._TGc449bnxzLMi36EGnZNX2ayj-jEA0Gh3IMsr5iecI&dib_tag=se&keywords=koraliki+kwiatki&qid=1709383437&sprefix=koraliki+kwiatk%2Caps%2C263&sr=8-5", 
+      "imageLink": "https://m.media-amazon.com/images/I/61Btqq9nXOL._AC_SX679_.jpg"
+  }, 
+  {
+      "shop": "amazon", 
+      "type": "bracelet", 
+      "affLink": "https://www.amazon.pl/HOODANCOS-Szklanych-Koralik%25C3%25B3w-Kolorowych-Zwierz%25C4%2599tami/dp/B0CQZB949S/ref=sr_1_18?__mk_pl_PL=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;crid=NAOP8PU964C8&amp;dib=eyJ2IjoiMSJ9.c2w_BDG_E8W-Nf7pAryMQ6PG17x8InCaYUHf_XxyBmhpJOLyVywndwhoO52JA7ddywWMWabcjpPKnzOH77h9OG8fgZ5xjRdTOdYzxAI1q71jpEvZ3dX_eGzk-16vtGe7-OfxODjqv4Bsrbrz4ezvR2jkaBmaP05Y_TfcP4RoWYdwNn4CCvyZKGwQ7b_gKj83yJXD_KofUSOOQP7-Ibas1kxIHkdwZ0uEzkTc4Nxm4kTIIzb8ODKlBQ3whdWPiGnOc07K77AyZgzOFaEOrWMWg4rzhd6BRDOyOMNPwn0mZJQ.OFd29eBsa6Y5SN5NtWcaYE0WJACpZDuMMzYekCMiAsY&amp;dib_tag=se&amp;keywords=koraliki+kotk&amp;qid=1709383403&amp;sprefix=koraliki+kotk%252Caps%252C1042&amp;sr=8-18&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=46264bc4ad966bc54a6e3afc96660919&camp=247&creative=1211", 
+      "link": "https://www.amazon.pl/HOODANCOS-Szklanych-Koralik%C3%B3w-Kolorowych-Zwierz%C4%99tami/dp/B0CQZB949S/ref=sr_1_18?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=NAOP8PU964C8&dib=eyJ2IjoiMSJ9.c2w_BDG_E8W-Nf7pAryMQ6PG17x8InCaYUHf_XxyBmhpJOLyVywndwhoO52JA7ddywWMWabcjpPKnzOH77h9OG8fgZ5xjRdTOdYzxAI1q71jpEvZ3dX_eGzk-16vtGe7-OfxODjqv4Bsrbrz4ezvR2jkaBmaP05Y_TfcP4RoWYdwNn4CCvyZKGwQ7b_gKj83yJXD_KofUSOOQP7-Ibas1kxIHkdwZ0uEzkTc4Nxm4kTIIzb8ODKlBQ3whdWPiGnOc07K77AyZgzOFaEOrWMWg4rzhd6BRDOyOMNPwn0mZJQ.OFd29eBsa6Y5SN5NtWcaYE0WJACpZDuMMzYekCMiAsY&dib_tag=se&keywords=koraliki+kotk&qid=1709383403&sprefix=koraliki+kotk%2Caps%2C1042&sr=8-18", 
+      "imageLink": "https://m.media-amazon.com/images/I/81bYODNPRBL._AC_SX679_.jpg"
+  }, 
+  {
+      "shop": "amazon", 
+      "type": "bracelet", 
+      "affLink": "https://www.amazon.pl/STOBOK-r%25C4%2599kodziela-dystansowy-dystansowe-paciorkowy/dp/B0CSQHBW84/ref=sr_1_10?__mk_pl_PL=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;crid=NAOP8PU964C8&amp;dib=eyJ2IjoiMSJ9.c2w_BDG_E8W-Nf7pAryMQ6PG17x8InCaYUHf_XxyBmhpJOLyVywndwhoO52JA7ddywWMWabcjpPKnzOH77h9OG8fgZ5xjRdTOdYzxAI1q71jpEvZ3dX_eGzk-16vtGe7-OfxODjqv4Bsrbrz4ezvR2jkaBmaP05Y_TfcP4RoWYdwNn4CCvyZKGwQ7b_gKj83yJXD_KofUSOOQP7-Ibas1kxIHkdwZ0uEzkTc4Nxm4kTIIzb8ODKlBQ3whdWPiGnOc07K77AyZgzOFaEOrWMWg4rzhd6BRDOyOMNPwn0mZJQ.OFd29eBsa6Y5SN5NtWcaYE0WJACpZDuMMzYekCMiAsY&amp;dib_tag=se&amp;keywords=koraliki+kotk&amp;qid=1709383403&amp;sprefix=koraliki+kotk%252Caps%252C1042&amp;sr=8-10&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=3b95b11478d59af0c55d4d33f3d38a01&camp=247&creative=1211", 
+      "link": "https://www.amazon.pl/STOBOK-r%C4%99kodziela-dystansowy-dystansowe-paciorkowy/dp/B0CSQHBW84/ref=sr_1_10?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=NAOP8PU964C8&dib=eyJ2IjoiMSJ9.c2w_BDG_E8W-Nf7pAryMQ6PG17x8InCaYUHf_XxyBmhpJOLyVywndwhoO52JA7ddywWMWabcjpPKnzOH77h9OG8fgZ5xjRdTOdYzxAI1q71jpEvZ3dX_eGzk-16vtGe7-OfxODjqv4Bsrbrz4ezvR2jkaBmaP05Y_TfcP4RoWYdwNn4CCvyZKGwQ7b_gKj83yJXD_KofUSOOQP7-Ibas1kxIHkdwZ0uEzkTc4Nxm4kTIIzb8ODKlBQ3whdWPiGnOc07K77AyZgzOFaEOrWMWg4rzhd6BRDOyOMNPwn0mZJQ.OFd29eBsa6Y5SN5NtWcaYE0WJACpZDuMMzYekCMiAsY&dib_tag=se&keywords=koraliki+kotk&qid=1709383403&sprefix=koraliki+kotk%2Caps%2C1042&sr=8-10", 
+      "imageLink": "https://m.media-amazon.com/images/I/61IjJ9aaz5L._AC_SX679_.jpg"
+  }, 
+  {
+      "shop": "amazon", 
+      "type": "bracelet", 
+      "affLink": "https://www.amazon.pl/DanLingJewelry-lampwork-samodzielnego-wykonania-bi%25C5%25BCuterii/dp/B0BZVRQB4B/ref=sr_1_4?__mk_pl_PL=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;crid=NAOP8PU964C8&amp;dib=eyJ2IjoiMSJ9.c2w_BDG_E8W-Nf7pAryMQ6PG17x8InCaYUHf_XxyBmhpJOLyVywndwhoO52JA7ddywWMWabcjpPKnzOH77h9OG8fgZ5xjRdTOdYzxAI1q71jpEvZ3dX_eGzk-16vtGe7-OfxODjqv4Bsrbrz4ezvR2jkaBmaP05Y_TfcP4RoWYdwNn4CCvyZKGwQ7b_gKj83yJXD_KofUSOOQP7-Ibas1kxIHkdwZ0uEzkTc4Nxm4kTIIzb8ODKlBQ3whdWPiGnOc07K77AyZgzOFaEOrWMWg4rzhd6BRDOyOMNPwn0mZJQ.OFd29eBsa6Y5SN5NtWcaYE0WJACpZDuMMzYekCMiAsY&amp;dib_tag=se&amp;keywords=koraliki%252Bkotk&amp;qid=1709383403&amp;sprefix=koraliki%252Bkotk%252Caps%252C1042&amp;sr=8-4&amp;th=1&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=010e36c6489fbf293565b6280ca6143e&camp=247&creative=1211", 
+      "link": "https://www.amazon.pl/DanLingJewelry-lampwork-samodzielnego-wykonania-bi%C5%BCuterii/dp/B0BZVRQB4B/ref=sr_1_4?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=NAOP8PU964C8&dib=eyJ2IjoiMSJ9.c2w_BDG_E8W-Nf7pAryMQ6PG17x8InCaYUHf_XxyBmhpJOLyVywndwhoO52JA7ddywWMWabcjpPKnzOH77h9OG8fgZ5xjRdTOdYzxAI1q71jpEvZ3dX_eGzk-16vtGe7-OfxODjqv4Bsrbrz4ezvR2jkaBmaP05Y_TfcP4RoWYdwNn4CCvyZKGwQ7b_gKj83yJXD_KofUSOOQP7-Ibas1kxIHkdwZ0uEzkTc4Nxm4kTIIzb8ODKlBQ3whdWPiGnOc07K77AyZgzOFaEOrWMWg4rzhd6BRDOyOMNPwn0mZJQ.OFd29eBsa6Y5SN5NtWcaYE0WJACpZDuMMzYekCMiAsY&dib_tag=se&keywords=koraliki%2Bkotk&qid=1709383403&sprefix=koraliki%2Bkotk%2Caps%2C1042&sr=8-4&th=1", 
+      "imageLink": "https://m.media-amazon.com/images/I/81YfFo4iPrL._AC_SX679_.jpg"
+  }, 
+  {
+      "shop": "amazon", 
+      "type": "bracelet", 
+      "affLink": "https://www.amazon.pl/nawlekania-majsterkowania-bransoletek-naszyjnik%25C3%25B3w-bi%25C5%25BCuterii/dp/B0CHF95N9T/ref=sr_1_84?__mk_pl_PL=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;crid=1P5H20QAS64CT&amp;dib=eyJ2IjoiMSJ9.dxCh-H1otTjpwPgejbv9OpufeU3npa-mcfKPE6nReP28EfFZz4MKFWg9AsR620wZKvPbhoPHofS_xMDkMP9Tthoqvz5RjBL4wXo8uJ4NsnlUDINdaHNHt4kDoWkSzixDGepOUPy-Ml8rVNerQtqUJYcQ4lBRoDHmDTE1xGaqSWsvBzz0_xXeSBXXK2Jes-XB_0qVgCiWlPyz6NVvnGJ3evBykD_tVuSuAXt-ixpnSw-FhmXA8f4eUu_vxgndzS3RPgUR2H0p3u_6yF5ax88Y8RJqICtIUjD_5q7KFmt_iV0.nfG97r_c96QFbY3vHFeLr6cT06PQyIrVQoKgtx8n0p0&amp;dib_tag=se&amp;keywords=koraliki+serca&amp;qid=1709383617&amp;sprefix=koraliki+kwiatki%252Caps%252C191&amp;sr=8-84&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=5f2f0471c23ac2214370eee5353e5c20&camp=247&creative=1211", 
+      "link": "https://www.amazon.pl/nawlekania-majsterkowania-bransoletek-naszyjnik%C3%B3w-bi%C5%BCuterii/dp/B0CHF95N9T/ref=sr_1_84?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1P5H20QAS64CT&dib=eyJ2IjoiMSJ9.dxCh-H1otTjpwPgejbv9OpufeU3npa-mcfKPE6nReP28EfFZz4MKFWg9AsR620wZKvPbhoPHofS_xMDkMP9Tthoqvz5RjBL4wXo8uJ4NsnlUDINdaHNHt4kDoWkSzixDGepOUPy-Ml8rVNerQtqUJYcQ4lBRoDHmDTE1xGaqSWsvBzz0_xXeSBXXK2Jes-XB_0qVgCiWlPyz6NVvnGJ3evBykD_tVuSuAXt-ixpnSw-FhmXA8f4eUu_vxgndzS3RPgUR2H0p3u_6yF5ax88Y8RJqICtIUjD_5q7KFmt_iV0.nfG97r_c96QFbY3vHFeLr6cT06PQyIrVQoKgtx8n0p0&dib_tag=se&keywords=koraliki+serca&qid=1709383617&sprefix=koraliki+kwiatki%2Caps%2C191&sr=8-84", 
+      "imageLink": "https://m.media-amazon.com/images/I/71EStVwpI0L._AC_SX679_.jpg"
+  }, 
+  {
+      "shop": "amazon", 
+      "type": "bracelet", 
+      "affLink": "https://www.amazon.pl/WangLaap-akrylowych-samogloska-bransoletek-naszyjnik%25C3%25B3w/dp/B09TT1KLVJ/ref=sr_1_50?__mk_pl_PL=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;crid=1P5H20QAS64CT&amp;dib=eyJ2IjoiMSJ9.dxCh-H1otTjpwPgejbv9OpufeU3npa-mcfKPE6nReP28EfFZz4MKFWg9AsR620wZKvPbhoPHofS_xMDkMP9Tthoqvz5RjBL4wXo8uJ4NsnlUDINdaHNHt4kDoWkSzixDGepOUPy-Ml8rVNerQtqUJYcQ4lBRoDHmDTE1xGaqSWsvBzz0_xXeSBXXK2Jes-XB_0qVgCiWlPyz6NVvnGJ3evBykD_tVuSuAXt-ixpnSw-FhmXA8f4eUu_vxgndzS3RPgUR2H0p3u_6yF5ax88Y8RJqICtIUjD_5q7KFmt_iV0.nfG97r_c96QFbY3vHFeLr6cT06PQyIrVQoKgtx8n0p0&amp;dib_tag=se&amp;keywords=koraliki+serca&amp;qid=1709383617&amp;sprefix=koraliki+kwiatki%252Caps%252C191&amp;sr=8-50&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=6a6c2fe9f5f8cf2c4af56f69578a44a8&camp=247&creative=1211", 
+      "link": "https://www.amazon.pl/WangLaap-akrylowych-samogloska-bransoletek-naszyjnik%C3%B3w/dp/B09TT1KLVJ/ref=sr_1_50?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1P5H20QAS64CT&dib=eyJ2IjoiMSJ9.dxCh-H1otTjpwPgejbv9OpufeU3npa-mcfKPE6nReP28EfFZz4MKFWg9AsR620wZKvPbhoPHofS_xMDkMP9Tthoqvz5RjBL4wXo8uJ4NsnlUDINdaHNHt4kDoWkSzixDGepOUPy-Ml8rVNerQtqUJYcQ4lBRoDHmDTE1xGaqSWsvBzz0_xXeSBXXK2Jes-XB_0qVgCiWlPyz6NVvnGJ3evBykD_tVuSuAXt-ixpnSw-FhmXA8f4eUu_vxgndzS3RPgUR2H0p3u_6yF5ax88Y8RJqICtIUjD_5q7KFmt_iV0.nfG97r_c96QFbY3vHFeLr6cT06PQyIrVQoKgtx8n0p0&dib_tag=se&keywords=koraliki+serca&qid=1709383617&sprefix=koraliki+kwiatki%2Caps%2C191&sr=8-50", 
+      "imageLink": "https://m.media-amazon.com/images/I/71wUt+A7rWL._AC_SX679_.jpg"
+  }, 
+  {
+      "shop": "amazon", 
+      "type": "bracelet", 
+      "affLink": "https://www.amazon.pl/nawlekania-bransoletek-naszyjnik%25C3%25B3w-breloczk%25C3%25B3w-r%25C4%2599kodziela/dp/B0C9WZV5QH/ref=sr_1_49?__mk_pl_PL=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;crid=1P5H20QAS64CT&amp;dib=eyJ2IjoiMSJ9.dxCh-H1otTjpwPgejbv9OpufeU3npa-mcfKPE6nReP28EfFZz4MKFWg9AsR620wZKvPbhoPHofS_xMDkMP9Tthoqvz5RjBL4wXo8uJ4NsnlUDINdaHNHt4kDoWkSzixDGepOUPy-Ml8rVNerQtqUJYcQ4lBRoDHmDTE1xGaqSWsvBzz0_xXeSBXXK2Jes-XB_0qVgCiWlPyz6NVvnGJ3evBykD_tVuSuAXt-ixpnSw-FhmXA8f4eUu_vxgndzS3RPgUR2H0p3u_6yF5ax88Y8RJqICtIUjD_5q7KFmt_iV0.nfG97r_c96QFbY3vHFeLr6cT06PQyIrVQoKgtx8n0p0&amp;dib_tag=se&amp;keywords=koraliki+serca&amp;qid=1709383617&amp;sprefix=koraliki+kwiatki%252Caps%252C191&amp;sr=8-49&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=c920da7f7d2086bcbced8842edc73af3&camp=247&creative=1211", 
+      "link": "https://www.amazon.pl/nawlekania-bransoletek-naszyjnik%C3%B3w-breloczk%C3%B3w-r%C4%99kodziela/dp/B0C9WZV5QH/ref=sr_1_49?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1P5H20QAS64CT&dib=eyJ2IjoiMSJ9.dxCh-H1otTjpwPgejbv9OpufeU3npa-mcfKPE6nReP28EfFZz4MKFWg9AsR620wZKvPbhoPHofS_xMDkMP9Tthoqvz5RjBL4wXo8uJ4NsnlUDINdaHNHt4kDoWkSzixDGepOUPy-Ml8rVNerQtqUJYcQ4lBRoDHmDTE1xGaqSWsvBzz0_xXeSBXXK2Jes-XB_0qVgCiWlPyz6NVvnGJ3evBykD_tVuSuAXt-ixpnSw-FhmXA8f4eUu_vxgndzS3RPgUR2H0p3u_6yF5ax88Y8RJqICtIUjD_5q7KFmt_iV0.nfG97r_c96QFbY3vHFeLr6cT06PQyIrVQoKgtx8n0p0&dib_tag=se&keywords=koraliki+serca&qid=1709383617&sprefix=koraliki+kwiatki%2Caps%2C191&sr=8-49", 
+      "imageLink": "https://m.media-amazon.com/images/I/71xJMKpTTcL._AC_SX679_.jpg"
+  }, 
+  {
+      "shop": "amazon", 
+      "type": "bracelet", 
+      "affLink": "https://www.amazon.pl/koraliki-ksztalcie-dystansowe-fasetowane-bransoletki/dp/B0B2R7R3JB/ref=sr_1_53?__mk_pl_PL=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;crid=1P5H20QAS64CT&amp;dib=eyJ2IjoiMSJ9.K2MMhQyxCt1VZ-RRzIEa1cX4DlYrjQci7JiIrZQUPakK6LLiGKqC8_Tggu3mAY1-D6EyRLEjEeERTPeJniQpUpiVn6s0R0tHP5klRWKVt7c.SyHuFlaYKOzJkEMzpDHlVeIw3fcK6xKE9BkFeFCpOJ0&amp;dib_tag=se&amp;keywords=koraliki+serca&amp;qid=1709383617&amp;sprefix=koraliki+kwiatki%252Caps%252C191&amp;sr=8-53&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=a33c93033ca6e151adce72070a420454&camp=247&creative=1211", 
+      "link": "https://www.amazon.pl/koraliki-ksztalcie-dystansowe-fasetowane-bransoletki/dp/B0B2R7R3JB/ref=sr_1_53?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1P5H20QAS64CT&dib=eyJ2IjoiMSJ9.K2MMhQyxCt1VZ-RRzIEa1cX4DlYrjQci7JiIrZQUPakK6LLiGKqC8_Tggu3mAY1-D6EyRLEjEeERTPeJniQpUpiVn6s0R0tHP5klRWKVt7c.SyHuFlaYKOzJkEMzpDHlVeIw3fcK6xKE9BkFeFCpOJ0&dib_tag=se&keywords=koraliki+serca&qid=1709383617&sprefix=koraliki+kwiatki%2Caps%2C191&sr=8-53", 
+      "imageLink": "https://m.media-amazon.com/images/I/71H9XCE44pL._AC_SX679_.jpg"
+  }, 
+  {
+      "shop": "amazon", 
+      "type": "bracelet", 
+      "affLink": "https://www.amazon.pl/Beadthoven-dystansowe-tworzenia-bi%25C5%25BCuterii-bransoletki/dp/B08HV17XHQ/ref=sr_1_50?__mk_pl_PL=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;crid=1P5H20QAS64CT&amp;dib=eyJ2IjoiMSJ9.U7hteDYNejBkemIRLThmQrT4tN9F1ugBCLWkbYy5NkNuLvCiZ3cuW3eCIO6E-zPzUmoYQacDl1bO6sMz88bNMquuaeENZgBhI7WEb08OFJoD3tiVhWCx65WIy8huiZbUJiOjNNqCMMfualJa9ODVfvFxny4xturZtUz1fWrSwux_Dvsy2ZN2XxBvzfehUhVBi3DkT_gA9g5B5nlwhpGesM2JmVqCq7SbSthJKg585VzBP9w8HZ2yUAJLsSvciO3TZF_Go--gzqQeYp2caHgV0iwCg0siouDST_Q6bpR9O70.UfILGF5lvFDLF_yDKkYOjNtCBK0WY9FrRduMmWuDiss&amp;dib_tag=se&amp;keywords=koraliki%252Bserca&amp;qid=1709383561&amp;sprefix=koraliki%252Bkwiatki%252Caps%252C191&amp;sr=8-50&amp;th=1&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=0811352f0e391e48a402db7342b58f3e&camp=247&creative=1211", 
+      "link": "https://www.amazon.pl/Beadthoven-dystansowe-tworzenia-bi%C5%BCuterii-bransoletki/dp/B08HV17XHQ/ref=sr_1_50?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1P5H20QAS64CT&dib=eyJ2IjoiMSJ9.U7hteDYNejBkemIRLThmQrT4tN9F1ugBCLWkbYy5NkNuLvCiZ3cuW3eCIO6E-zPzUmoYQacDl1bO6sMz88bNMquuaeENZgBhI7WEb08OFJoD3tiVhWCx65WIy8huiZbUJiOjNNqCMMfualJa9ODVfvFxny4xturZtUz1fWrSwux_Dvsy2ZN2XxBvzfehUhVBi3DkT_gA9g5B5nlwhpGesM2JmVqCq7SbSthJKg585VzBP9w8HZ2yUAJLsSvciO3TZF_Go--gzqQeYp2caHgV0iwCg0siouDST_Q6bpR9O70.UfILGF5lvFDLF_yDKkYOjNtCBK0WY9FrRduMmWuDiss&dib_tag=se&keywords=koraliki%2Bserca&qid=1709383561&sprefix=koraliki%2Bkwiatki%2Caps%2C191&sr=8-50&th=1", 
+      "imageLink": "https://m.media-amazon.com/images/I/61XAEF0RT0L._AC_SX679_.jpg"
+  }, 
+  {
+      "shop": "amazon", 
+      "type": "bracelet", 
+      "affLink": "https://www.amazon.pl/SUNNYCLUE-syntetyczne-dystansowy-rozci%25C4%2585gliwymi-bransoletki/dp/B09NLSDSNQ/ref=sr_1_45?__mk_pl_PL=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;crid=1P5H20QAS64CT&amp;dib=eyJ2IjoiMSJ9.U7hteDYNejBkemIRLThmQrT4tN9F1ugBCLWkbYy5NkNuLvCiZ3cuW3eCIO6E-zPzUmoYQacDl1bO6sMz88bNMquuaeENZgBhI7WEb08OFJoD3tiVhWCx65WIy8huiZbUJiOjNNqCMMfualJa9ODVfvFxny4xturZtUz1fWrSwux_Dvsy2ZN2XxBvzfehUhVBi3DkT_gA9g5B5nlwhpGesM2JmVqCq7SbSthJKg585VzBP9w8HZ2yUAJLsSvciO3TZF_Go--gzqQeYp2caHgV0iwCg0siouDST_Q6bpR9O70.UfILGF5lvFDLF_yDKkYOjNtCBK0WY9FrRduMmWuDiss&amp;dib_tag=se&amp;keywords=koraliki+serca&amp;qid=1709383561&amp;sprefix=koraliki+kwiatki%252Caps%252C191&amp;sr=8-45&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=29ac325a7ebd5f7c3953c169f403176c&camp=247&creative=1211", 
+      "link": "https://www.amazon.pl/SUNNYCLUE-syntetyczne-dystansowy-rozci%C4%85gliwymi-bransoletki/dp/B09NLSDSNQ/ref=sr_1_45?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1P5H20QAS64CT&dib=eyJ2IjoiMSJ9.U7hteDYNejBkemIRLThmQrT4tN9F1ugBCLWkbYy5NkNuLvCiZ3cuW3eCIO6E-zPzUmoYQacDl1bO6sMz88bNMquuaeENZgBhI7WEb08OFJoD3tiVhWCx65WIy8huiZbUJiOjNNqCMMfualJa9ODVfvFxny4xturZtUz1fWrSwux_Dvsy2ZN2XxBvzfehUhVBi3DkT_gA9g5B5nlwhpGesM2JmVqCq7SbSthJKg585VzBP9w8HZ2yUAJLsSvciO3TZF_Go--gzqQeYp2caHgV0iwCg0siouDST_Q6bpR9O70.UfILGF5lvFDLF_yDKkYOjNtCBK0WY9FrRduMmWuDiss&dib_tag=se&keywords=koraliki+serca&qid=1709383561&sprefix=koraliki+kwiatki%2Caps%2C191&sr=8-45", 
+      "imageLink": "https://m.media-amazon.com/images/I/819J4c5xvtL._AC_SX679_.jpg"
+  }, 
+  {
+      "shop": "amazon", 
+      "type": "bracelet", 
+      "affLink": "https://www.amazon.pl/produkcji-koralik%25C3%25B3w-dystansowe-fasetowane-ksztalcie/dp/B0B3D8PRD9/ref=sr_1_39?__mk_pl_PL=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;crid=1P5H20QAS64CT&amp;dib=eyJ2IjoiMSJ9.U7hteDYNejBkemIRLThmQrT4tN9F1ugBCLWkbYy5NkNuLvCiZ3cuW3eCIO6E-zPzUmoYQacDl1bO6sMz88bNMquuaeENZgBhI7WEb08OFJoD3tiVhWCx65WIy8huiZbUJiOjNNqCMMfualJa9ODVfvFxny4xturZtUz1fWrSwux_Dvsy2ZN2XxBvzfehUhVBi3DkT_gA9g5B5nlwhpGesM2JmVqCq7SbSthJKg585VzBP9w8HZ2yUAJLsSvciO3TZF_Go--gzqQeYp2caHgV0iwCg0siouDST_Q6bpR9O70.UfILGF5lvFDLF_yDKkYOjNtCBK0WY9FrRduMmWuDiss&amp;dib_tag=se&amp;keywords=koraliki%252Bserca&amp;qid=1709383561&amp;sprefix=koraliki%252Bkwiatki%252Caps%252C191&amp;sr=8-39&amp;th=1&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=34b67fec1e3fe2f682c07afb5b2096c7&camp=247&creative=1211", 
+      "link": "https://www.amazon.pl/produkcji-koralik%C3%B3w-dystansowe-fasetowane-ksztalcie/dp/B0B3D8PRD9/ref=sr_1_39?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1P5H20QAS64CT&dib=eyJ2IjoiMSJ9.U7hteDYNejBkemIRLThmQrT4tN9F1ugBCLWkbYy5NkNuLvCiZ3cuW3eCIO6E-zPzUmoYQacDl1bO6sMz88bNMquuaeENZgBhI7WEb08OFJoD3tiVhWCx65WIy8huiZbUJiOjNNqCMMfualJa9ODVfvFxny4xturZtUz1fWrSwux_Dvsy2ZN2XxBvzfehUhVBi3DkT_gA9g5B5nlwhpGesM2JmVqCq7SbSthJKg585VzBP9w8HZ2yUAJLsSvciO3TZF_Go--gzqQeYp2caHgV0iwCg0siouDST_Q6bpR9O70.UfILGF5lvFDLF_yDKkYOjNtCBK0WY9FrRduMmWuDiss&dib_tag=se&keywords=koraliki%2Bserca&qid=1709383561&sprefix=koraliki%2Bkwiatki%2Caps%2C191&sr=8-39&th=1", 
+      "imageLink": "https://m.media-amazon.com/images/I/81d602zmFrL._AC_SX679_.jpg"
+  }, 
+  {
+      "shop": "amazon", 
+      "type": "bracelet", 
+      "affLink": "https://www.amazon.pl/Naszyjnik-Akcesoria-Bransoletka-Wisiorkiem-Nadgarstek/dp/B0CGP4CM6W/ref=sr_1_32?__mk_pl_PL=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;crid=1P5H20QAS64CT&amp;dib=eyJ2IjoiMSJ9.U7hteDYNejBkemIRLThmQrT4tN9F1ugBCLWkbYy5NkNuLvCiZ3cuW3eCIO6E-zPzUmoYQacDl1bO6sMz88bNMquuaeENZgBhI7WEb08OFJoD3tiVhWCx65WIy8huiZbUJiOjNNqCMMfualJa9ODVfvFxny4xturZtUz1fWrSwux_Dvsy2ZN2XxBvzfehUhVBi3DkT_gA9g5B5nlwhpGesM2JmVqCq7SbSthJKg585VzBP9w8HZ2yUAJLsSvciO3TZF_Go--gzqQeYp2caHgV0iwCg0siouDST_Q6bpR9O70.UfILGF5lvFDLF_yDKkYOjNtCBK0WY9FrRduMmWuDiss&amp;dib_tag=se&amp;keywords=koraliki+serca&amp;qid=1709383561&amp;sprefix=koraliki+kwiatki%252Caps%252C191&amp;sr=8-32&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=d2dc203b576128abe0b3b0b5d1bd3c0d&camp=247&creative=1211", 
+      "link": "https://www.amazon.pl/Naszyjnik-Akcesoria-Bransoletka-Wisiorkiem-Nadgarstek/dp/B0CGP4CM6W/ref=sr_1_32?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1P5H20QAS64CT&dib=eyJ2IjoiMSJ9.U7hteDYNejBkemIRLThmQrT4tN9F1ugBCLWkbYy5NkNuLvCiZ3cuW3eCIO6E-zPzUmoYQacDl1bO6sMz88bNMquuaeENZgBhI7WEb08OFJoD3tiVhWCx65WIy8huiZbUJiOjNNqCMMfualJa9ODVfvFxny4xturZtUz1fWrSwux_Dvsy2ZN2XxBvzfehUhVBi3DkT_gA9g5B5nlwhpGesM2JmVqCq7SbSthJKg585VzBP9w8HZ2yUAJLsSvciO3TZF_Go--gzqQeYp2caHgV0iwCg0siouDST_Q6bpR9O70.UfILGF5lvFDLF_yDKkYOjNtCBK0WY9FrRduMmWuDiss&dib_tag=se&keywords=koraliki+serca&qid=1709383561&sprefix=koraliki+kwiatki%2Caps%2C191&sr=8-32", 
+      "imageLink": "https://m.media-amazon.com/images/I/615owiqycUS._AC_SX679_.jpg"
+  }, 
+  {
+      "shop": "amazon", 
+      "type": "bracelet", 
+      "affLink": "https://www.amazon.pl/ZesNice-nawlekania-bransoletek-samodzielnego-koralikami/dp/B0C93KZ5D9/ref=sr_1_30?__mk_pl_PL=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;crid=1P5H20QAS64CT&amp;dib=eyJ2IjoiMSJ9.U7hteDYNejBkemIRLThmQrT4tN9F1ugBCLWkbYy5NkNuLvCiZ3cuW3eCIO6E-zPzUmoYQacDl1bO6sMz88bNMquuaeENZgBhI7WEb08OFJoD3tiVhWCx65WIy8huiZbUJiOjNNqCMMfualJa9ODVfvFxny4xturZtUz1fWrSwux_Dvsy2ZN2XxBvzfehUhVBi3DkT_gA9g5B5nlwhpGesM2JmVqCq7SbSthJKg585VzBP9w8HZ2yUAJLsSvciO3TZF_Go--gzqQeYp2caHgV0iwCg0siouDST_Q6bpR9O70.UfILGF5lvFDLF_yDKkYOjNtCBK0WY9FrRduMmWuDiss&amp;dib_tag=se&amp;keywords=koraliki+serca&amp;qid=1709383561&amp;sprefix=koraliki+kwiatki%252Caps%252C191&amp;sr=8-30&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=6c331dfc4566e61980e7c95d73030f88&camp=247&creative=1211", 
+      "link": "https://www.amazon.pl/ZesNice-nawlekania-bransoletek-samodzielnego-koralikami/dp/B0C93KZ5D9/ref=sr_1_30?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1P5H20QAS64CT&dib=eyJ2IjoiMSJ9.U7hteDYNejBkemIRLThmQrT4tN9F1ugBCLWkbYy5NkNuLvCiZ3cuW3eCIO6E-zPzUmoYQacDl1bO6sMz88bNMquuaeENZgBhI7WEb08OFJoD3tiVhWCx65WIy8huiZbUJiOjNNqCMMfualJa9ODVfvFxny4xturZtUz1fWrSwux_Dvsy2ZN2XxBvzfehUhVBi3DkT_gA9g5B5nlwhpGesM2JmVqCq7SbSthJKg585VzBP9w8HZ2yUAJLsSvciO3TZF_Go--gzqQeYp2caHgV0iwCg0siouDST_Q6bpR9O70.UfILGF5lvFDLF_yDKkYOjNtCBK0WY9FrRduMmWuDiss&dib_tag=se&keywords=koraliki+serca&qid=1709383561&sprefix=koraliki+kwiatki%2Caps%2C191&sr=8-30", 
+      "imageLink": "https://m.media-amazon.com/images/I/71Szi58fcJL._AC_SX679_.jpg"
+  }, 
+  {
+      "shop": "amazon", 
+      "type": "bracelet", 
+      "affLink": "https://www.amazon.pl/Prasacco-koralik%25C3%25B3w-bransoletek-dystansowych-naszyjnik%25C3%25B3w/dp/B0BZP9JK82/ref=sr_1_25?__mk_pl_PL=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;crid=1P5H20QAS64CT&amp;dib=eyJ2IjoiMSJ9.U7hteDYNejBkemIRLThmQrT4tN9F1ugBCLWkbYy5NkNuLvCiZ3cuW3eCIO6E-zPzUmoYQacDl1bO6sMz88bNMquuaeENZgBhI7WEb08OFJoD3tiVhWCx65WIy8huiZbUJiOjNNqCMMfualJa9ODVfvFxny4xturZtUz1fWrSwux_Dvsy2ZN2XxBvzfehUhVBi3DkT_gA9g5B5nlwhpGesM2JmVqCq7SbSthJKg585VzBP9w8HZ2yUAJLsSvciO3TZF_Go--gzqQeYp2caHgV0iwCg0siouDST_Q6bpR9O70.UfILGF5lvFDLF_yDKkYOjNtCBK0WY9FrRduMmWuDiss&amp;dib_tag=se&amp;keywords=koraliki+serca&amp;qid=1709383561&amp;sprefix=koraliki+kwiatki%252Caps%252C191&amp;sr=8-25&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=a715f0be3c5c1e85a33a63f3ef8612e8&camp=247&creative=1211", 
+      "link": "https://www.amazon.pl/Prasacco-koralik%C3%B3w-bransoletek-dystansowych-naszyjnik%C3%B3w/dp/B0BZP9JK82/ref=sr_1_25?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1P5H20QAS64CT&dib=eyJ2IjoiMSJ9.U7hteDYNejBkemIRLThmQrT4tN9F1ugBCLWkbYy5NkNuLvCiZ3cuW3eCIO6E-zPzUmoYQacDl1bO6sMz88bNMquuaeENZgBhI7WEb08OFJoD3tiVhWCx65WIy8huiZbUJiOjNNqCMMfualJa9ODVfvFxny4xturZtUz1fWrSwux_Dvsy2ZN2XxBvzfehUhVBi3DkT_gA9g5B5nlwhpGesM2JmVqCq7SbSthJKg585VzBP9w8HZ2yUAJLsSvciO3TZF_Go--gzqQeYp2caHgV0iwCg0siouDST_Q6bpR9O70.UfILGF5lvFDLF_yDKkYOjNtCBK0WY9FrRduMmWuDiss&dib_tag=se&keywords=koraliki+serca&qid=1709383561&sprefix=koraliki+kwiatki%2Caps%2C191&sr=8-25", 
+      "imageLink": "https://m.media-amazon.com/images/I/817vrzQWW7L._AC_SX679_.jpg"
+  }, 
+  {
+      "shop": "amazon", 
+      "type": "bracelet", 
+      "affLink": "https://www.amazon.pl/CoKeeSun-koralik%25C3%25B3w-bransoletek-bi%25C5%25BCuterii-naszyjnik%25C3%25B3w/dp/B0CBLN3BVS/ref=sr_1_9?__mk_pl_PL=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;crid=1P5H20QAS64CT&amp;dib=eyJ2IjoiMSJ9.U7hteDYNejBkemIRLThmQrT4tN9F1ugBCLWkbYy5NkNuLvCiZ3cuW3eCIO6E-zPzUmoYQacDl1bO6sMz88bNMquuaeENZgBhI7WEb08OFJoD3tiVhWCx65WIy8huiZbUJiOjNNqCMMfualJa9ODVfvFxny4xturZtUz1fWrSwux_Dvsy2ZN2XxBvzfehUhVBi3DkT_gA9g5B5nlwhpGesM2JmVqCq7SbSthJKg585VzBP9w8HZ2yUAJLsSvciO3TZF_Go--gzqQeYp2caHgV0iwCg0siouDST_Q6bpR9O70.UfILGF5lvFDLF_yDKkYOjNtCBK0WY9FrRduMmWuDiss&amp;dib_tag=se&amp;keywords=koraliki+serca&amp;qid=1709383561&amp;sprefix=koraliki+kwiatki%252Caps%252C191&amp;sr=8-9&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=f0478414aa4ddb95f60e299cb231b9b6&camp=247&creative=1211", 
+      "link": "https://www.amazon.pl/CoKeeSun-koralik%C3%B3w-bransoletek-bi%C5%BCuterii-naszyjnik%C3%B3w/dp/B0CBLN3BVS/ref=sr_1_9?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1P5H20QAS64CT&dib=eyJ2IjoiMSJ9.U7hteDYNejBkemIRLThmQrT4tN9F1ugBCLWkbYy5NkNuLvCiZ3cuW3eCIO6E-zPzUmoYQacDl1bO6sMz88bNMquuaeENZgBhI7WEb08OFJoD3tiVhWCx65WIy8huiZbUJiOjNNqCMMfualJa9ODVfvFxny4xturZtUz1fWrSwux_Dvsy2ZN2XxBvzfehUhVBi3DkT_gA9g5B5nlwhpGesM2JmVqCq7SbSthJKg585VzBP9w8HZ2yUAJLsSvciO3TZF_Go--gzqQeYp2caHgV0iwCg0siouDST_Q6bpR9O70.UfILGF5lvFDLF_yDKkYOjNtCBK0WY9FrRduMmWuDiss&dib_tag=se&keywords=koraliki+serca&qid=1709383561&sprefix=koraliki+kwiatki%2Caps%2C191&sr=8-9", 
+      "imageLink": "https://m.media-amazon.com/images/I/814tTFGAwrL._AC_SX679_.jpg"
+  }, 
+  {
+      "shop": "amazon", 
+      "type": "bracelet", 
+      "affLink": "https://www.amazon.pl/HERZWILD-plastikowe-ksztalcie-samodzielnego-wykonania/dp/B0C7Z3WM2C/ref=sr_1_12?__mk_pl_PL=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;crid=1P5H20QAS64CT&amp;dib=eyJ2IjoiMSJ9.U7hteDYNejBkemIRLThmQrT4tN9F1ugBCLWkbYy5NkNuLvCiZ3cuW3eCIO6E-zPzUmoYQacDl1bO6sMz88bNMquuaeENZgBhI7WEb08OFJoD3tiVhWCx65WIy8huiZbUJiOjNNqCMMfualJa9ODVfvFxny4xturZtUz1fWrSwux_Dvsy2ZN2XxBvzfehUhVBi3DkT_gA9g5B5nlwhpGesM2JmVqCq7SbSthJKg585VzBP9w8HZ2yUAJLsSvciO3TZF_Go--gzqQeYp2caHgV0iwCg0siouDST_Q6bpR9O70.UfILGF5lvFDLF_yDKkYOjNtCBK0WY9FrRduMmWuDiss&amp;dib_tag=se&amp;keywords=koraliki%252Bserca&amp;qid=1709383561&amp;sprefix=koraliki%252Bkwiatki%252Caps%252C191&amp;sr=8-12&amp;th=1&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=9b5137b36f5fb67af41f8adda299ae56&camp=247&creative=1211", 
+      "link": "https://www.amazon.pl/HERZWILD-plastikowe-ksztalcie-samodzielnego-wykonania/dp/B0C7Z3WM2C/ref=sr_1_12?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1P5H20QAS64CT&dib=eyJ2IjoiMSJ9.U7hteDYNejBkemIRLThmQrT4tN9F1ugBCLWkbYy5NkNuLvCiZ3cuW3eCIO6E-zPzUmoYQacDl1bO6sMz88bNMquuaeENZgBhI7WEb08OFJoD3tiVhWCx65WIy8huiZbUJiOjNNqCMMfualJa9ODVfvFxny4xturZtUz1fWrSwux_Dvsy2ZN2XxBvzfehUhVBi3DkT_gA9g5B5nlwhpGesM2JmVqCq7SbSthJKg585VzBP9w8HZ2yUAJLsSvciO3TZF_Go--gzqQeYp2caHgV0iwCg0siouDST_Q6bpR9O70.UfILGF5lvFDLF_yDKkYOjNtCBK0WY9FrRduMmWuDiss&dib_tag=se&keywords=koraliki%2Bserca&qid=1709383561&sprefix=koraliki%2Bkwiatki%2Caps%2C191&sr=8-12&th=1", 
+      "imageLink": "https://m.media-amazon.com/images/I/51sEfgfNK2L._AC_SX679_.jpg"
+  }, 
+  {
+      "shop": "amazon", 
+      "type": "bracelet", 
+      "affLink": "https://www.amazon.pl/Prasacco-akrylowych-rzemie%25C5%259Blnicza-bransoletki-eksploatacyjne/dp/B0B5T9JS34/ref=sr_1_5?__mk_pl_PL=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;crid=1P5H20QAS64CT&amp;dib=eyJ2IjoiMSJ9.U7hteDYNejBkemIRLThmQrT4tN9F1ugBCLWkbYy5NkNuLvCiZ3cuW3eCIO6E-zPzUmoYQacDl1bO6sMz88bNMquuaeENZgBhI7WEb08OFJoD3tiVhWCx65WIy8huiZbUJiOjNNqCMMfualJa9ODVfvFxny4xturZtUz1fWrSwux_Dvsy2ZN2XxBvzfehUhVBi3DkT_gA9g5B5nlwhpGesM2JmVqCq7SbSthJKg585VzBP9w8HZ2yUAJLsSvciO3TZF_Go--gzqQeYp2caHgV0iwCg0siouDST_Q6bpR9O70.UfILGF5lvFDLF_yDKkYOjNtCBK0WY9FrRduMmWuDiss&amp;dib_tag=se&amp;keywords=koraliki+serca&amp;qid=1709383561&amp;sprefix=koraliki+kwiatki%252Caps%252C191&amp;sr=8-5&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=dba879d250e5dc548122d2518492425c&camp=247&creative=1211", 
+      "link": "https://www.amazon.pl/Prasacco-akrylowych-rzemie%C5%9Blnicza-bransoletki-eksploatacyjne/dp/B0B5T9JS34/ref=sr_1_5?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1P5H20QAS64CT&dib=eyJ2IjoiMSJ9.U7hteDYNejBkemIRLThmQrT4tN9F1ugBCLWkbYy5NkNuLvCiZ3cuW3eCIO6E-zPzUmoYQacDl1bO6sMz88bNMquuaeENZgBhI7WEb08OFJoD3tiVhWCx65WIy8huiZbUJiOjNNqCMMfualJa9ODVfvFxny4xturZtUz1fWrSwux_Dvsy2ZN2XxBvzfehUhVBi3DkT_gA9g5B5nlwhpGesM2JmVqCq7SbSthJKg585VzBP9w8HZ2yUAJLsSvciO3TZF_Go--gzqQeYp2caHgV0iwCg0siouDST_Q6bpR9O70.UfILGF5lvFDLF_yDKkYOjNtCBK0WY9FrRduMmWuDiss&dib_tag=se&keywords=koraliki+serca&qid=1709383561&sprefix=koraliki+kwiatki%2Caps%2C191&sr=8-5", 
+      "imageLink": "https://m.media-amazon.com/images/I/81IVphK-u0L._AC_SX679_.jpg"
+  }, 
+  {
+      "shop": "amazon", 
+      "type": "bracelet", 
+      "affLink": "https://www.amazon.pl/YIEUR-blyszcz%25C4%2585ce-majsterkowania-artystyczne-dystansowe/dp/B0BMWW77QL/ref=sr_1_7?__mk_pl_PL=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;crid=1P5H20QAS64CT&amp;dib=eyJ2IjoiMSJ9.U7hteDYNejBkemIRLThmQrT4tN9F1ugBCLWkbYy5NkNuLvCiZ3cuW3eCIO6E-zPzUmoYQacDl1bO6sMz88bNMquuaeENZgBhI7WEb08OFJoD3tiVhWCx65WIy8huiZbUJiOjNNqCMMfualJa9ODVfvFxny4xturZtUz1fWrSwux_Dvsy2ZN2XxBvzfehUhVBi3DkT_gA9g5B5nlwhpGesM2JmVqCq7SbSthJKg585VzBP9w8HZ2yUAJLsSvciO3TZF_Go--gzqQeYp2caHgV0iwCg0siouDST_Q6bpR9O70.UfILGF5lvFDLF_yDKkYOjNtCBK0WY9FrRduMmWuDiss&amp;dib_tag=se&amp;keywords=koraliki%252Bserca&amp;qid=1709383561&amp;sprefix=koraliki%252Bkwiatki%252Caps%252C191&amp;sr=8-7&amp;th=1&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=5fad254825291704ec78b7f09738523c&camp=247&creative=1211", 
+      "link": "https://www.amazon.pl/YIEUR-blyszcz%C4%85ce-majsterkowania-artystyczne-dystansowe/dp/B0BMWW77QL/ref=sr_1_7?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1P5H20QAS64CT&dib=eyJ2IjoiMSJ9.U7hteDYNejBkemIRLThmQrT4tN9F1ugBCLWkbYy5NkNuLvCiZ3cuW3eCIO6E-zPzUmoYQacDl1bO6sMz88bNMquuaeENZgBhI7WEb08OFJoD3tiVhWCx65WIy8huiZbUJiOjNNqCMMfualJa9ODVfvFxny4xturZtUz1fWrSwux_Dvsy2ZN2XxBvzfehUhVBi3DkT_gA9g5B5nlwhpGesM2JmVqCq7SbSthJKg585VzBP9w8HZ2yUAJLsSvciO3TZF_Go--gzqQeYp2caHgV0iwCg0siouDST_Q6bpR9O70.UfILGF5lvFDLF_yDKkYOjNtCBK0WY9FrRduMmWuDiss&dib_tag=se&keywords=koraliki%2Bserca&qid=1709383561&sprefix=koraliki%2Bkwiatki%2Caps%2C191&sr=8-7&th=1", 
+      "imageLink": "https://m.media-amazon.com/images/I/71GzqJIu5kL._AC_SX679_.jpg"
+  }, 
+  {
+      "shop": "amazon", 
+      "type": "bracelet", 
+      "affLink": "https://www.amazon.pl/Dyskotekowymi-Dyskotekowe-Akcesoria-Koralik%25C3%25B3w-Odblaskowe/dp/B0CQ22ZZNS/ref=sr_1_3?__mk_pl_PL=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;crid=2OOO6OK5IGG9G&amp;dib=eyJ2IjoiMSJ9.FHOrmEzVr4RamQjuBXk_b2k0EvDPCpBv9eQm6SwI5o2aanySmHQvybPBgsSe5eMw2F_SEWCTjKEGBZmROs6fLOh87dUnBXixRixLgfGkSXuZPZdgvqC3FWNr7pXOSF_IxO3GwBsu2BObS2-YWurqSc_4Q5aqp_OYigOxCUgndadIBfcXn_1CLYcnPGwuO5QHu-a_Zvj28ShmDnb-wPtCfwEb3eJYX39jPsc2Jc3_4A4B_RhdQi5MNScN1jzmgMHKJmx9VcgTk1vnCDUvU-3jHeQhfI8NEkgXu4TxzF2ch8k.U7TJzosHL6dhiqOHn-TCc6YlaWWFzf2J9_foFkUnUJw&amp;dib_tag=se&amp;keywords=koraliki+kula+dyskotekowa&amp;qid=1709384676&amp;sprefix=koraliki+kula+dyskotekow%252Caps%252C158&amp;sr=8-3&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=76733418bb321fecda708f99b44de947&camp=247&creative=1211", 
+      "link": "https://www.amazon.pl/Dyskotekowymi-Dyskotekowe-Akcesoria-Koralik%C3%B3w-Odblaskowe/dp/B0CQ22ZZNS/ref=sr_1_3?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2OOO6OK5IGG9G&dib=eyJ2IjoiMSJ9.FHOrmEzVr4RamQjuBXk_b2k0EvDPCpBv9eQm6SwI5o2aanySmHQvybPBgsSe5eMw2F_SEWCTjKEGBZmROs6fLOh87dUnBXixRixLgfGkSXuZPZdgvqC3FWNr7pXOSF_IxO3GwBsu2BObS2-YWurqSc_4Q5aqp_OYigOxCUgndadIBfcXn_1CLYcnPGwuO5QHu-a_Zvj28ShmDnb-wPtCfwEb3eJYX39jPsc2Jc3_4A4B_RhdQi5MNScN1jzmgMHKJmx9VcgTk1vnCDUvU-3jHeQhfI8NEkgXu4TxzF2ch8k.U7TJzosHL6dhiqOHn-TCc6YlaWWFzf2J9_foFkUnUJw&dib_tag=se&keywords=koraliki+kula+dyskotekowa&qid=1709384676&sprefix=koraliki+kula+dyskotekow%2Caps%2C158&sr=8-3", 
+      "imageLink": "https://m.media-amazon.com/images/I/71PvXh40lmL._AC_SX679_.jpg"
+  }, 
+  {
+      "shop": "amazon", 
+      "type": "bracelet", 
+      "affLink": "https://www.amazon.pl/Tworzenia-Bizuterii-Odblaskowa-Lustrzana-Rzemieslnictwo/dp/B0CGMWJ2T3/ref=sr_1_2?__mk_pl_PL=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;crid=2OOO6OK5IGG9G&amp;dib=eyJ2IjoiMSJ9.FHOrmEzVr4RamQjuBXk_b2k0EvDPCpBv9eQm6SwI5o2aanySmHQvybPBgsSe5eMw2F_SEWCTjKEGBZmROs6fLOh87dUnBXixRixLgfGkSXuZPZdgvqC3FWNr7pXOSF_IxO3GwBsu2BObS2-YWurqSc_4Q5aqp_OYigOxCUgndadIBfcXn_1CLYcnPGwuO5QHu-a_Zvj28ShmDnb-wPtCfwEb3eJYX39jPsc2Jc3_4A4B_RhdQi5MNScN1jzmgMHKJmx9VcgTk1vnCDUvU-3jHeQhfI8NEkgXu4TxzF2ch8k.U7TJzosHL6dhiqOHn-TCc6YlaWWFzf2J9_foFkUnUJw&amp;dib_tag=se&amp;keywords=koraliki+kula+dyskotekowa&amp;qid=1709384676&amp;sprefix=koraliki+kula+dyskotekow%252Caps%252C158&amp;sr=8-2&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=0cabd8e6c37d4e0470ce9f1b2cdbca00&camp=247&creative=1211", 
+      "link": "https://www.amazon.pl/Tworzenia-Bizuterii-Odblaskowa-Lustrzana-Rzemieslnictwo/dp/B0CGMWJ2T3/ref=sr_1_2?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2OOO6OK5IGG9G&dib=eyJ2IjoiMSJ9.FHOrmEzVr4RamQjuBXk_b2k0EvDPCpBv9eQm6SwI5o2aanySmHQvybPBgsSe5eMw2F_SEWCTjKEGBZmROs6fLOh87dUnBXixRixLgfGkSXuZPZdgvqC3FWNr7pXOSF_IxO3GwBsu2BObS2-YWurqSc_4Q5aqp_OYigOxCUgndadIBfcXn_1CLYcnPGwuO5QHu-a_Zvj28ShmDnb-wPtCfwEb3eJYX39jPsc2Jc3_4A4B_RhdQi5MNScN1jzmgMHKJmx9VcgTk1vnCDUvU-3jHeQhfI8NEkgXu4TxzF2ch8k.U7TJzosHL6dhiqOHn-TCc6YlaWWFzf2J9_foFkUnUJw&dib_tag=se&keywords=koraliki+kula+dyskotekowa&qid=1709384676&sprefix=koraliki+kula+dyskotekow%2Caps%2C158&sr=8-2", 
+      "imageLink": "https://m.media-amazon.com/images/I/81Q6kweMy-L._AC_SX679_.jpg"
+  }, 
+  {
+      "shop": "amazon", 
+      "type": "bracelet", 
+      "affLink": "https://www.amazon.pl/SUNNYCLUE-dyskotekowa-samodzielnego-bransoletki-rzemie%25C5%259Blnicze/dp/B09RFG9H9T/ref=sr_1_76?__mk_pl_PL=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;crid=2MMMUGVEF2F8X&amp;dib=eyJ2IjoiMSJ9.jl9BIn1KrKp_bDb2AM8RwCucZABN7bWjFdHXiBSA0oQi8I-OhzYT_g0sF0gcON6qwHM5itGtcbMNpxTyVTuXaoVJh7jRVSppxEKDGlSfDiamXkN6weh0Q9_7Y-l4RN2CZ8vpBuhV8LOALrdOlUhhW2TS8JNNLth31xzXNoqmaZ1RBXWjJAdQFKsA16Vwv-KRL2dtElvFq0IYUh1PUUyCZQul4Gjqq71gCMNxndPCMX5iNONympVdWqVLHy3bcbE69Ia8UHAmQV_nI-QISorQ0dh_g02MPVIEyrVaIEGH8ME.ZWUE_pZH2SThXDrKbXU7AIeyXTiw5mf003-1_GUJiZY&amp;dib_tag=se&amp;keywords=koraliki+brokatowe&amp;qid=1709384635&amp;sprefix=koraliki+brokat%252Caps%252C174&amp;sr=8-76&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=b010139ef7e1675cc0736661c94c62fe&camp=247&creative=1211", 
+      "link": "https://www.amazon.pl/SUNNYCLUE-dyskotekowa-samodzielnego-bransoletki-rzemie%C5%9Blnicze/dp/B09RFG9H9T/ref=sr_1_76?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2MMMUGVEF2F8X&dib=eyJ2IjoiMSJ9.jl9BIn1KrKp_bDb2AM8RwCucZABN7bWjFdHXiBSA0oQi8I-OhzYT_g0sF0gcON6qwHM5itGtcbMNpxTyVTuXaoVJh7jRVSppxEKDGlSfDiamXkN6weh0Q9_7Y-l4RN2CZ8vpBuhV8LOALrdOlUhhW2TS8JNNLth31xzXNoqmaZ1RBXWjJAdQFKsA16Vwv-KRL2dtElvFq0IYUh1PUUyCZQul4Gjqq71gCMNxndPCMX5iNONympVdWqVLHy3bcbE69Ia8UHAmQV_nI-QISorQ0dh_g02MPVIEyrVaIEGH8ME.ZWUE_pZH2SThXDrKbXU7AIeyXTiw5mf003-1_GUJiZY&dib_tag=se&keywords=koraliki+brokatowe&qid=1709384635&sprefix=koraliki+brokat%2Caps%2C174&sr=8-76", 
+      "imageLink": "https://m.media-amazon.com/images/I/81m3OeM01kL._AC_SX679_.jpg"
+  }, 
+  {
+      "shop": "amazon", 
+      "type": "bracelet", 
+      "affLink": "https://www.amazon.pl/koraliki-mieszane-bi%25C5%25BCuterii-Decoration-wypelniacze/dp/B09VXQTJJB/ref=sr_1_73?__mk_pl_PL=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;crid=2MMMUGVEF2F8X&amp;dib=eyJ2IjoiMSJ9.jl9BIn1KrKp_bDb2AM8RwCucZABN7bWjFdHXiBSA0oQi8I-OhzYT_g0sF0gcON6qwHM5itGtcbMNpxTyVTuXaoVJh7jRVSppxEKDGlSfDiamXkN6weh0Q9_7Y-l4RN2CZ8vpBuhV8LOALrdOlUhhW2TS8JNNLth31xzXNoqmaZ1RBXWjJAdQFKsA16Vwv-KRL2dtElvFq0IYUh1PUUyCZQul4Gjqq71gCMNxndPCMX5iNONympVdWqVLHy3bcbE69Ia8UHAmQV_nI-QISorQ0dh_g02MPVIEyrVaIEGH8ME.ZWUE_pZH2SThXDrKbXU7AIeyXTiw5mf003-1_GUJiZY&amp;dib_tag=se&amp;keywords=koraliki+brokatowe&amp;qid=1709384635&amp;sprefix=koraliki+brokat%252Caps%252C174&amp;sr=8-73&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=745b18cd7a33dc8f4852438c576d6513&camp=247&creative=1211", 
+      "link": "https://www.amazon.pl/koraliki-mieszane-bi%C5%BCuterii-Decoration-wypelniacze/dp/B09VXQTJJB/ref=sr_1_73?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2MMMUGVEF2F8X&dib=eyJ2IjoiMSJ9.jl9BIn1KrKp_bDb2AM8RwCucZABN7bWjFdHXiBSA0oQi8I-OhzYT_g0sF0gcON6qwHM5itGtcbMNpxTyVTuXaoVJh7jRVSppxEKDGlSfDiamXkN6weh0Q9_7Y-l4RN2CZ8vpBuhV8LOALrdOlUhhW2TS8JNNLth31xzXNoqmaZ1RBXWjJAdQFKsA16Vwv-KRL2dtElvFq0IYUh1PUUyCZQul4Gjqq71gCMNxndPCMX5iNONympVdWqVLHy3bcbE69Ia8UHAmQV_nI-QISorQ0dh_g02MPVIEyrVaIEGH8ME.ZWUE_pZH2SThXDrKbXU7AIeyXTiw5mf003-1_GUJiZY&dib_tag=se&keywords=koraliki+brokatowe&qid=1709384635&sprefix=koraliki+brokat%2Caps%2C174&sr=8-73", 
+      "imageLink": "https://m.media-amazon.com/images/I/719xBq2qnaL._AC_SX679_.jpg"
+  }, 
+  {
+      "shop": "amazon", 
+      "type": "bracelet", 
+      "affLink": "https://www.amazon.pl/Sztuczne-koraliki-kolorowe-bi%25C5%25BCuterii-r%25C4%2599kodziela/dp/B08J7QCC7N/ref=sr_1_72?__mk_pl_PL=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;crid=2MMMUGVEF2F8X&amp;dib=eyJ2IjoiMSJ9.jl9BIn1KrKp_bDb2AM8RwCucZABN7bWjFdHXiBSA0oQi8I-OhzYT_g0sF0gcON6qwHM5itGtcbMNpxTyVTuXaoVJh7jRVSppxEKDGlSfDiamXkN6weh0Q9_7Y-l4RN2CZ8vpBuhV8LOALrdOlUhhW2TS8JNNLth31xzXNoqmaZ1RBXWjJAdQFKsA16Vwv-KRL2dtElvFq0IYUh1PUUyCZQul4Gjqq71gCMNxndPCMX5iNONympVdWqVLHy3bcbE69Ia8UHAmQV_nI-QISorQ0dh_g02MPVIEyrVaIEGH8ME.ZWUE_pZH2SThXDrKbXU7AIeyXTiw5mf003-1_GUJiZY&amp;dib_tag=se&amp;keywords=koraliki+brokatowe&amp;qid=1709384635&amp;sprefix=koraliki+brokat%252Caps%252C174&amp;sr=8-72&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=969ecb6fa29b5efbfe3d76d73e6c3997&camp=247&creative=1211", 
+      "link": "https://www.amazon.pl/Sztuczne-koraliki-kolorowe-bi%C5%BCuterii-r%C4%99kodziela/dp/B08J7QCC7N/ref=sr_1_72?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2MMMUGVEF2F8X&dib=eyJ2IjoiMSJ9.jl9BIn1KrKp_bDb2AM8RwCucZABN7bWjFdHXiBSA0oQi8I-OhzYT_g0sF0gcON6qwHM5itGtcbMNpxTyVTuXaoVJh7jRVSppxEKDGlSfDiamXkN6weh0Q9_7Y-l4RN2CZ8vpBuhV8LOALrdOlUhhW2TS8JNNLth31xzXNoqmaZ1RBXWjJAdQFKsA16Vwv-KRL2dtElvFq0IYUh1PUUyCZQul4Gjqq71gCMNxndPCMX5iNONympVdWqVLHy3bcbE69Ia8UHAmQV_nI-QISorQ0dh_g02MPVIEyrVaIEGH8ME.ZWUE_pZH2SThXDrKbXU7AIeyXTiw5mf003-1_GUJiZY&dib_tag=se&keywords=koraliki+brokatowe&qid=1709384635&sprefix=koraliki+brokat%2Caps%2C174&sr=8-72", 
+      "imageLink": "https://m.media-amazon.com/images/I/61U8wgO2IGL._AC_SX679_.jpg"
+  }, 
+  {
+      "shop": "amazon", 
+      "type": "bracelet", 
+      "affLink": "https://www.amazon.pl/Ouligay-akrylowych-przezroczyste-samodzielnego-bransoletek/dp/B0C277LGT7/ref=sr_1_42?__mk_pl_PL=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;crid=2MMMUGVEF2F8X&amp;dib=eyJ2IjoiMSJ9.ENOz2Dhwc-yU8y79aah3FSrCVB0jIhlLpVvRh_HFoqiPoxcEZfyWhsduiATv1sZQM6p4rAim2SU7GHogGJn_p9V3DKexYGc8jYW1zYQyt1dR7b1K0lHAZrggTGin11z2wwmuUXGlNGJy2hdTGhum5yRu6LNmsu6d6W9rxvA3kh7lgmo3yMakFT_ukjaIxvYrWz0ZIjd83SfKZqRmA4zRPsChVIje-3Ca9_Jug-eYWD-f9jxv8omj-ycc70jssrK8WfhvY0hHVLdLRxGAasWj_JYvDboFbUkDYbdwmy7G7iw.MpBU0ZXhHPmw3TijdKQNI1I3a3Rv2UdQ4esq2_oy1mo&amp;dib_tag=se&amp;keywords=koraliki+brokatowe&amp;qid=1709384602&amp;sprefix=koraliki+brokat%252Caps%252C174&amp;sr=8-42&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=4e19042942f910e82fc4ca11bbd99e30&camp=247&creative=1211", 
+      "link": "https://www.amazon.pl/Ouligay-akrylowych-przezroczyste-samodzielnego-bransoletek/dp/B0C277LGT7/ref=sr_1_42?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2MMMUGVEF2F8X&dib=eyJ2IjoiMSJ9.ENOz2Dhwc-yU8y79aah3FSrCVB0jIhlLpVvRh_HFoqiPoxcEZfyWhsduiATv1sZQM6p4rAim2SU7GHogGJn_p9V3DKexYGc8jYW1zYQyt1dR7b1K0lHAZrggTGin11z2wwmuUXGlNGJy2hdTGhum5yRu6LNmsu6d6W9rxvA3kh7lgmo3yMakFT_ukjaIxvYrWz0ZIjd83SfKZqRmA4zRPsChVIje-3Ca9_Jug-eYWD-f9jxv8omj-ycc70jssrK8WfhvY0hHVLdLRxGAasWj_JYvDboFbUkDYbdwmy7G7iw.MpBU0ZXhHPmw3TijdKQNI1I3a3Rv2UdQ4esq2_oy1mo&dib_tag=se&keywords=koraliki+brokatowe&qid=1709384602&sprefix=koraliki+brokat%2Caps%2C174&sr=8-42", 
+      "imageLink": "https://m.media-amazon.com/images/I/81ofSeZp-PL._AC_SX679_.jpg"
+  }, 
+  {
+      "shop": "amazon", 
+      "type": "bracelet", 
+      "affLink": "https://www.amazon.pl/Beadthoven-przezroczyste-posortowane-naszyjnik%25C3%25B3w-bransoletek/dp/B08W523BND/ref=sr_1_14?__mk_pl_PL=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;crid=2MMMUGVEF2F8X&amp;dib=eyJ2IjoiMSJ9.ENOz2Dhwc-yU8y79aah3FSrCVB0jIhlLpVvRh_HFoqiPoxcEZfyWhsduiATv1sZQM6p4rAim2SU7GHogGJn_p9V3DKexYGc8jYW1zYQyt1dR7b1K0lHAZrggTGin11z2wwmuUXGlNGJy2hdTGhum5yRu6LNmsu6d6W9rxvA3kh7lgmo3yMakFT_ukjaIxvYrWz0ZIjd83SfKZqRmA4zRPsChVIje-3Ca9_Jug-eYWD-f9jxv8omj-ycc70jssrK8WfhvY0hHVLdLRxGAasWj_JYvDboFbUkDYbdwmy7G7iw.MpBU0ZXhHPmw3TijdKQNI1I3a3Rv2UdQ4esq2_oy1mo&amp;dib_tag=se&amp;keywords=koraliki%252Bbrokatowe&amp;qid=1709384602&amp;sprefix=koraliki%252Bbrokat%252Caps%252C174&amp;sr=8-14&amp;th=1&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=265067b59702cc28c935aedc20a9e9b6&camp=247&creative=1211", 
+      "link": "https://www.amazon.pl/Beadthoven-przezroczyste-posortowane-naszyjnik%C3%B3w-bransoletek/dp/B08W523BND/ref=sr_1_14?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2MMMUGVEF2F8X&dib=eyJ2IjoiMSJ9.ENOz2Dhwc-yU8y79aah3FSrCVB0jIhlLpVvRh_HFoqiPoxcEZfyWhsduiATv1sZQM6p4rAim2SU7GHogGJn_p9V3DKexYGc8jYW1zYQyt1dR7b1K0lHAZrggTGin11z2wwmuUXGlNGJy2hdTGhum5yRu6LNmsu6d6W9rxvA3kh7lgmo3yMakFT_ukjaIxvYrWz0ZIjd83SfKZqRmA4zRPsChVIje-3Ca9_Jug-eYWD-f9jxv8omj-ycc70jssrK8WfhvY0hHVLdLRxGAasWj_JYvDboFbUkDYbdwmy7G7iw.MpBU0ZXhHPmw3TijdKQNI1I3a3Rv2UdQ4esq2_oy1mo&dib_tag=se&keywords=koraliki%2Bbrokatowe&qid=1709384602&sprefix=koraliki%2Bbrokat%2Caps%2C174&sr=8-14&th=1", 
+      "imageLink": "https://m.media-amazon.com/images/I/71eTq82FgzL._AC_SX679_.jpg"
+  }, 
+  {
+      "shop": "amazon", 
+      "type": "bracelet", 
+      "affLink": "https://www.amazon.pl/szklanych-nawlekania-dystansowe-bransoletek-krysztalowe/dp/B0C7KYQ66Z/ref=sr_1_5?__mk_pl_PL=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;crid=2MMMUGVEF2F8X&amp;dib=eyJ2IjoiMSJ9.ENOz2Dhwc-yU8y79aah3FSrCVB0jIhlLpVvRh_HFoqiPoxcEZfyWhsduiATv1sZQM6p4rAim2SU7GHogGJn_p9V3DKexYGc8jYW1zYQyt1dR7b1K0lHAZrggTGin11z2wwmuUXGlNGJy2hdTGhum5yRu6LNmsu6d6W9rxvA3kh7lgmo3yMakFT_ukjaIxvYrWz0ZIjd83SfKZqRmA4zRPsChVIje-3Ca9_Jug-eYWD-f9jxv8omj-ycc70jssrK8WfhvY0hHVLdLRxGAasWj_JYvDboFbUkDYbdwmy7G7iw.MpBU0ZXhHPmw3TijdKQNI1I3a3Rv2UdQ4esq2_oy1mo&amp;dib_tag=se&amp;keywords=koraliki%252Bbrokatowe&amp;qid=1709384602&amp;sprefix=koraliki%252Bbrokat%252Caps%252C174&amp;sr=8-5&amp;th=1&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=d218f91ebb0a23686de534a8a53bc506&camp=247&creative=1211", 
+      "link": "https://www.amazon.pl/szklanych-nawlekania-dystansowe-bransoletek-krysztalowe/dp/B0C7KYQ66Z/ref=sr_1_5?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2MMMUGVEF2F8X&dib=eyJ2IjoiMSJ9.ENOz2Dhwc-yU8y79aah3FSrCVB0jIhlLpVvRh_HFoqiPoxcEZfyWhsduiATv1sZQM6p4rAim2SU7GHogGJn_p9V3DKexYGc8jYW1zYQyt1dR7b1K0lHAZrggTGin11z2wwmuUXGlNGJy2hdTGhum5yRu6LNmsu6d6W9rxvA3kh7lgmo3yMakFT_ukjaIxvYrWz0ZIjd83SfKZqRmA4zRPsChVIje-3Ca9_Jug-eYWD-f9jxv8omj-ycc70jssrK8WfhvY0hHVLdLRxGAasWj_JYvDboFbUkDYbdwmy7G7iw.MpBU0ZXhHPmw3TijdKQNI1I3a3Rv2UdQ4esq2_oy1mo&dib_tag=se&keywords=koraliki%2Bbrokatowe&qid=1709384602&sprefix=koraliki%2Bbrokat%2Caps%2C174&sr=8-5&th=1", 
+      "imageLink": "https://m.media-amazon.com/images/I/71B-yICxrRL._AC_SX679_.jpg"
+  }, 
+  {
+      "shop": "amazon", 
+      "type": "bracelet", 
+      "affLink": "https://www.amazon.pl/Uteruik-Antyczne-stokrotki-dystansowe-metalowe/dp/B07MMTC3VS/ref=sr_1_6?crid=3FJ8AU41R0SCV&amp;dib=eyJ2IjoiMSJ9.Q64Or3K61Ztp26YgKRcJrFwfbcTjQrarYVon3jKBxiLpeerfg34zEZjIXY1fxnB4EmIdRQ00dz-9DM-8UaFSxJp623NkSdIC1hLWyz4sDNaoFncWKRDeo5YAbjUe6I6KhXDNM5bopStaLVT7m60pT4-FG21OcRCyX6PfQfmpJRFqK0gJLtXaxWsMo5bfBr2uYPBp_Mda7rZgfJrz4IHLzgTbXoaVOJvmCZDRKyWvZyPj_XGS8PYNPSMY23M5FVIDTupxJGhFL6SOLE1lUs_0vo86QmoBkDvk_d7B7dypO3U.CpypnXnoE5V-WxTo99NbOBPYDU6sZxHOk9Rk-df80Wc&amp;dib_tag=se&amp;keywords=koraliki+stokrotka&amp;qid=1709384579&amp;sprefix=koraliki+stok%252Caps%252C180&amp;sr=8-6&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=bf889fd377526f23eb9cc3a1b9186ab5&camp=247&creative=1211", 
+      "link": "https://www.amazon.pl/Uteruik-Antyczne-stokrotki-dystansowe-metalowe/dp/B07MMTC3VS/ref=sr_1_6?crid=3FJ8AU41R0SCV&dib=eyJ2IjoiMSJ9.Q64Or3K61Ztp26YgKRcJrFwfbcTjQrarYVon3jKBxiLpeerfg34zEZjIXY1fxnB4EmIdRQ00dz-9DM-8UaFSxJp623NkSdIC1hLWyz4sDNaoFncWKRDeo5YAbjUe6I6KhXDNM5bopStaLVT7m60pT4-FG21OcRCyX6PfQfmpJRFqK0gJLtXaxWsMo5bfBr2uYPBp_Mda7rZgfJrz4IHLzgTbXoaVOJvmCZDRKyWvZyPj_XGS8PYNPSMY23M5FVIDTupxJGhFL6SOLE1lUs_0vo86QmoBkDvk_d7B7dypO3U.CpypnXnoE5V-WxTo99NbOBPYDU6sZxHOk9Rk-df80Wc&dib_tag=se&keywords=koraliki+stokrotka&qid=1709384579&sprefix=koraliki+stok%2Caps%2C180&sr=8-6", 
+      "imageLink": "https://m.media-amazon.com/images/I/61twOkFaRIL._AC_SX679_.jpg"
+  }, 
+  {
+      "shop": "amazon", 
+      "type": "bracelet", 
+      "affLink": "https://www.amazon.pl/opakowanie-zawieszki-stokrotka-plastikowe-scrapbooking/dp/B07QG8G4VJ/ref=sr_1_5?crid=3FJ8AU41R0SCV&amp;dib=eyJ2IjoiMSJ9.Q64Or3K61Ztp26YgKRcJrFwfbcTjQrarYVon3jKBxiLpeerfg34zEZjIXY1fxnB4EmIdRQ00dz-9DM-8UaFSxJp623NkSdIC1hLWyz4sDNaoFncWKRDeo5YAbjUe6I6KhXDNM5bopStaLVT7m60pT4-FG21OcRCyX6PfQfmpJRFqK0gJLtXaxWsMo5bfBr2uYPBp_Mda7rZgfJrz4IHLzgTbXoaVOJvmCZDRKyWvZyPj_XGS8PYNPSMY23M5FVIDTupxJGhFL6SOLE1lUs_0vo86QmoBkDvk_d7B7dypO3U.CpypnXnoE5V-WxTo99NbOBPYDU6sZxHOk9Rk-df80Wc&amp;dib_tag=se&amp;keywords=koraliki+stokrotka&amp;qid=1709384579&amp;sprefix=koraliki+stok%252Caps%252C180&amp;sr=8-5&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=8dc1b35fc95b6e4d9367b2f0d832408b&camp=247&creative=1211", 
+      "link": "https://www.amazon.pl/opakowanie-zawieszki-stokrotka-plastikowe-scrapbooking/dp/B07QG8G4VJ/ref=sr_1_5?crid=3FJ8AU41R0SCV&dib=eyJ2IjoiMSJ9.Q64Or3K61Ztp26YgKRcJrFwfbcTjQrarYVon3jKBxiLpeerfg34zEZjIXY1fxnB4EmIdRQ00dz-9DM-8UaFSxJp623NkSdIC1hLWyz4sDNaoFncWKRDeo5YAbjUe6I6KhXDNM5bopStaLVT7m60pT4-FG21OcRCyX6PfQfmpJRFqK0gJLtXaxWsMo5bfBr2uYPBp_Mda7rZgfJrz4IHLzgTbXoaVOJvmCZDRKyWvZyPj_XGS8PYNPSMY23M5FVIDTupxJGhFL6SOLE1lUs_0vo86QmoBkDvk_d7B7dypO3U.CpypnXnoE5V-WxTo99NbOBPYDU6sZxHOk9Rk-df80Wc&dib_tag=se&keywords=koraliki+stokrotka&qid=1709384579&sprefix=koraliki+stok%2Caps%2C180&sr=8-5", 
+      "imageLink": "https://m.media-amazon.com/images/I/71YvajjvlcL._AC_SX679_.jpg"
+  }, 
+  {
+      "shop": "amazon", 
+      "type": "bracelet", 
+      "affLink": "https://www.amazon.pl/Operitacx-Zwierz%25C4%2585tko-Ksztalcie-Tworzenia-Bransoletki/dp/B0CQFF173S/ref=sr_1_53?__mk_pl_PL=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;crid=1XFZU6WWR42OB&amp;dib=eyJ2IjoiMSJ9.nyE5qoFE3nJfZp79JOc9OP46148h96tqxQ8BGELUeDlpJOLyVywndwhoO52JA7ddywWMWabcjpPKnzOH77h9OGQzfLRf4-TpvdS3k50Z9bQMuSrMw8POSxX0QrcNO2An-OfxODjqv4Bsrbrz4ezvR916IUa8T3TE0bhOcZ51LYtvwhxP6A_knUwVNNKxJTcRyJXD_KofUSOOQP7-Ibas1kxIHkdwZ0uEzkTc4Nxm4kQwAEZMGeJXvFQBdRRxEpqk77tZjSNtG0Sh7YRsvc8O0YS15Z0NCImSUqpMwAuSNxM.tC0YQTxADBBymWu9NS8-xAY75ENdgdB0wlR2zLJKyEU&amp;dib_tag=se&amp;keywords=koraliki+kotki&amp;qid=1709384512&amp;sprefix=koraliki+kotki%252Caps%252C255&amp;sr=8-53&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=f68cecb8d12c5e46208ad29bce03ec55&camp=247&creative=1211", 
+      "link": "https://www.amazon.pl/Operitacx-Zwierz%C4%85tko-Ksztalcie-Tworzenia-Bransoletki/dp/B0CQFF173S/ref=sr_1_53?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1XFZU6WWR42OB&dib=eyJ2IjoiMSJ9.nyE5qoFE3nJfZp79JOc9OP46148h96tqxQ8BGELUeDlpJOLyVywndwhoO52JA7ddywWMWabcjpPKnzOH77h9OGQzfLRf4-TpvdS3k50Z9bQMuSrMw8POSxX0QrcNO2An-OfxODjqv4Bsrbrz4ezvR916IUa8T3TE0bhOcZ51LYtvwhxP6A_knUwVNNKxJTcRyJXD_KofUSOOQP7-Ibas1kxIHkdwZ0uEzkTc4Nxm4kQwAEZMGeJXvFQBdRRxEpqk77tZjSNtG0Sh7YRsvc8O0YS15Z0NCImSUqpMwAuSNxM.tC0YQTxADBBymWu9NS8-xAY75ENdgdB0wlR2zLJKyEU&dib_tag=se&keywords=koraliki+kotki&qid=1709384512&sprefix=koraliki+kotki%2Caps%2C255&sr=8-53", 
+      "imageLink": "https://m.media-amazon.com/images/I/81efMP0jfkL._AC_SX679_.jpg"
+  }, 
+  {
+      "shop": "amazon", 
+      "type": "bracelet", 
+      "affLink": "https://www.amazon.pl/DanLingJewelry-lampwork-samodzielnego-wykonania-bi%25C5%25BCuterii/dp/B0BZVRQB4B/ref=sr_1_5?__mk_pl_PL=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;crid=1XFZU6WWR42OB&amp;dib=eyJ2IjoiMSJ9.nyE5qoFE3nJfZp79JOc9OP46148h96tqxQ8BGELUeDlpJOLyVywndwhoO52JA7ddywWMWabcjpPKnzOH77h9OGQzfLRf4-TpvdS3k50Z9bQMuSrMw8POSxX0QrcNO2An-OfxODjqv4Bsrbrz4ezvR916IUa8T3TE0bhOcZ51LYtvwhxP6A_knUwVNNKxJTcRyJXD_KofUSOOQP7-Ibas1kxIHkdwZ0uEzkTc4Nxm4kQwAEZMGeJXvFQBdRRxEpqk77tZjSNtG0Sh7YRsvc8O0YS15Z0NCImSUqpMwAuSNxM.tC0YQTxADBBymWu9NS8-xAY75ENdgdB0wlR2zLJKyEU&amp;dib_tag=se&amp;keywords=koraliki%252Bkotki&amp;qid=1709384512&amp;sprefix=koraliki%252Bkotki%252Caps%252C255&amp;sr=8-5&amp;th=1&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=0978d8c2198be3c783e638eefe8851fc&camp=247&creative=1211", 
+      "link": "https://www.amazon.pl/DanLingJewelry-lampwork-samodzielnego-wykonania-bi%C5%BCuterii/dp/B0BZVRQB4B/ref=sr_1_5?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1XFZU6WWR42OB&dib=eyJ2IjoiMSJ9.nyE5qoFE3nJfZp79JOc9OP46148h96tqxQ8BGELUeDlpJOLyVywndwhoO52JA7ddywWMWabcjpPKnzOH77h9OGQzfLRf4-TpvdS3k50Z9bQMuSrMw8POSxX0QrcNO2An-OfxODjqv4Bsrbrz4ezvR916IUa8T3TE0bhOcZ51LYtvwhxP6A_knUwVNNKxJTcRyJXD_KofUSOOQP7-Ibas1kxIHkdwZ0uEzkTc4Nxm4kQwAEZMGeJXvFQBdRRxEpqk77tZjSNtG0Sh7YRsvc8O0YS15Z0NCImSUqpMwAuSNxM.tC0YQTxADBBymWu9NS8-xAY75ENdgdB0wlR2zLJKyEU&dib_tag=se&keywords=koraliki%2Bkotki&qid=1709384512&sprefix=koraliki%2Bkotki%2Caps%2C255&sr=8-5&th=1", 
+      "imageLink": "https://m.media-amazon.com/images/I/81YfFo4iPrL._AC_SX679_.jpg"
+  }, 
+  {
+      "shop": "amazon", 
+      "type": "bracelet", 
+      "affLink": "https://www.amazon.pl/nawlekania-dystansowe-majsterkowania-naszyjnik%25C3%25B3w-bransoletek/dp/B0CBRZYDD5/ref=sr_1_57?__mk_pl_PL=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;crid=1M0OFRO0JE3XT&amp;dib=eyJ2IjoiMSJ9.ob0EaeSRhQn6uQdmJjttNOLixOFem4hUC48X4kMYblyMkSoLpwhWFKzYYwTzdEAi4oiuwyVxICPCk3AOSmKZ1SI_C_jj7MjE3C1xZp1d1NY.HbNfRNhZXkkhoqAzxfAw-TX9ABwp1Efp57WZ_nwAigg&amp;dib_tag=se&amp;keywords=koraliki+per%25C5%2582y&amp;qid=1709384487&amp;sprefix=koraliki+per%25C5%2582y%252Caps%252C199&amp;sr=8-57&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=dadcc369f504a9ddc168a196f4d1c606&camp=247&creative=1211", 
+      "link": "https://www.amazon.pl/nawlekania-dystansowe-majsterkowania-naszyjnik%C3%B3w-bransoletek/dp/B0CBRZYDD5/ref=sr_1_57?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1M0OFRO0JE3XT&dib=eyJ2IjoiMSJ9.ob0EaeSRhQn6uQdmJjttNOLixOFem4hUC48X4kMYblyMkSoLpwhWFKzYYwTzdEAi4oiuwyVxICPCk3AOSmKZ1SI_C_jj7MjE3C1xZp1d1NY.HbNfRNhZXkkhoqAzxfAw-TX9ABwp1Efp57WZ_nwAigg&dib_tag=se&keywords=koraliki+per%C5%82y&qid=1709384487&sprefix=koraliki+per%C5%82y%2Caps%2C199&sr=8-57", 
+      "imageLink": "https://m.media-amazon.com/images/I/71amAyzblaL._AC_SX679_.jpg"
+  }, 
+  {
+      "shop": "amazon", 
+      "type": "bracelet", 
+      "affLink": "https://www.amazon.pl/TOAOB-plastikowe-jasnofioletowe-samodzielnego-bransoletki/dp/B0819CBRXV/ref=sr_1_11?__mk_pl_PL=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;crid=1M0OFRO0JE3XT&amp;dib=eyJ2IjoiMSJ9._h7VFBjNy3gh_yzNcPyqmZj7--FnZ-Aot5aFLeoYvrAc9oHXahbxdXAh9OBDWffrLt_rEmzuRaHYD2X1QZpsueYAgmgJ_mhxwT3LwMC9PkyWuSCNphftxuNGKlOSiUN7LnPK6o-tjjFRUBR8DeKek5fpwe8fYwIo-_sKP9CKtylPfv57ibZrodntBrGWMmbVBg0I_5ljtJOA9aSEOBZJsBBjGxSKyqOR-9rnzi8rdL13J7aMFTRV0eGGPEwUuyPJoUl-9SCH14vWgLe4GoYtut9Y465VdXSX3ir-Zn16wkc.RAqlOrmopOUvNlgFOaK7qTCvX32dGLN8Jrqy2Pb7fbQ&amp;dib_tag=se&amp;keywords=koraliki%252Bper%25C5%2582y&amp;qid=1709384450&amp;sprefix=koraliki%252Bper%25C5%2582y%252Caps%252C199&amp;sr=8-11&amp;th=1&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=23469f9f5d86762d924d32c8e3aacb9c&camp=247&creative=1211", 
+      "link": "https://www.amazon.pl/TOAOB-plastikowe-jasnofioletowe-samodzielnego-bransoletki/dp/B0819CBRXV/ref=sr_1_11?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1M0OFRO0JE3XT&dib=eyJ2IjoiMSJ9._h7VFBjNy3gh_yzNcPyqmZj7--FnZ-Aot5aFLeoYvrAc9oHXahbxdXAh9OBDWffrLt_rEmzuRaHYD2X1QZpsueYAgmgJ_mhxwT3LwMC9PkyWuSCNphftxuNGKlOSiUN7LnPK6o-tjjFRUBR8DeKek5fpwe8fYwIo-_sKP9CKtylPfv57ibZrodntBrGWMmbVBg0I_5ljtJOA9aSEOBZJsBBjGxSKyqOR-9rnzi8rdL13J7aMFTRV0eGGPEwUuyPJoUl-9SCH14vWgLe4GoYtut9Y465VdXSX3ir-Zn16wkc.RAqlOrmopOUvNlgFOaK7qTCvX32dGLN8Jrqy2Pb7fbQ&dib_tag=se&keywords=koraliki%2Bper%C5%82y&qid=1709384450&sprefix=koraliki%2Bper%C5%82y%2Caps%2C199&sr=8-11&th=1", 
+      "imageLink": "https://m.media-amazon.com/images/I/71OVpWLEUIL._AC_SX679_.jpg"
+  }, 
+  {
+      "shop": "amazon", 
+      "type": "bracelet", 
+      "affLink": "https://www.amazon.pl/fasetowanych-krysztalowe-nawlekania-majsterkowania-bransoletek/dp/B0CCTGF6VN/ref=sr_1_10?__mk_pl_PL=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;crid=1M0OFRO0JE3XT&amp;dib=eyJ2IjoiMSJ9._h7VFBjNy3gh_yzNcPyqmZj7--FnZ-Aot5aFLeoYvrAc9oHXahbxdXAh9OBDWffrLt_rEmzuRaHYD2X1QZpsueYAgmgJ_mhxwT3LwMC9PkyWuSCNphftxuNGKlOSiUN7LnPK6o-tjjFRUBR8DeKek5fpwe8fYwIo-_sKP9CKtylPfv57ibZrodntBrGWMmbVBg0I_5ljtJOA9aSEOBZJsBBjGxSKyqOR-9rnzi8rdL13J7aMFTRV0eGGPEwUuyPJoUl-9SCH14vWgLe4GoYtut9Y465VdXSX3ir-Zn16wkc.RAqlOrmopOUvNlgFOaK7qTCvX32dGLN8Jrqy2Pb7fbQ&amp;dib_tag=se&amp;keywords=koraliki+per%25C5%2582y&amp;qid=1709384450&amp;sprefix=koraliki+per%25C5%2582y%252Caps%252C199&amp;sr=8-10&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=ba2f6f4275ec641d4ce2ae8576e383ab&camp=247&creative=1211", 
+      "link": "https://www.amazon.pl/fasetowanych-krysztalowe-nawlekania-majsterkowania-bransoletek/dp/B0CCTGF6VN/ref=sr_1_10?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1M0OFRO0JE3XT&dib=eyJ2IjoiMSJ9._h7VFBjNy3gh_yzNcPyqmZj7--FnZ-Aot5aFLeoYvrAc9oHXahbxdXAh9OBDWffrLt_rEmzuRaHYD2X1QZpsueYAgmgJ_mhxwT3LwMC9PkyWuSCNphftxuNGKlOSiUN7LnPK6o-tjjFRUBR8DeKek5fpwe8fYwIo-_sKP9CKtylPfv57ibZrodntBrGWMmbVBg0I_5ljtJOA9aSEOBZJsBBjGxSKyqOR-9rnzi8rdL13J7aMFTRV0eGGPEwUuyPJoUl-9SCH14vWgLe4GoYtut9Y465VdXSX3ir-Zn16wkc.RAqlOrmopOUvNlgFOaK7qTCvX32dGLN8Jrqy2Pb7fbQ&dib_tag=se&keywords=koraliki+per%C5%82y&qid=1709384450&sprefix=koraliki+per%C5%82y%2Caps%2C199&sr=8-10", 
+      "imageLink": "https://m.media-amazon.com/images/I/91I3b5X+CuL._AC_SX679_.jpg"
+  }, 
+  {
+      "shop": "amazon", 
+      "type": "bracelet", 
+      "affLink": "https://www.amazon.pl/szklanych-kremowo-biale-naszyjnik%25C3%25B3w-bransoletek-r%25C4%2599kodzielniczej/dp/B0919M77S9/ref=sr_1_8?__mk_pl_PL=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;crid=1M0OFRO0JE3XT&amp;dib=eyJ2IjoiMSJ9._h7VFBjNy3gh_yzNcPyqmZj7--FnZ-Aot5aFLeoYvrAc9oHXahbxdXAh9OBDWffrLt_rEmzuRaHYD2X1QZpsueYAgmgJ_mhxwT3LwMC9PkyWuSCNphftxuNGKlOSiUN7LnPK6o-tjjFRUBR8DeKek5fpwe8fYwIo-_sKP9CKtylPfv57ibZrodntBrGWMmbVBg0I_5ljtJOA9aSEOBZJsBBjGxSKyqOR-9rnzi8rdL13J7aMFTRV0eGGPEwUuyPJoUl-9SCH14vWgLe4GoYtut9Y465VdXSX3ir-Zn16wkc.RAqlOrmopOUvNlgFOaK7qTCvX32dGLN8Jrqy2Pb7fbQ&amp;dib_tag=se&amp;keywords=koraliki+per%25C5%2582y&amp;qid=1709384450&amp;sprefix=koraliki+per%25C5%2582y%252Caps%252C199&amp;sr=8-8&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=71d6c4ad14285b8a4bdd2912a80886bd&camp=247&creative=1211", 
+      "link": "https://www.amazon.pl/szklanych-kremowo-biale-naszyjnik%C3%B3w-bransoletek-r%C4%99kodzielniczej/dp/B0919M77S9/ref=sr_1_8?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1M0OFRO0JE3XT&dib=eyJ2IjoiMSJ9._h7VFBjNy3gh_yzNcPyqmZj7--FnZ-Aot5aFLeoYvrAc9oHXahbxdXAh9OBDWffrLt_rEmzuRaHYD2X1QZpsueYAgmgJ_mhxwT3LwMC9PkyWuSCNphftxuNGKlOSiUN7LnPK6o-tjjFRUBR8DeKek5fpwe8fYwIo-_sKP9CKtylPfv57ibZrodntBrGWMmbVBg0I_5ljtJOA9aSEOBZJsBBjGxSKyqOR-9rnzi8rdL13J7aMFTRV0eGGPEwUuyPJoUl-9SCH14vWgLe4GoYtut9Y465VdXSX3ir-Zn16wkc.RAqlOrmopOUvNlgFOaK7qTCvX32dGLN8Jrqy2Pb7fbQ&dib_tag=se&keywords=koraliki+per%C5%82y&qid=1709384450&sprefix=koraliki+per%C5%82y%2Caps%2C199&sr=8-8", 
+      "imageLink": "https://m.media-amazon.com/images/I/71SbAjHltAS._AC_SX679_.jpg"
+  }, 
+  {
+      "shop": "amazon", 
+      "type": "bracelet", 
+      "affLink": "https://www.amazon.pl/sztucznych-sztucznego-majsterkowania-bransoletek-naszyjnik%25C3%25B3w/dp/B0BK9K4GC2/ref=sr_1_7?__mk_pl_PL=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;crid=1M0OFRO0JE3XT&amp;dib=eyJ2IjoiMSJ9._h7VFBjNy3gh_yzNcPyqmZj7--FnZ-Aot5aFLeoYvrAc9oHXahbxdXAh9OBDWffrLt_rEmzuRaHYD2X1QZpsueYAgmgJ_mhxwT3LwMC9PkyWuSCNphftxuNGKlOSiUN7LnPK6o-tjjFRUBR8DeKek5fpwe8fYwIo-_sKP9CKtylPfv57ibZrodntBrGWMmbVBg0I_5ljtJOA9aSEOBZJsBBjGxSKyqOR-9rnzi8rdL13J7aMFTRV0eGGPEwUuyPJoUl-9SCH14vWgLe4GoYtut9Y465VdXSX3ir-Zn16wkc.RAqlOrmopOUvNlgFOaK7qTCvX32dGLN8Jrqy2Pb7fbQ&amp;dib_tag=se&amp;keywords=koraliki+per%25C5%2582y&amp;qid=1709384450&amp;sprefix=koraliki+per%25C5%2582y%252Caps%252C199&amp;sr=8-7&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=76262bd9323787dcfe566df9d06a9022&camp=247&creative=1211", 
+      "link": "https://www.amazon.pl/sztucznych-sztucznego-majsterkowania-bransoletek-naszyjnik%C3%B3w/dp/B0BK9K4GC2/ref=sr_1_7?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1M0OFRO0JE3XT&dib=eyJ2IjoiMSJ9._h7VFBjNy3gh_yzNcPyqmZj7--FnZ-Aot5aFLeoYvrAc9oHXahbxdXAh9OBDWffrLt_rEmzuRaHYD2X1QZpsueYAgmgJ_mhxwT3LwMC9PkyWuSCNphftxuNGKlOSiUN7LnPK6o-tjjFRUBR8DeKek5fpwe8fYwIo-_sKP9CKtylPfv57ibZrodntBrGWMmbVBg0I_5ljtJOA9aSEOBZJsBBjGxSKyqOR-9rnzi8rdL13J7aMFTRV0eGGPEwUuyPJoUl-9SCH14vWgLe4GoYtut9Y465VdXSX3ir-Zn16wkc.RAqlOrmopOUvNlgFOaK7qTCvX32dGLN8Jrqy2Pb7fbQ&dib_tag=se&keywords=koraliki+per%C5%82y&qid=1709384450&sprefix=koraliki+per%C5%82y%2Caps%2C199&sr=8-7", 
+      "imageLink": "https://m.media-amazon.com/images/I/71v+zP9DCML._AC_SX679_.jpg"
+  }, 
+  {
+      "shop": "amazon", 
+      "type": "bracelet", 
+      "affLink": "https://www.amazon.pl/YIEUR-nawlekania-majsterkowania-produkcji-bi%25C5%25BCuterii/dp/B0BD69GD5Z/ref=sr_1_5?__mk_pl_PL=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;crid=1M0OFRO0JE3XT&amp;dib=eyJ2IjoiMSJ9._h7VFBjNy3gh_yzNcPyqmZj7--FnZ-Aot5aFLeoYvrAc9oHXahbxdXAh9OBDWffrLt_rEmzuRaHYD2X1QZpsueYAgmgJ_mhxwT3LwMC9PkyWuSCNphftxuNGKlOSiUN7LnPK6o-tjjFRUBR8DeKek5fpwe8fYwIo-_sKP9CKtylPfv57ibZrodntBrGWMmbVBg0I_5ljtJOA9aSEOBZJsBBjGxSKyqOR-9rnzi8rdL13J7aMFTRV0eGGPEwUuyPJoUl-9SCH14vWgLe4GoYtut9Y465VdXSX3ir-Zn16wkc.RAqlOrmopOUvNlgFOaK7qTCvX32dGLN8Jrqy2Pb7fbQ&amp;dib_tag=se&amp;keywords=koraliki%252Bper%25C5%2582y&amp;qid=1709384450&amp;sprefix=koraliki%252Bper%25C5%2582y%252Caps%252C199&amp;sr=8-5&amp;th=1&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=b4277b921dff503a2d2605435042465b&camp=247&creative=1211", 
+      "link": "https://www.amazon.pl/YIEUR-nawlekania-majsterkowania-produkcji-bi%C5%BCuterii/dp/B0BD69GD5Z/ref=sr_1_5?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1M0OFRO0JE3XT&dib=eyJ2IjoiMSJ9._h7VFBjNy3gh_yzNcPyqmZj7--FnZ-Aot5aFLeoYvrAc9oHXahbxdXAh9OBDWffrLt_rEmzuRaHYD2X1QZpsueYAgmgJ_mhxwT3LwMC9PkyWuSCNphftxuNGKlOSiUN7LnPK6o-tjjFRUBR8DeKek5fpwe8fYwIo-_sKP9CKtylPfv57ibZrodntBrGWMmbVBg0I_5ljtJOA9aSEOBZJsBBjGxSKyqOR-9rnzi8rdL13J7aMFTRV0eGGPEwUuyPJoUl-9SCH14vWgLe4GoYtut9Y465VdXSX3ir-Zn16wkc.RAqlOrmopOUvNlgFOaK7qTCvX32dGLN8Jrqy2Pb7fbQ&dib_tag=se&keywords=koraliki%2Bper%C5%82y&qid=1709384450&sprefix=koraliki%2Bper%C5%82y%2Caps%2C199&sr=8-5&th=1", 
+      "imageLink": "https://m.media-amazon.com/images/I/71-rXFD+TDL._AC_SX679_.jpg"
+  }, 
+  {
+      "shop": "amazon", 
+      "type": "bracelet", 
+      "affLink": "https://www.amazon.pl/SUNNYCLUE-ksztalcie-galwanizowane-slodkowodne-dystansowe/dp/B0CKLMC5ZT/ref=sr_1_175?__mk_pl_PL=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;crid=1P5H20QAS64CT&amp;dib=eyJ2IjoiMSJ9.ywYvPQa4XFMxrlrV63HUjatNHrqXY1YV6poqxrc8Cd7qEf4tUkk23W93hvxiHhT-IGAdopN7lQBHVluBlre1rYI0jWLQK0p6sx3jk1jJ7Py4sV_Lq_gC61ugbFwFl-qczxg-s5-F5VCT2gr_Onh2K7kRbCvx2WHTkVHqIxHesgwufLAwtXecC5477AWykhJ0crfxZLUPipdPVGIQlerfjliWym0ocp5qkNmaVxmkz0kfq9bsBpY4WhTgi7JGpvNasVbsi9rd3gmws01pmIEXiOX8Xsw2tZoYUw0slISbs4w.CgDl8iI4pO2vqyoXIpn2SY4vEeUdHZOIdo1y6Imd06s&amp;dib_tag=se&amp;keywords=koraliki+serca&amp;qid=1709384411&amp;sprefix=koraliki+kwiatki%252Caps%252C191&amp;sr=8-175&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=5e152c01d5849728024408b88e16362c&camp=247&creative=1211", 
+      "link": "https://www.amazon.pl/SUNNYCLUE-ksztalcie-galwanizowane-slodkowodne-dystansowe/dp/B0CKLMC5ZT/ref=sr_1_175?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1P5H20QAS64CT&dib=eyJ2IjoiMSJ9.ywYvPQa4XFMxrlrV63HUjatNHrqXY1YV6poqxrc8Cd7qEf4tUkk23W93hvxiHhT-IGAdopN7lQBHVluBlre1rYI0jWLQK0p6sx3jk1jJ7Py4sV_Lq_gC61ugbFwFl-qczxg-s5-F5VCT2gr_Onh2K7kRbCvx2WHTkVHqIxHesgwufLAwtXecC5477AWykhJ0crfxZLUPipdPVGIQlerfjliWym0ocp5qkNmaVxmkz0kfq9bsBpY4WhTgi7JGpvNasVbsi9rd3gmws01pmIEXiOX8Xsw2tZoYUw0slISbs4w.CgDl8iI4pO2vqyoXIpn2SY4vEeUdHZOIdo1y6Imd06s&dib_tag=se&keywords=koraliki+serca&qid=1709384411&sprefix=koraliki+kwiatki%2Caps%2C191&sr=8-175", 
+      "imageLink": "https://m.media-amazon.com/images/I/61oNsdSNwLL._AC_SX679_.jpg"
+  }, 
+  {
+      "shop": "amazon", 
+      "type": "bracelet", 
+      "affLink": "https://www.amazon.pl/HERZWILD-drewnianych-koralik%25C3%25B3w-drewniane-r%25C4%2599kodziela/dp/B0BXS798C3/ref=sr_1_145?__mk_pl_PL=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;crid=1P5H20QAS64CT&amp;dib=eyJ2IjoiMSJ9.ywYvPQa4XFMxrlrV63HUjatNHrqXY1YV6poqxrc8Cd7qEf4tUkk23W93hvxiHhT-IGAdopN7lQBHVluBlre1rYI0jWLQK0p6sx3jk1jJ7Py4sV_Lq_gC61ugbFwFl-qczxg-s5-F5VCT2gr_Onh2K7kRbCvx2WHTkVHqIxHesgwufLAwtXecC5477AWykhJ0crfxZLUPipdPVGIQlerfjliWym0ocp5qkNmaVxmkz0kfq9bsBpY4WhTgi7JGpvNasVbsi9rd3gmws01pmIEXiOX8Xsw2tZoYUw0slISbs4w.CgDl8iI4pO2vqyoXIpn2SY4vEeUdHZOIdo1y6Imd06s&amp;dib_tag=se&amp;keywords=koraliki+serca&amp;qid=1709384411&amp;sprefix=koraliki+kwiatki%252Caps%252C191&amp;sr=8-145&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=a44b7e2df69f6a56d40d374442ccc4de&camp=247&creative=1211", 
+      "link": "https://www.amazon.pl/HERZWILD-drewnianych-koralik%C3%B3w-drewniane-r%C4%99kodziela/dp/B0BXS798C3/ref=sr_1_145?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1P5H20QAS64CT&dib=eyJ2IjoiMSJ9.ywYvPQa4XFMxrlrV63HUjatNHrqXY1YV6poqxrc8Cd7qEf4tUkk23W93hvxiHhT-IGAdopN7lQBHVluBlre1rYI0jWLQK0p6sx3jk1jJ7Py4sV_Lq_gC61ugbFwFl-qczxg-s5-F5VCT2gr_Onh2K7kRbCvx2WHTkVHqIxHesgwufLAwtXecC5477AWykhJ0crfxZLUPipdPVGIQlerfjliWym0ocp5qkNmaVxmkz0kfq9bsBpY4WhTgi7JGpvNasVbsi9rd3gmws01pmIEXiOX8Xsw2tZoYUw0slISbs4w.CgDl8iI4pO2vqyoXIpn2SY4vEeUdHZOIdo1y6Imd06s&dib_tag=se&keywords=koraliki+serca&qid=1709384411&sprefix=koraliki+kwiatki%2Caps%2C191&sr=8-145", 
+      "imageLink": "https://m.media-amazon.com/images/I/71Bwdvls7UL._AC_SX679_.jpg"
+  }, 
+  {
+      "shop": "amazon", 
+      "type": "bracelet", 
+      "affLink": "https://www.amazon.pl/SUNNYCLUE-polimerowej-dystansowe-produkcji-bi%25C5%25BCuterii/dp/B0CL5TJT1B/ref=sr_1_137?__mk_pl_PL=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;crid=1P5H20QAS64CT&amp;dib=eyJ2IjoiMSJ9.kb0z0vzlkmwL-W3j-33ZoJ39kvB2y_3IcowzqJcu9j1D6ypT_gTdpFlF1IqZ6BF_Bgx1ZdTjAULgwoXimv5J5WEZh5w_GeeR8OAag9tuMsCkRilYgsQiR1wnaYMHpbqz9dCrhWKQdmht94FKdNn5mWY3FxWarfkJqVcffiGuvOS8PY8S2DSaFkxzTr4ZcJhNkfRlFsozSwLRR9UyD1e6WDZfnuuL9l-4Zdo-V5vWIYM7HL7S_YxYuyDmCNVV6_8E1bph4NvKCxIWY8FtB7VZd0wZDIbimjb48eCPaID_o0w.06LYXOPiIoh-pl1nghl5jCGAzKSsuLwBx8iEUEJyQlY&amp;dib_tag=se&amp;keywords=koraliki+serca&amp;qid=1709384374&amp;sprefix=koraliki+kwiatki%252Caps%252C191&amp;sr=8-137&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=d6f13007a0223a6d424e7ea17648ee49&camp=247&creative=1211", 
+      "link": "https://www.amazon.pl/SUNNYCLUE-polimerowej-dystansowe-produkcji-bi%C5%BCuterii/dp/B0CL5TJT1B/ref=sr_1_137?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1P5H20QAS64CT&dib=eyJ2IjoiMSJ9.kb0z0vzlkmwL-W3j-33ZoJ39kvB2y_3IcowzqJcu9j1D6ypT_gTdpFlF1IqZ6BF_Bgx1ZdTjAULgwoXimv5J5WEZh5w_GeeR8OAag9tuMsCkRilYgsQiR1wnaYMHpbqz9dCrhWKQdmht94FKdNn5mWY3FxWarfkJqVcffiGuvOS8PY8S2DSaFkxzTr4ZcJhNkfRlFsozSwLRR9UyD1e6WDZfnuuL9l-4Zdo-V5vWIYM7HL7S_YxYuyDmCNVV6_8E1bph4NvKCxIWY8FtB7VZd0wZDIbimjb48eCPaID_o0w.06LYXOPiIoh-pl1nghl5jCGAzKSsuLwBx8iEUEJyQlY&dib_tag=se&keywords=koraliki+serca&qid=1709384374&sprefix=koraliki+kwiatki%2Caps%2C191&sr=8-137", 
+      "imageLink": "https://m.media-amazon.com/images/I/718zovfcMNL._AC_SX679_.jpg"
+  }, 
+  {
+      "shop": "amazon", 
+      "type": "bracelet", 
+      "affLink": "https://www.amazon.pl/SiAura-Material-akrylowych-bransoletek-majsterkowania/dp/B0BQYN7TDH/ref=sr_1_123?__mk_pl_PL=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;crid=1P5H20QAS64CT&amp;dib=eyJ2IjoiMSJ9.kb0z0vzlkmwL-W3j-33ZoJ39kvB2y_3IcowzqJcu9j1D6ypT_gTdpFlF1IqZ6BF_Bgx1ZdTjAULgwoXimv5J5WEZh5w_GeeR8OAag9tuMsCkRilYgsQiR1wnaYMHpbqz9dCrhWKQdmht94FKdNn5mWY3FxWarfkJqVcffiGuvOS8PY8S2DSaFkxzTr4ZcJhNkfRlFsozSwLRR9UyD1e6WDZfnuuL9l-4Zdo-V5vWIYM7HL7S_YxYuyDmCNVV6_8E1bph4NvKCxIWY8FtB7VZd0wZDIbimjb48eCPaID_o0w.06LYXOPiIoh-pl1nghl5jCGAzKSsuLwBx8iEUEJyQlY&amp;dib_tag=se&amp;keywords=koraliki%252Bserca&amp;qid=1709384374&amp;sprefix=koraliki%252Bkwiatki%252Caps%252C191&amp;sr=8-123&amp;th=1&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=c105f0e52868279cd15ee2c16f4839e1&camp=247&creative=1211", 
+      "link": "https://www.amazon.pl/SiAura-Material-akrylowych-bransoletek-majsterkowania/dp/B0BQYN7TDH/ref=sr_1_123?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1P5H20QAS64CT&dib=eyJ2IjoiMSJ9.kb0z0vzlkmwL-W3j-33ZoJ39kvB2y_3IcowzqJcu9j1D6ypT_gTdpFlF1IqZ6BF_Bgx1ZdTjAULgwoXimv5J5WEZh5w_GeeR8OAag9tuMsCkRilYgsQiR1wnaYMHpbqz9dCrhWKQdmht94FKdNn5mWY3FxWarfkJqVcffiGuvOS8PY8S2DSaFkxzTr4ZcJhNkfRlFsozSwLRR9UyD1e6WDZfnuuL9l-4Zdo-V5vWIYM7HL7S_YxYuyDmCNVV6_8E1bph4NvKCxIWY8FtB7VZd0wZDIbimjb48eCPaID_o0w.06LYXOPiIoh-pl1nghl5jCGAzKSsuLwBx8iEUEJyQlY&dib_tag=se&keywords=koraliki%2Bserca&qid=1709384374&sprefix=koraliki%2Bkwiatki%2Caps%2C191&sr=8-123&th=1", 
+      "imageLink": "https://m.media-amazon.com/images/I/21pr6bkH5AL._AC_.jpg"
+  }, 
+  {
+      "shop": "amazon", 
+      "type": "bracelet", 
+      "affLink": "https://www.amazon.pl/nawlekania-doroslych-majsterkowania-bransoletek-produkcji/dp/B0C61RNGX6/ref=sr_1_111?__mk_pl_PL=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;crid=1P5H20QAS64CT&amp;dib=eyJ2IjoiMSJ9.kb0z0vzlkmwL-W3j-33ZoJ39kvB2y_3IcowzqJcu9j1D6ypT_gTdpFlF1IqZ6BF_Bgx1ZdTjAULgwoXimv5J5WEZh5w_GeeR8OAag9tuMsCkRilYgsQiR1wnaYMHpbqz9dCrhWKQdmht94FKdNn5mWY3FxWarfkJqVcffiGuvOS8PY8S2DSaFkxzTr4ZcJhNkfRlFsozSwLRR9UyD1e6WDZfnuuL9l-4Zdo-V5vWIYM7HL7S_YxYuyDmCNVV6_8E1bph4NvKCxIWY8FtB7VZd0wZDIbimjb48eCPaID_o0w.06LYXOPiIoh-pl1nghl5jCGAzKSsuLwBx8iEUEJyQlY&amp;dib_tag=se&amp;keywords=koraliki%252Bserca&amp;qid=1709384374&amp;sprefix=koraliki%252Bkwiatki%252Caps%252C191&amp;sr=8-111&amp;th=1&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=a5036c7436277bc0d4d47ef0bb6f9a8b&camp=247&creative=1211", 
+      "link": "https://www.amazon.pl/nawlekania-doroslych-majsterkowania-bransoletek-produkcji/dp/B0C61RNGX6/ref=sr_1_111?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1P5H20QAS64CT&dib=eyJ2IjoiMSJ9.kb0z0vzlkmwL-W3j-33ZoJ39kvB2y_3IcowzqJcu9j1D6ypT_gTdpFlF1IqZ6BF_Bgx1ZdTjAULgwoXimv5J5WEZh5w_GeeR8OAag9tuMsCkRilYgsQiR1wnaYMHpbqz9dCrhWKQdmht94FKdNn5mWY3FxWarfkJqVcffiGuvOS8PY8S2DSaFkxzTr4ZcJhNkfRlFsozSwLRR9UyD1e6WDZfnuuL9l-4Zdo-V5vWIYM7HL7S_YxYuyDmCNVV6_8E1bph4NvKCxIWY8FtB7VZd0wZDIbimjb48eCPaID_o0w.06LYXOPiIoh-pl1nghl5jCGAzKSsuLwBx8iEUEJyQlY&dib_tag=se&keywords=koraliki%2Bserca&qid=1709384374&sprefix=koraliki%2Bkwiatki%2Caps%2C191&sr=8-111&th=1", 
+      "imageLink": "https://m.media-amazon.com/images/I/71aDgJH97gL._AC_SX679_.jpg"
+  }, 
+  {
+      "shop": "amazon", 
+      "type": "bracelet", 
+      "affLink": "https://www.amazon.pl/UR-URLIFEHALL-choinkowych-oliwkowego-samodzielnego/dp/B0CG1LDRDW/ref=sr_1_8?__mk_pl_PL=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;crid=1INERF9IY3XCJ&amp;dib=eyJ2IjoiMSJ9.do1XUQ7RcAUmKr-Co06fFF1YWWq5crz_v0N5xgi6Hi5XWT0KwD8r2mpIS31glFhdVIHMnRFlV9a4Tz5k3iEHvfmZfjaXm3F9caMfD9TbNQLj4Kk6n58khN-9CowxagKBbDTRGoXVcUlOEc-emDd8LJLHklaRhAYgkYVZOb_Xh11dj112hecUGQFIUQTlSioRewoLpezQHo_fSTIBmIeycaxA0_WfB_TLP1dleNEh8_zjuvfN5IHyN2TlGzNCVli1ajKmWSHNAFZ-PUk9xUYuH_Nf6sdGVBj8W7_0_brDh4E.AUcNQreVMCxE-VNnz4jj5mZTGhA-jbsiM1WxdcFqsNE&amp;dib_tag=se&amp;keywords=koraliki%252Bdrzewo&amp;qid=1709387237&amp;sprefix=koraliki%252Bdrzewo%252Caps%252C188&amp;sr=8-8&amp;th=1&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=a8d35d2292563516e18de132cf384ad2&camp=247&creative=1211", 
+      "link": "https://www.amazon.pl/UR-URLIFEHALL-choinkowych-oliwkowego-samodzielnego/dp/B0CG1LDRDW/ref=sr_1_8?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1INERF9IY3XCJ&dib=eyJ2IjoiMSJ9.do1XUQ7RcAUmKr-Co06fFF1YWWq5crz_v0N5xgi6Hi5XWT0KwD8r2mpIS31glFhdVIHMnRFlV9a4Tz5k3iEHvfmZfjaXm3F9caMfD9TbNQLj4Kk6n58khN-9CowxagKBbDTRGoXVcUlOEc-emDd8LJLHklaRhAYgkYVZOb_Xh11dj112hecUGQFIUQTlSioRewoLpezQHo_fSTIBmIeycaxA0_WfB_TLP1dleNEh8_zjuvfN5IHyN2TlGzNCVli1ajKmWSHNAFZ-PUk9xUYuH_Nf6sdGVBj8W7_0_brDh4E.AUcNQreVMCxE-VNnz4jj5mZTGhA-jbsiM1WxdcFqsNE&dib_tag=se&keywords=koraliki%2Bdrzewo&qid=1709387237&sprefix=koraliki%2Bdrzewo%2Caps%2C188&sr=8-8&th=1", 
+      "imageLink": "https://m.media-amazon.com/images/I/81xmJpfrjIL._AC_SX679_.jpg"
+  }, 
+  {
+      "shop": "amazon", 
+      "type": "bracelet", 
+      "affLink": "https://www.amazon.pl/HERZWILD-u%25C5%259Bmiechni%25C4%2599tych-samodzielnego-bransoletek-naszyjnik%25C3%25B3w/dp/B09BQ3GQXT/ref=sr_1_2?__mk_pl_PL=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;dib=eyJ2IjoiMSJ9.5VE1aveNiBXKQAaagMmoAWv32Rood_6whaW1U042tDPhMaeOz4ekw9p5kOgyuvE9cJ9UvOQm04iA3fLDlV2_KBZ-k1pqazv7SVc465HQnkJ58tS9XzKdrAp1Kv8RMZZEsr4OIQW1hlEVq-7TsufX1PjzvkI5E1RmE8UKwJVRbMFhzDcaDzKnTXW8f7b8vPtyhf2KHgI2NLyv3IxchSq6g-2OJrkPA49WkmOEL44LSQGNZFHCudMDKSuFFnNRaINw3bMyqMzv97uTOXtk7eIrfOji08UIv4q08Bm2jfyk4VE.e_3H4UlYfN7xKQf-_WN0LbJsHPyIG83L33MwPnEWsoU&amp;dib_tag=se&amp;keywords=koraliki+ksi%25C4%2599%25C5%25BCyc&amp;qid=1709387334&amp;sr=8-2&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=9d57264b07b9d2126a9b328816a76298&camp=247&creative=1211", 
+      "link": "https://www.amazon.pl/HERZWILD-u%C5%9Bmiechni%C4%99tych-samodzielnego-bransoletek-naszyjnik%C3%B3w/dp/B09BQ3GQXT/ref=sr_1_2?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dib=eyJ2IjoiMSJ9.5VE1aveNiBXKQAaagMmoAWv32Rood_6whaW1U042tDPhMaeOz4ekw9p5kOgyuvE9cJ9UvOQm04iA3fLDlV2_KBZ-k1pqazv7SVc465HQnkJ58tS9XzKdrAp1Kv8RMZZEsr4OIQW1hlEVq-7TsufX1PjzvkI5E1RmE8UKwJVRbMFhzDcaDzKnTXW8f7b8vPtyhf2KHgI2NLyv3IxchSq6g-2OJrkPA49WkmOEL44LSQGNZFHCudMDKSuFFnNRaINw3bMyqMzv97uTOXtk7eIrfOji08UIv4q08Bm2jfyk4VE.e_3H4UlYfN7xKQf-_WN0LbJsHPyIG83L33MwPnEWsoU&dib_tag=se&keywords=koraliki+ksi%C4%99%C5%BCyc&qid=1709387334&sr=8-2", 
+      "imageLink": "https://m.media-amazon.com/images/I/71iFdEH9UyL.__AC_SX300_SY300_QL70_ML2_.jpg"
+  }, 
+  {
+      "shop": "amazon", 
+      "type": "bracelet", 
+      "affLink": "https://www.amazon.pl/Stiesy-krysztalowe-przezroczyste-samodzielnego-bransoletki/dp/B0CLLFRHNY/ref=sr_1_15?__mk_pl_PL=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;dib=eyJ2IjoiMSJ9.5VE1aveNiBXKQAaagMmoAWv32Rood_6whaW1U042tDPhMaeOz4ekw9p5kOgyuvE9cJ9UvOQm04iA3fLDlV2_KBZ-k1pqazv7SVc465HQnkJ58tS9XzKdrAp1Kv8RMZZEsr4OIQW1hlEVq-7TsufX1PjzvkI5E1RmE8UKwJVRbMFhzDcaDzKnTXW8f7b8vPtyhf2KHgI2NLyv3IxchSq6g-2OJrkPA49WkmOEL44LSQGNZFHCudMDKSuFFnNRaINw3bMyqMzv97uTOXtk7eIrfOji08UIv4q08Bm2jfyk4VE.e_3H4UlYfN7xKQf-_WN0LbJsHPyIG83L33MwPnEWsoU&amp;dib_tag=se&amp;keywords=koraliki%252Bksi%25C4%2599%25C5%25BCyc&amp;qid=1709387334&amp;sr=8-15&amp;th=1&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=017cb24c1f78f037fa0b26512b02277d&camp=247&creative=1211", 
+      "link": "https://www.amazon.pl/Stiesy-krysztalowe-przezroczyste-samodzielnego-bransoletki/dp/B0CLLFRHNY/ref=sr_1_15?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dib=eyJ2IjoiMSJ9.5VE1aveNiBXKQAaagMmoAWv32Rood_6whaW1U042tDPhMaeOz4ekw9p5kOgyuvE9cJ9UvOQm04iA3fLDlV2_KBZ-k1pqazv7SVc465HQnkJ58tS9XzKdrAp1Kv8RMZZEsr4OIQW1hlEVq-7TsufX1PjzvkI5E1RmE8UKwJVRbMFhzDcaDzKnTXW8f7b8vPtyhf2KHgI2NLyv3IxchSq6g-2OJrkPA49WkmOEL44LSQGNZFHCudMDKSuFFnNRaINw3bMyqMzv97uTOXtk7eIrfOji08UIv4q08Bm2jfyk4VE.e_3H4UlYfN7xKQf-_WN0LbJsHPyIG83L33MwPnEWsoU&dib_tag=se&keywords=koraliki%2Bksi%C4%99%C5%BCyc&qid=1709387334&sr=8-15&th=1", 
+      "imageLink": "https://m.media-amazon.com/images/I/81K7GDjMLfL._AC_SX679_.jpg"
+  }, 
+  {
+      "shop": "amazon", 
+      "type": "bracelet", 
+      "affLink": "https://www.amazon.pl/UR-URLIFEHALL-wykonanych-p%25C3%25B3lksi%25C4%2599%25C5%25BCyca-artystyczna/dp/B0CCVDWV2J/ref=sr_1_44?__mk_pl_PL=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;dib=eyJ2IjoiMSJ9.5VE1aveNiBXKQAaagMmoAWv32Rood_6whaW1U042tDPhMaeOz4ekw9p5kOgyuvE9cJ9UvOQm04iA3fLDlV2_KBZ-k1pqazv7SVc465HQnkJ58tS9XzKdrAp1Kv8RMZZEsr4OIQW1hlEVq-7TsufX1PjzvkI5E1RmE8UKwJVRbMFhzDcaDzKnTXW8f7b8vPtyhf2KHgI2NLyv3IxchSq6g-2OJrkPA49WkmOEL44LSQGNZFHCudMDKSuFFnNRaINw3bMyqMzv97uTOXtk7eIrfOji08UIv4q08Bm2jfyk4VE.e_3H4UlYfN7xKQf-_WN0LbJsHPyIG83L33MwPnEWsoU&amp;dib_tag=se&amp;keywords=koraliki%252Bksi%25C4%2599%25C5%25BCyc&amp;qid=1709387334&amp;sr=8-44&amp;th=1&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=3f5117d937784713418501e677b66260&camp=247&creative=1211", 
+      "link": "https://www.amazon.pl/UR-URLIFEHALL-wykonanych-p%C3%B3lksi%C4%99%C5%BCyca-artystyczna/dp/B0CCVDWV2J/ref=sr_1_44?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dib=eyJ2IjoiMSJ9.5VE1aveNiBXKQAaagMmoAWv32Rood_6whaW1U042tDPhMaeOz4ekw9p5kOgyuvE9cJ9UvOQm04iA3fLDlV2_KBZ-k1pqazv7SVc465HQnkJ58tS9XzKdrAp1Kv8RMZZEsr4OIQW1hlEVq-7TsufX1PjzvkI5E1RmE8UKwJVRbMFhzDcaDzKnTXW8f7b8vPtyhf2KHgI2NLyv3IxchSq6g-2OJrkPA49WkmOEL44LSQGNZFHCudMDKSuFFnNRaINw3bMyqMzv97uTOXtk7eIrfOji08UIv4q08Bm2jfyk4VE.e_3H4UlYfN7xKQf-_WN0LbJsHPyIG83L33MwPnEWsoU&dib_tag=se&keywords=koraliki%2Bksi%C4%99%C5%BCyc&qid=1709387334&sr=8-44&th=1", 
+      "imageLink": "https://m.media-amazon.com/images/I/611bbFsTbML._AC_SX679_.jpg"
+  }, 
+  {
+      "shop": "amazon", 
+      "type": "bracelet", 
+      "affLink": "https://www.amazon.pl/MJDCB-Naturalny-Perforowane-Bransoletki-Naszyjniki/dp/B0BFFJF5GN/ref=sr_1_36?__mk_pl_PL=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;dib=eyJ2IjoiMSJ9.5VE1aveNiBXKQAaagMmoAWv32Rood_6whaW1U042tDPhMaeOz4ekw9p5kOgyuvE9cJ9UvOQm04iA3fLDlV2_KBZ-k1pqazv7SVc465HQnkJ58tS9XzKdrAp1Kv8RMZZEsr4OIQW1hlEVq-7TsufX1PjzvkI5E1RmE8UKwJVRbMFhzDcaDzKnTXW8f7b8vPtyhf2KHgI2NLyv3IxchSq6g-2OJrkPA49WkmOEL44LSQGNZFHCudMDKSuFFnNRaINw3bMyqMzv97uTOXtk7eIrfOji08UIv4q08Bm2jfyk4VE.e_3H4UlYfN7xKQf-_WN0LbJsHPyIG83L33MwPnEWsoU&amp;dib_tag=se&amp;keywords=koraliki+ksi%25C4%2599%25C5%25BCyc&amp;qid=1709387334&amp;sr=8-36&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=b3c159e2adf004b7f3f50b2d9d9ac37b&camp=247&creative=1211", 
+      "link": "https://www.amazon.pl/MJDCB-Naturalny-Perforowane-Bransoletki-Naszyjniki/dp/B0BFFJF5GN/ref=sr_1_36?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dib=eyJ2IjoiMSJ9.5VE1aveNiBXKQAaagMmoAWv32Rood_6whaW1U042tDPhMaeOz4ekw9p5kOgyuvE9cJ9UvOQm04iA3fLDlV2_KBZ-k1pqazv7SVc465HQnkJ58tS9XzKdrAp1Kv8RMZZEsr4OIQW1hlEVq-7TsufX1PjzvkI5E1RmE8UKwJVRbMFhzDcaDzKnTXW8f7b8vPtyhf2KHgI2NLyv3IxchSq6g-2OJrkPA49WkmOEL44LSQGNZFHCudMDKSuFFnNRaINw3bMyqMzv97uTOXtk7eIrfOji08UIv4q08Bm2jfyk4VE.e_3H4UlYfN7xKQf-_WN0LbJsHPyIG83L33MwPnEWsoU&dib_tag=se&keywords=koraliki+ksi%C4%99%C5%BCyc&qid=1709387334&sr=8-36", 
+      "imageLink": "https://m.media-amazon.com/images/I/716lQHVR1mL._AC_SX679_.jpg"
+  }, 
+  {
+      "shop": "amazon", 
+      "type": "bracelet", 
+      "affLink": "https://www.amazon.pl/dystansowe-ksztalcie-arcyliczne-tworzenia-bransoletki/dp/B0CCJ5HG9P/ref=sr_1_20?__mk_pl_PL=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;dib=eyJ2IjoiMSJ9.5VE1aveNiBXKQAaagMmoAWv32Rood_6whaW1U042tDPhMaeOz4ekw9p5kOgyuvE9cJ9UvOQm04iA3fLDlV2_KBZ-k1pqazv7SVc465HQnkJ58tS9XzKdrAp1Kv8RMZZEsr4OIQW1hlEVq-7TsufX1PjzvkI5E1RmE8UKwJVRbMFhzDcaDzKnTXW8f7b8vPtyhf2KHgI2NLyv3IxchSq6g-2OJrkPA49WkmOEL44LSQGNZFHCudMDKSuFFnNRaINw3bMyqMzv97uTOXtk7eIrfOji08UIv4q08Bm2jfyk4VE.e_3H4UlYfN7xKQf-_WN0LbJsHPyIG83L33MwPnEWsoU&amp;dib_tag=se&amp;keywords=koraliki+ksi%25C4%2599%25C5%25BCyc&amp;qid=1709387334&amp;sr=8-20&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=d4a1261c21615f18314273cdd1134c55&camp=247&creative=1211", 
+      "link": "https://www.amazon.pl/dystansowe-ksztalcie-arcyliczne-tworzenia-bransoletki/dp/B0CCJ5HG9P/ref=sr_1_20?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dib=eyJ2IjoiMSJ9.5VE1aveNiBXKQAaagMmoAWv32Rood_6whaW1U042tDPhMaeOz4ekw9p5kOgyuvE9cJ9UvOQm04iA3fLDlV2_KBZ-k1pqazv7SVc465HQnkJ58tS9XzKdrAp1Kv8RMZZEsr4OIQW1hlEVq-7TsufX1PjzvkI5E1RmE8UKwJVRbMFhzDcaDzKnTXW8f7b8vPtyhf2KHgI2NLyv3IxchSq6g-2OJrkPA49WkmOEL44LSQGNZFHCudMDKSuFFnNRaINw3bMyqMzv97uTOXtk7eIrfOji08UIv4q08Bm2jfyk4VE.e_3H4UlYfN7xKQf-_WN0LbJsHPyIG83L33MwPnEWsoU&dib_tag=se&keywords=koraliki+ksi%C4%99%C5%BCyc&qid=1709387334&sr=8-20", 
+      "imageLink": "https://m.media-amazon.com/images/I/91WbmZww58L._AC_SX679_.jpg"
+  }, 
+  {
+      "shop": "amazon", 
+      "type": "bracelet", 
+      "affLink": "https://www.amazon.pl/TOAOB-szklanych-koralik%25C3%25B3w-majsterkowania-elastyczn%25C4%2585/dp/B075S22C92/ref=sr_1_49?__mk_pl_PL=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;dib=eyJ2IjoiMSJ9.OQyxon2Lr6rSuiJ-aSxwnt_3926SqR_ejrgF81ZRb_peOF3rxoaK3G2-d48WBEqVJd_XcWsDSx98ks8odUSRQhxk9QQCLYmxFZARPIrkUt8GwazFNZmz8ReaB4ES_BSKsvccLCDozYn67U02JDB4Aw.HCKFZvW1ZxGsTbNK-G9q-lHY6wCLOHswa0kGKVV43m4&amp;dib_tag=se&amp;keywords=koraliki+saturn&amp;qid=1709387655&amp;sr=8-49&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=3a586e93e4aa16a103e06db08cee2160&camp=247&creative=1211", 
+      "link": "https://www.amazon.pl/TOAOB-szklanych-koralik%C3%B3w-majsterkowania-elastyczn%C4%85/dp/B075S22C92/ref=sr_1_49?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dib=eyJ2IjoiMSJ9.OQyxon2Lr6rSuiJ-aSxwnt_3926SqR_ejrgF81ZRb_peOF3rxoaK3G2-d48WBEqVJd_XcWsDSx98ks8odUSRQhxk9QQCLYmxFZARPIrkUt8GwazFNZmz8ReaB4ES_BSKsvccLCDozYn67U02JDB4Aw.HCKFZvW1ZxGsTbNK-G9q-lHY6wCLOHswa0kGKVV43m4&dib_tag=se&keywords=koraliki+saturn&qid=1709387655&sr=8-49", 
+      "imageLink": "https://m.media-amazon.com/images/I/819OHd3m2OL.__AC_SX300_SY300_QL70_ML2_.jpg"
+  }, 
+  {
+      "shop": "amazon", 
+      "type": "bracelet", 
+      "affLink": "https://www.amazon.pl/Grevosea-ksztalcie-pastelowe-samodzielnego-bransoletka/dp/B09W5HTJLG/ref=sr_1_51?__mk_pl_PL=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;dib=eyJ2IjoiMSJ9.OQyxon2Lr6rSuiJ-aSxwnt_3926SqR_ejrgF81ZRb_peOF3rxoaK3G2-d48WBEqVJd_XcWsDSx98ks8odUSRQhxk9QQCLYmxFZARPIrkUt8GwazFNZmz8ReaB4ES_BSKsvccLCDozYn67U02JDB4Aw.HCKFZvW1ZxGsTbNK-G9q-lHY6wCLOHswa0kGKVV43m4&amp;dib_tag=se&amp;keywords=koraliki+saturn&amp;qid=1709387655&amp;sr=8-51&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=12508944e07cbf1cbffaee671ee4bfef&camp=247&creative=1211", 
+      "link": "https://www.amazon.pl/Grevosea-ksztalcie-pastelowe-samodzielnego-bransoletka/dp/B09W5HTJLG/ref=sr_1_51?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dib=eyJ2IjoiMSJ9.OQyxon2Lr6rSuiJ-aSxwnt_3926SqR_ejrgF81ZRb_peOF3rxoaK3G2-d48WBEqVJd_XcWsDSx98ks8odUSRQhxk9QQCLYmxFZARPIrkUt8GwazFNZmz8ReaB4ES_BSKsvccLCDozYn67U02JDB4Aw.HCKFZvW1ZxGsTbNK-G9q-lHY6wCLOHswa0kGKVV43m4&dib_tag=se&keywords=koraliki+saturn&qid=1709387655&sr=8-51", 
+      "imageLink": "https://m.media-amazon.com/images/I/81SOPWJ1ySL._AC_SX679_.jpg"
+  }, 
+  {
+      "shop": "amazon", 
+      "type": "bracelet", 
+      "affLink": "https://www.amazon.pl/dystansowe-ksztalcie-arcyliczne-tworzenia-bransoletki/dp/B0CCJ5HG9P/ref=sr_1_20?__mk_pl_PL=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;dib=eyJ2IjoiMSJ9.5VE1aveNiBXKQAaagMmoAWv32Rood_6whaW1U042tDPhMaeOz4ekw9p5kOgyuvE9cJ9UvOQm04iA3fLDlV2_KBZ-k1pqazv7SVc465HQnkJ58tS9XzKdrAp1Kv8RMZZEsr4OIQW1hlEVq-7TsufX1PjzvkI5E1RmE8UKwJVRbMFhzDcaDzKnTXW8f7b8vPtyhf2KHgI2NLyv3IxchSq6g-2OJrkPA49WkmOEL44LSQGNZFHCudMDKSuFFnNRaINw3bMyqMzv97uTOXtk7eIrfOji08UIv4q08Bm2jfyk4VE.e_3H4UlYfN7xKQf-_WN0LbJsHPyIG83L33MwPnEWsoU&amp;dib_tag=se&amp;keywords=koraliki+ksi%25C4%2599%25C5%25BCyc&amp;qid=1709387334&amp;sr=8-20&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=ce8bde2ec390190ba06678eb28329616&camp=247&creative=1211", 
+      "link": "https://www.amazon.pl/dystansowe-ksztalcie-arcyliczne-tworzenia-bransoletki/dp/B0CCJ5HG9P/ref=sr_1_20?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dib=eyJ2IjoiMSJ9.5VE1aveNiBXKQAaagMmoAWv32Rood_6whaW1U042tDPhMaeOz4ekw9p5kOgyuvE9cJ9UvOQm04iA3fLDlV2_KBZ-k1pqazv7SVc465HQnkJ58tS9XzKdrAp1Kv8RMZZEsr4OIQW1hlEVq-7TsufX1PjzvkI5E1RmE8UKwJVRbMFhzDcaDzKnTXW8f7b8vPtyhf2KHgI2NLyv3IxchSq6g-2OJrkPA49WkmOEL44LSQGNZFHCudMDKSuFFnNRaINw3bMyqMzv97uTOXtk7eIrfOji08UIv4q08Bm2jfyk4VE.e_3H4UlYfN7xKQf-_WN0LbJsHPyIG83L33MwPnEWsoU&dib_tag=se&keywords=koraliki+ksi%C4%99%C5%BCyc&qid=1709387334&sr=8-20", 
+      "imageLink": "https://m.media-amazon.com/images/I/91WbmZww58L._AC_SX679_.jpg"
+  }, 
+  {
+      "shop": "amazon", 
+      "type": "bracelet", 
+      "affLink": "https://www.amazon.pl/TOAOB-naturalnych-szlachetnych-bransoletek-naszyjnik%25C3%25B3w/dp/B0C89238S2/ref=sr_1_52?__mk_pl_PL=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;dib=eyJ2IjoiMSJ9.OQyxon2Lr6rSuiJ-aSxwnt_3926SqR_ejrgF81ZRb_peOF3rxoaK3G2-d48WBEqVJd_XcWsDSx98ks8odUSRQhxk9QQCLYmxFZARPIrkUt8GwazFNZmz8ReaB4ES_BSKsvccLCDozYn67U02JDB4Aw.HCKFZvW1ZxGsTbNK-G9q-lHY6wCLOHswa0kGKVV43m4&amp;dib_tag=se&amp;keywords=koraliki%252Bsaturn&amp;qid=1709387655&amp;sr=8-52&amp;th=1&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=1e9578ef21cec07c152764d0b58c9b55&camp=247&creative=1211", 
+      "link": "https://www.amazon.pl/TOAOB-naturalnych-szlachetnych-bransoletek-naszyjnik%C3%B3w/dp/B0C89238S2/ref=sr_1_52?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dib=eyJ2IjoiMSJ9.OQyxon2Lr6rSuiJ-aSxwnt_3926SqR_ejrgF81ZRb_peOF3rxoaK3G2-d48WBEqVJd_XcWsDSx98ks8odUSRQhxk9QQCLYmxFZARPIrkUt8GwazFNZmz8ReaB4ES_BSKsvccLCDozYn67U02JDB4Aw.HCKFZvW1ZxGsTbNK-G9q-lHY6wCLOHswa0kGKVV43m4&dib_tag=se&keywords=koraliki%2Bsaturn&qid=1709387655&sr=8-52&th=1", 
+      "imageLink": "https://m.media-amazon.com/images/I/71ydTCQksLL._AC_SX679_.jpg"
+  }, 
+  {
+      "shop": "amazon", 
+      "type": "bracelet", 
+      "affLink": "https://www.amazon.pl/EuTengHao-kamiennej-dystansowe-bransoletka-eterycznych/dp/B08M8ZY5D8/ref=sr_1_37?__mk_pl_PL=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;dib=eyJ2IjoiMSJ9.VD3u5WlCsjfg6n3z7xMLSOEtV-sC4BNKinQqQ9yS7tIIzJbx3ODSB2yX-t_OHsDWxkZHE_igqRstxtvcQAyTtKSDn1dQwVhtoFhoPd7bx7kwn4hZWuJch8TBgBPvmKYlcV7aEf7nM9iLV_JCdVJMRLYLeuEVPLZJBM-vraNH5EYqPGU6LTRQrVkpVCTx9Kl0dPWR4WLYKAGCrHU1tkOub90NVPpGu0mPMH34l8mXmdXc54NaZb4gZvG1fFlBvv5nQwe3uKyOvsJUMYhdTikM699Rf71V0LiUM8cJ8jwmA0g.JnIZd31N0JfiCtM3D0tkUON4Rhh6i7Vsmv0LhMQbti8&amp;dib_tag=se&amp;keywords=koraliki+planety&amp;qid=1709387676&amp;sr=8-37&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=54f0e16d0aeffc723dcc83b31336b90a&camp=247&creative=1211", 
+      "link": "https://www.amazon.pl/EuTengHao-kamiennej-dystansowe-bransoletka-eterycznych/dp/B08M8ZY5D8/ref=sr_1_37?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dib=eyJ2IjoiMSJ9.VD3u5WlCsjfg6n3z7xMLSOEtV-sC4BNKinQqQ9yS7tIIzJbx3ODSB2yX-t_OHsDWxkZHE_igqRstxtvcQAyTtKSDn1dQwVhtoFhoPd7bx7kwn4hZWuJch8TBgBPvmKYlcV7aEf7nM9iLV_JCdVJMRLYLeuEVPLZJBM-vraNH5EYqPGU6LTRQrVkpVCTx9Kl0dPWR4WLYKAGCrHU1tkOub90NVPpGu0mPMH34l8mXmdXc54NaZb4gZvG1fFlBvv5nQwe3uKyOvsJUMYhdTikM699Rf71V0LiUM8cJ8jwmA0g.JnIZd31N0JfiCtM3D0tkUON4Rhh6i7Vsmv0LhMQbti8&dib_tag=se&keywords=koraliki+planety&qid=1709387676&sr=8-37", 
+      "imageLink": "https://m.media-amazon.com/images/I/81cRo7SkcML._AC_SX679_.jpg"
+  }, 
+  {
+      "shop": "amazon", 
+      "type": "bracelet", 
+      "affLink": "https://www.amazon.pl/SKYBEADS-nawlekania-naturalne-kamienie-szlachetne/dp/B07RVPK7Q3/ref=sr_1_27?__mk_pl_PL=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;dib=eyJ2IjoiMSJ9.VD3u5WlCsjfg6n3z7xMLSOEtV-sC4BNKinQqQ9yS7tIIzJbx3ODSB2yX-t_OHsDWxkZHE_igqRstxtvcQAyTtKSDn1dQwVhtoFhoPd7bx7kwn4hZWuJch8TBgBPvmKYlcV7aEf7nM9iLV_JCdVJMRLYLeuEVPLZJBM-vraNH5EYqPGU6LTRQrVkpVCTx9Kl0dPWR4WLYKAGCrHU1tkOub90NVPpGu0mPMH34l8mXmdXc54NaZb4gZvG1fFlBvv5nQwe3uKyOvsJUMYhdTikM699Rf71V0LiUM8cJ8jwmA0g.JnIZd31N0JfiCtM3D0tkUON4Rhh6i7Vsmv0LhMQbti8&amp;dib_tag=se&amp;keywords=koraliki%252Bplanety&amp;qid=1709387676&amp;sr=8-27&amp;th=1&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=3f0be7a7a120b5f16f227e5de6748ca6&camp=247&creative=1211", 
+      "link": "https://www.amazon.pl/SKYBEADS-nawlekania-naturalne-kamienie-szlachetne/dp/B07RVPK7Q3/ref=sr_1_27?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dib=eyJ2IjoiMSJ9.VD3u5WlCsjfg6n3z7xMLSOEtV-sC4BNKinQqQ9yS7tIIzJbx3ODSB2yX-t_OHsDWxkZHE_igqRstxtvcQAyTtKSDn1dQwVhtoFhoPd7bx7kwn4hZWuJch8TBgBPvmKYlcV7aEf7nM9iLV_JCdVJMRLYLeuEVPLZJBM-vraNH5EYqPGU6LTRQrVkpVCTx9Kl0dPWR4WLYKAGCrHU1tkOub90NVPpGu0mPMH34l8mXmdXc54NaZb4gZvG1fFlBvv5nQwe3uKyOvsJUMYhdTikM699Rf71V0LiUM8cJ8jwmA0g.JnIZd31N0JfiCtM3D0tkUON4Rhh6i7Vsmv0LhMQbti8&dib_tag=se&keywords=koraliki%2Bplanety&qid=1709387676&sr=8-27&th=1", 
+      "imageLink": "https://m.media-amazon.com/images/I/61j4jjCSqjL._AC_SX679_.jpg"
+  }, 
+  {
+      "shop": "amazon", 
+      "type": "bracelet", 
+      "affLink": "https://www.amazon.pl/Kosmiczna-Sloneczny-Bransoletka-M%25C4%2599%25C5%25BCczy%25C5%25BAni-Professional/dp/B0BLH6TXZH/ref=sr_1_19?__mk_pl_PL=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;dib=eyJ2IjoiMSJ9.VD3u5WlCsjfg6n3z7xMLSOEtV-sC4BNKinQqQ9yS7tIIzJbx3ODSB2yX-t_OHsDWxkZHE_igqRstxtvcQAyTtKSDn1dQwVhtoFhoPd7bx7kwn4hZWuJch8TBgBPvmKYlcV7aEf7nM9iLV_JCdVJMRLYLeuEVPLZJBM-vraNH5EYqPGU6LTRQrVkpVCTx9Kl0dPWR4WLYKAGCrHU1tkOub90NVPpGu0mPMH34l8mXmdXc54NaZb4gZvG1fFlBvv5nQwe3uKyOvsJUMYhdTikM699Rf71V0LiUM8cJ8jwmA0g.JnIZd31N0JfiCtM3D0tkUON4Rhh6i7Vsmv0LhMQbti8&amp;dib_tag=se&amp;keywords=koraliki+planety&amp;qid=1709387676&amp;sr=8-19&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=f4a645f43694796903f2e22f77dcf224&camp=247&creative=1211", 
+      "link": "https://www.amazon.pl/Kosmiczna-Sloneczny-Bransoletka-M%C4%99%C5%BCczy%C5%BAni-Professional/dp/B0BLH6TXZH/ref=sr_1_19?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dib=eyJ2IjoiMSJ9.VD3u5WlCsjfg6n3z7xMLSOEtV-sC4BNKinQqQ9yS7tIIzJbx3ODSB2yX-t_OHsDWxkZHE_igqRstxtvcQAyTtKSDn1dQwVhtoFhoPd7bx7kwn4hZWuJch8TBgBPvmKYlcV7aEf7nM9iLV_JCdVJMRLYLeuEVPLZJBM-vraNH5EYqPGU6LTRQrVkpVCTx9Kl0dPWR4WLYKAGCrHU1tkOub90NVPpGu0mPMH34l8mXmdXc54NaZb4gZvG1fFlBvv5nQwe3uKyOvsJUMYhdTikM699Rf71V0LiUM8cJ8jwmA0g.JnIZd31N0JfiCtM3D0tkUON4Rhh6i7Vsmv0LhMQbti8&dib_tag=se&keywords=koraliki+planety&qid=1709387676&sr=8-19", 
+      "imageLink": "https://m.media-amazon.com/images/I/514bIqkKq+L._AC_SX679_.jpg"
+  }, 
+  {
+      "shop": "amazon", 
+      "type": "bracelet", 
+      "affLink": "https://www.amazon.pl/SEWOART-Drewniane-Koraliki-Bi%25C5%25BCuterii-Dzieci%25C4%2599cego/dp/B0C8YWBD3P/ref=sr_1_12?__mk_pl_PL=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;dib=eyJ2IjoiMSJ9.VD3u5WlCsjfg6n3z7xMLSOEtV-sC4BNKinQqQ9yS7tIIzJbx3ODSB2yX-t_OHsDWxkZHE_igqRstxtvcQAyTtKSDn1dQwVhtoFhoPd7bx7kwn4hZWuJch8TBgBPvmKYlcV7aEf7nM9iLV_JCdVJMRLYLeuEVPLZJBM-vraNH5EYqPGU6LTRQrVkpVCTx9Kl0dPWR4WLYKAGCrHU1tkOub90NVPpGu0mPMH34l8mXmdXc54NaZb4gZvG1fFlBvv5nQwe3uKyOvsJUMYhdTikM699Rf71V0LiUM8cJ8jwmA0g.JnIZd31N0JfiCtM3D0tkUON4Rhh6i7Vsmv0LhMQbti8&amp;dib_tag=se&amp;keywords=koraliki+planety&amp;qid=1709387676&amp;sr=8-12&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=f6b1a0d480f2179f7f9fb2fb25fa3377&camp=247&creative=1211", 
+      "link": "https://www.amazon.pl/SEWOART-Drewniane-Koraliki-Bi%C5%BCuterii-Dzieci%C4%99cego/dp/B0C8YWBD3P/ref=sr_1_12?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dib=eyJ2IjoiMSJ9.VD3u5WlCsjfg6n3z7xMLSOEtV-sC4BNKinQqQ9yS7tIIzJbx3ODSB2yX-t_OHsDWxkZHE_igqRstxtvcQAyTtKSDn1dQwVhtoFhoPd7bx7kwn4hZWuJch8TBgBPvmKYlcV7aEf7nM9iLV_JCdVJMRLYLeuEVPLZJBM-vraNH5EYqPGU6LTRQrVkpVCTx9Kl0dPWR4WLYKAGCrHU1tkOub90NVPpGu0mPMH34l8mXmdXc54NaZb4gZvG1fFlBvv5nQwe3uKyOvsJUMYhdTikM699Rf71V0LiUM8cJ8jwmA0g.JnIZd31N0JfiCtM3D0tkUON4Rhh6i7Vsmv0LhMQbti8&dib_tag=se&keywords=koraliki+planety&qid=1709387676&sr=8-12", 
+      "imageLink": "https://m.media-amazon.com/images/I/71upTGlo0YL._AC_SX679_.jpg"
+  }, 
+  {
+      "shop": "amazon", 
+      "type": "bracelet", 
+      "affLink": "https://www.amazon.pl/UR-URLIFEHALL-przezroczystych-szklanych-samodzielnego/dp/B0CG1MS655/ref=sr_1_5?__mk_pl_PL=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;dib=eyJ2IjoiMSJ9.VD3u5WlCsjfg6n3z7xMLSOEtV-sC4BNKinQqQ9yS7tIIzJbx3ODSB2yX-t_OHsDWxkZHE_igqRstxtvcQAyTtKSDn1dQwVhtoFhoPd7bx7kwn4hZWuJch8TBgBPvmKYlcV7aEf7nM9iLV_JCdVJMRLYLeuEVPLZJBM-vraNH5EYqPGU6LTRQrVkpVCTx9Kl0dPWR4WLYKAGCrHU1tkOub90NVPpGu0mPMH34l8mXmdXc54NaZb4gZvG1fFlBvv5nQwe3uKyOvsJUMYhdTikM699Rf71V0LiUM8cJ8jwmA0g.JnIZd31N0JfiCtM3D0tkUON4Rhh6i7Vsmv0LhMQbti8&amp;dib_tag=se&amp;keywords=koraliki%252Bplanety&amp;qid=1709387676&amp;sr=8-5&amp;th=1&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=54de7a5693681cf50141afa557eab865&camp=247&creative=1211", 
+      "link": "https://www.amazon.pl/UR-URLIFEHALL-przezroczystych-szklanych-samodzielnego/dp/B0CG1MS655/ref=sr_1_5?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dib=eyJ2IjoiMSJ9.VD3u5WlCsjfg6n3z7xMLSOEtV-sC4BNKinQqQ9yS7tIIzJbx3ODSB2yX-t_OHsDWxkZHE_igqRstxtvcQAyTtKSDn1dQwVhtoFhoPd7bx7kwn4hZWuJch8TBgBPvmKYlcV7aEf7nM9iLV_JCdVJMRLYLeuEVPLZJBM-vraNH5EYqPGU6LTRQrVkpVCTx9Kl0dPWR4WLYKAGCrHU1tkOub90NVPpGu0mPMH34l8mXmdXc54NaZb4gZvG1fFlBvv5nQwe3uKyOvsJUMYhdTikM699Rf71V0LiUM8cJ8jwmA0g.JnIZd31N0JfiCtM3D0tkUON4Rhh6i7Vsmv0LhMQbti8&dib_tag=se&keywords=koraliki%2Bplanety&qid=1709387676&sr=8-5&th=1", 
+      "imageLink": "https://m.media-amazon.com/images/I/81JMUUbJpxL._AC_SX679_.jpg"
+  }, 
+  {
+      "shop": "amazon", 
+      "type": "bracelet", 
+      "affLink": "https://www.amazon.pl/Preciosa-krysztalowe-szlifowanymi-szklanymi-koralikami/dp/B09ZYH8NPN/ref=sr_1_25?__mk_pl_PL=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;dib=eyJ2IjoiMSJ9.s2h1sXwAca0Cl8d3J8HUAvq30x0-GRBTI4Fu9TIaMkCgxVSvozf1XmJc6Rj7kQzBOKD8pkC58IBNEfMIQvJa5aR-5DTeukp9e0l_nlD9pIz5mZ1a1vj9M35YK_mUREQOdOAf6VCgWtCNtzNuQojtboDWhKsKyFbUe-Rhje7wAGfJ2gnet529oLsFv8yV8l0EQxoLqvCIKBiRAnapoVYS8RJuJHGtQAy1pqSG_JcmIFHCRqRsTHi3ZyVb578yWUNc6sVECnNYvjpmTV3lVqqT4dkwsiyckbRfsedYXJBKXhE.v8SfNUwFV3hB5x_GqDGP4N_yK6a6ytXnSpv0l1LkZIw&amp;dib_tag=se&amp;keywords=koraliki%252Bsaturn&amp;qid=1709387415&amp;sr=8-25&amp;th=1&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=1088b90e994d4992f89183f8b103981e&camp=247&creative=1211", 
+      "link": "https://www.amazon.pl/Preciosa-krysztalowe-szlifowanymi-szklanymi-koralikami/dp/B09ZYH8NPN/ref=sr_1_25?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dib=eyJ2IjoiMSJ9.s2h1sXwAca0Cl8d3J8HUAvq30x0-GRBTI4Fu9TIaMkCgxVSvozf1XmJc6Rj7kQzBOKD8pkC58IBNEfMIQvJa5aR-5DTeukp9e0l_nlD9pIz5mZ1a1vj9M35YK_mUREQOdOAf6VCgWtCNtzNuQojtboDWhKsKyFbUe-Rhje7wAGfJ2gnet529oLsFv8yV8l0EQxoLqvCIKBiRAnapoVYS8RJuJHGtQAy1pqSG_JcmIFHCRqRsTHi3ZyVb578yWUNc6sVECnNYvjpmTV3lVqqT4dkwsiyckbRfsedYXJBKXhE.v8SfNUwFV3hB5x_GqDGP4N_yK6a6ytXnSpv0l1LkZIw&dib_tag=se&keywords=koraliki%2Bsaturn&qid=1709387415&sr=8-25&th=1", 
+      "imageLink": "https://m.media-amazon.com/images/I/61OfcLZu5bL._AC_SX679_.jpg"
+  }, 
+  {
+      "shop": "amazon", 
+      "type": "bracelet", 
+      "affLink": "https://www.amazon.pl/Prasacco-czarno-bialych-plastikowe-nieprzezroczyste-bransoletek/dp/B09Z6RDF47/ref=sr_1_29?__mk_pl_PL=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;dib=eyJ2IjoiMSJ9.s2h1sXwAca0Cl8d3J8HUAvq30x0-GRBTI4Fu9TIaMkCgxVSvozf1XmJc6Rj7kQzBOKD8pkC58IBNEfMIQvJa5aR-5DTeukp9e0l_nlD9pIz5mZ1a1vj9M35YK_mUREQOdOAf6VCgWtCNtzNuQojtboDWhKsKyFbUe-Rhje7wAGfJ2gnet529oLsFv8yV8l0EQxoLqvCIKBiRAnapoVYS8RJuJHGtQAy1pqSG_JcmIFHCRqRsTHi3ZyVb578yWUNc6sVECnNYvjpmTV3lVqqT4dkwsiyckbRfsedYXJBKXhE.v8SfNUwFV3hB5x_GqDGP4N_yK6a6ytXnSpv0l1LkZIw&amp;dib_tag=se&amp;keywords=koraliki+saturn&amp;qid=1709387415&amp;sr=8-29&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=7bde37692c80ed42a8c7a34c3553d5cf&camp=247&creative=1211", 
+      "link": "https://www.amazon.pl/Prasacco-czarno-bialych-plastikowe-nieprzezroczyste-bransoletek/dp/B09Z6RDF47/ref=sr_1_29?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dib=eyJ2IjoiMSJ9.s2h1sXwAca0Cl8d3J8HUAvq30x0-GRBTI4Fu9TIaMkCgxVSvozf1XmJc6Rj7kQzBOKD8pkC58IBNEfMIQvJa5aR-5DTeukp9e0l_nlD9pIz5mZ1a1vj9M35YK_mUREQOdOAf6VCgWtCNtzNuQojtboDWhKsKyFbUe-Rhje7wAGfJ2gnet529oLsFv8yV8l0EQxoLqvCIKBiRAnapoVYS8RJuJHGtQAy1pqSG_JcmIFHCRqRsTHi3ZyVb578yWUNc6sVECnNYvjpmTV3lVqqT4dkwsiyckbRfsedYXJBKXhE.v8SfNUwFV3hB5x_GqDGP4N_yK6a6ytXnSpv0l1LkZIw&dib_tag=se&keywords=koraliki+saturn&qid=1709387415&sr=8-29", 
+      "imageLink": "https://m.media-amazon.com/images/I/71jisG+efzL._AC_SX679_.jpg"
+  }, 
+  {
+      "shop": "amazon", 
+      "type": "bracelet", 
+      "affLink": "https://www.amazon.pl/SEWACC-Majsterkowania-Emaliowane-Bransoletki-Koralikami/dp/B0CD69DF8V/ref=sr_1_85?__mk_pl_PL=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;dib=eyJ2IjoiMSJ9.UuiXtkKhsg2KwDvILSJntiMg-QcRtiNJCrQGRggM4Q-Tjd2BRWq5C25QqpvO_Qsh0eaNtsomegBCXnmKE__fjQf80abRcDDAqKw2lpCl_Iz6cMQcPkQ2NJ9UE8UPI6650_MQiPWFUMk8p7p6Klgn85LDFdX5jxr3goJAmYvXWM_WPHQoD1sardzooQl1e6QrwYZgN7BUhE_FSTFKZwUR60ztQWi1FD02pB9lX7IEQPh3ZECd37aC20O37wwFZB_lticG-Jav_XZ9hP1bOUL9gMsQ9SwaBv-MSLOiA66kehA.Ov982ezGba_WznB7NqztadBzTyU_5py1VlLYYIFIS68&amp;dib_tag=se&amp;keywords=koraliki+planety&amp;qid=1709388060&amp;sr=8-85&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=c1d63e50e1fe2adb6934bc5abdf2b2a8&camp=247&creative=1211", 
+      "link": "https://www.amazon.pl/SEWACC-Majsterkowania-Emaliowane-Bransoletki-Koralikami/dp/B0CD69DF8V/ref=sr_1_85?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dib=eyJ2IjoiMSJ9.UuiXtkKhsg2KwDvILSJntiMg-QcRtiNJCrQGRggM4Q-Tjd2BRWq5C25QqpvO_Qsh0eaNtsomegBCXnmKE__fjQf80abRcDDAqKw2lpCl_Iz6cMQcPkQ2NJ9UE8UPI6650_MQiPWFUMk8p7p6Klgn85LDFdX5jxr3goJAmYvXWM_WPHQoD1sardzooQl1e6QrwYZgN7BUhE_FSTFKZwUR60ztQWi1FD02pB9lX7IEQPh3ZECd37aC20O37wwFZB_lticG-Jav_XZ9hP1bOUL9gMsQ9SwaBv-MSLOiA66kehA.Ov982ezGba_WznB7NqztadBzTyU_5py1VlLYYIFIS68&dib_tag=se&keywords=koraliki+planety&qid=1709388060&sr=8-85", 
+      "imageLink": "https://m.media-amazon.com/images/I/61yYrb1z+WL._AC_SX679_.jpg"
+  }, 
+  {
+      "shop": "amazon", 
+      "type": "bracelet", 
+      "affLink": "https://www.amazon.pl/TEHAUX-Satelitarn%25C4%2585-Wszech%25C5%259Bwiata-Naszyjniki-Niebia%25C5%2584ski/dp/B0CDJKL6FJ/ref=sr_1_78?__mk_pl_PL=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;dib=eyJ2IjoiMSJ9.UuiXtkKhsg2KwDvILSJntiMg-QcRtiNJCrQGRggM4Q-Tjd2BRWq5C25QqpvO_Qsh0eaNtsomegBCXnmKE__fjQf80abRcDDAqKw2lpCl_Iz6cMQcPkQ2NJ9UE8UPI6650_MQiPWFUMk8p7p6Klgn85LDFdX5jxr3goJAmYvXWM_WPHQoD1sardzooQl1e6QrwYZgN7BUhE_FSTFKZwUR60ztQWi1FD02pB9lX7IEQPh3ZECd37aC20O37wwFZB_lticG-Jav_XZ9hP1bOUL9gMsQ9SwaBv-MSLOiA66kehA.Ov982ezGba_WznB7NqztadBzTyU_5py1VlLYYIFIS68&amp;dib_tag=se&amp;keywords=koraliki+planety&amp;qid=1709388060&amp;sr=8-78&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=3b7ac27a7fa15633ae2f7cea00b57caa&camp=247&creative=1211", 
+      "link": "https://www.amazon.pl/TEHAUX-Satelitarn%C4%85-Wszech%C5%9Bwiata-Naszyjniki-Niebia%C5%84ski/dp/B0CDJKL6FJ/ref=sr_1_78?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dib=eyJ2IjoiMSJ9.UuiXtkKhsg2KwDvILSJntiMg-QcRtiNJCrQGRggM4Q-Tjd2BRWq5C25QqpvO_Qsh0eaNtsomegBCXnmKE__fjQf80abRcDDAqKw2lpCl_Iz6cMQcPkQ2NJ9UE8UPI6650_MQiPWFUMk8p7p6Klgn85LDFdX5jxr3goJAmYvXWM_WPHQoD1sardzooQl1e6QrwYZgN7BUhE_FSTFKZwUR60ztQWi1FD02pB9lX7IEQPh3ZECd37aC20O37wwFZB_lticG-Jav_XZ9hP1bOUL9gMsQ9SwaBv-MSLOiA66kehA.Ov982ezGba_WznB7NqztadBzTyU_5py1VlLYYIFIS68&dib_tag=se&keywords=koraliki+planety&qid=1709388060&sr=8-78", 
+      "imageLink": "https://m.media-amazon.com/images/I/617zl4icDIL._AC_SX679_.jpg"
+  }, 
+  {
+      "shop": "amazon", 
+      "type": "bracelet", 
+      "affLink": "https://www.amazon.pl/VILLCASE-Kosmiczny-bransoletki-koralik%25C3%25B3w-bi%25C5%25BCuteria/dp/B0CR4D71GS/ref=sr_1_57?__mk_pl_PL=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;dib=eyJ2IjoiMSJ9.UuiXtkKhsg2KwDvILSJntiMg-QcRtiNJCrQGRggM4Q-Tjd2BRWq5C25QqpvO_Qsh0eaNtsomegBCXnmKE__fjQf80abRcDDAqKw2lpCl_Iz6cMQcPkQ2NJ9UE8UPI6650_MQiPWFUMk8p7p6Klgn85LDFdX5jxr3goJAmYvXWM_WPHQoD1sardzooQl1e6QrwYZgN7BUhE_FSTFKZwUR60ztQWi1FD02pB9lX7IEQPh3ZECd37aC20O37wwFZB_lticG-Jav_XZ9hP1bOUL9gMsQ9SwaBv-MSLOiA66kehA.Ov982ezGba_WznB7NqztadBzTyU_5py1VlLYYIFIS68&amp;dib_tag=se&amp;keywords=koraliki%252Bplanety&amp;qid=1709388060&amp;sr=8-57&amp;th=1&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=a5b5bf13e7f3a01b4b49cca6a7d9e914&camp=247&creative=1211", 
+      "link": "https://www.amazon.pl/VILLCASE-Kosmiczny-bransoletki-koralik%C3%B3w-bi%C5%BCuteria/dp/B0CR4D71GS/ref=sr_1_57?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dib=eyJ2IjoiMSJ9.UuiXtkKhsg2KwDvILSJntiMg-QcRtiNJCrQGRggM4Q-Tjd2BRWq5C25QqpvO_Qsh0eaNtsomegBCXnmKE__fjQf80abRcDDAqKw2lpCl_Iz6cMQcPkQ2NJ9UE8UPI6650_MQiPWFUMk8p7p6Klgn85LDFdX5jxr3goJAmYvXWM_WPHQoD1sardzooQl1e6QrwYZgN7BUhE_FSTFKZwUR60ztQWi1FD02pB9lX7IEQPh3ZECd37aC20O37wwFZB_lticG-Jav_XZ9hP1bOUL9gMsQ9SwaBv-MSLOiA66kehA.Ov982ezGba_WznB7NqztadBzTyU_5py1VlLYYIFIS68&dib_tag=se&keywords=koraliki%2Bplanety&qid=1709388060&sr=8-57&th=1", 
+      "imageLink": "https://m.media-amazon.com/images/I/61vuBrBO9aL._AC_SX679_.jpg"
+  }, 
+  {
+      "shop": "amazon", 
+      "type": "bracelet", 
+      "affLink": "https://www.amazon.pl/SEWOART-Tworzenia-Bi%25C5%25BCuterii-Backsplash-Naszyjnik/dp/B0CW5WQ6ML/ref=sr_1_57?__mk_pl_PL=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;dib=eyJ2IjoiMSJ9.dqMzMn22tr19--o7lj0KclwLUY8pNcliXZrdlGd4JCzwunYr6xkUWU8ObCIPkh6lttlfAONICDyl72bl_5bAJpYA69UWrBIMX9N9TEpESIk.WM1u6-zpGXM3S4uEDo5EB2wm-TOBSS5mvk2WxBJC0Bo&amp;dib_tag=se&amp;keywords=koraliki+planety&amp;qid=1709388060&amp;sr=8-57&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=ad76c8461c5b6174e5bd1d56112de43f&camp=247&creative=1211", 
+      "link": "https://www.amazon.pl/SEWOART-Tworzenia-Bi%C5%BCuterii-Backsplash-Naszyjnik/dp/B0CW5WQ6ML/ref=sr_1_57?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dib=eyJ2IjoiMSJ9.dqMzMn22tr19--o7lj0KclwLUY8pNcliXZrdlGd4JCzwunYr6xkUWU8ObCIPkh6lttlfAONICDyl72bl_5bAJpYA69UWrBIMX9N9TEpESIk.WM1u6-zpGXM3S4uEDo5EB2wm-TOBSS5mvk2WxBJC0Bo&dib_tag=se&keywords=koraliki+planety&qid=1709388060&sr=8-57", 
+      "imageLink": "https://m.media-amazon.com/images/I/61El0cb5laL._AC_SX679_.jpg"
+  }, 
+  {
+      "shop": "amazon", 
+      "type": "bracelet", 
+      "affLink": "https://www.amazon.pl/Craftdady-zawieszka-sze%25C5%259Bcienn%25C4%2585-samodzielnego-wykonania/dp/B08FX1ZYG1/ref=sr_1_16?__mk_pl_PL=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;crid=3EAL4V1ITE5DZ&amp;dib=eyJ2IjoiMSJ9.NUYyMnWx5y_i3HUGhOOU0O0yuY31Ao0xKcKq-8CRxHbvTEU6QKBQ7LCoWaYBu0UblefWDIXyWeXe8vBiz82wK7lIcWc7BjAKrY6zh_tgjxZogpBioN4nP5haW4Lc8n8iEg6y9VvGkDp_Qanq2elBQK6ovaddGVtt1t4qh5mdUJirQ1SBmhimLgRQB-aamz-c2AsZ1cm1BEWbNrnpqlucuZFFcnOkgRo6MlUicqjF6Yoq5XJW-oGe1JaGACp6hkZDKhCkz--4VT3wp6SZoAFYZVel_rbf8OgLtbKPNiEFFG4.ykz1I4V677ndZhhbYTJYhGB1HMdU3vBUTeyJuC1zAZs&amp;dib_tag=se&amp;keywords=koraliki%252Bw%25C4%2585%25C5%25BC&amp;qid=1709410862&amp;sprefix=koraliki%252Bw%25C4%2585%25C5%25BC%252Caps%252C102&amp;sr=8-16&amp;th=1&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=392eae033e3bbd16ad60c08d5c5775fb&camp=247&creative=1211", 
+      "link": "https://www.amazon.pl/Craftdady-zawieszka-sze%C5%9Bcienn%C4%85-samodzielnego-wykonania/dp/B08FX1ZYG1/ref=sr_1_16?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3EAL4V1ITE5DZ&dib=eyJ2IjoiMSJ9.NUYyMnWx5y_i3HUGhOOU0O0yuY31Ao0xKcKq-8CRxHbvTEU6QKBQ7LCoWaYBu0UblefWDIXyWeXe8vBiz82wK7lIcWc7BjAKrY6zh_tgjxZogpBioN4nP5haW4Lc8n8iEg6y9VvGkDp_Qanq2elBQK6ovaddGVtt1t4qh5mdUJirQ1SBmhimLgRQB-aamz-c2AsZ1cm1BEWbNrnpqlucuZFFcnOkgRo6MlUicqjF6Yoq5XJW-oGe1JaGACp6hkZDKhCkz--4VT3wp6SZoAFYZVel_rbf8OgLtbKPNiEFFG4.ykz1I4V677ndZhhbYTJYhGB1HMdU3vBUTeyJuC1zAZs&dib_tag=se&keywords=koraliki%2Bw%C4%85%C5%BC&qid=1709410862&sprefix=koraliki%2Bw%C4%85%C5%BC%2Caps%2C102&sr=8-16&th=1", 
+      "imageLink": "https://m.media-amazon.com/images/I/613lAkNxSzL._AC_SX679_.jpg"
+  }, 
+  {
+      "shop": "amazon", 
+      "type": "bracelet", 
+      "affLink": "https://www.amazon.pl/Balacoo-Dziewczyny-Naszyjniki-Dziewczyn-Bi%25C5%25BCuteria/dp/B0CDJG8Y9B/ref=sr_1_12?__mk_pl_PL=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;crid=3EAL4V1ITE5DZ&amp;dib=eyJ2IjoiMSJ9.NUYyMnWx5y_i3HUGhOOU0O0yuY31Ao0xKcKq-8CRxHbvTEU6QKBQ7LCoWaYBu0UblefWDIXyWeXe8vBiz82wK7lIcWc7BjAKrY6zh_tgjxZogpBioN4nP5haW4Lc8n8iEg6y9VvGkDp_Qanq2elBQK6ovaddGVtt1t4qh5mdUJirQ1SBmhimLgRQB-aamz-c2AsZ1cm1BEWbNrnpqlucuZFFcnOkgRo6MlUicqjF6Yoq5XJW-oGe1JaGACp6hkZDKhCkz--4VT3wp6SZoAFYZVel_rbf8OgLtbKPNiEFFG4.ykz1I4V677ndZhhbYTJYhGB1HMdU3vBUTeyJuC1zAZs&amp;dib_tag=se&amp;keywords=koraliki+w%25C4%2585%25C5%25BC&amp;qid=1709410862&amp;sprefix=koraliki+w%25C4%2585%25C5%25BC%252Caps%252C102&amp;sr=8-12&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=87c694cb74f0225b00810562528a082e&camp=247&creative=1211", 
+      "link": "https://www.amazon.pl/Balacoo-Dziewczyny-Naszyjniki-Dziewczyn-Bi%C5%BCuteria/dp/B0CDJG8Y9B/ref=sr_1_12?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3EAL4V1ITE5DZ&dib=eyJ2IjoiMSJ9.NUYyMnWx5y_i3HUGhOOU0O0yuY31Ao0xKcKq-8CRxHbvTEU6QKBQ7LCoWaYBu0UblefWDIXyWeXe8vBiz82wK7lIcWc7BjAKrY6zh_tgjxZogpBioN4nP5haW4Lc8n8iEg6y9VvGkDp_Qanq2elBQK6ovaddGVtt1t4qh5mdUJirQ1SBmhimLgRQB-aamz-c2AsZ1cm1BEWbNrnpqlucuZFFcnOkgRo6MlUicqjF6Yoq5XJW-oGe1JaGACp6hkZDKhCkz--4VT3wp6SZoAFYZVel_rbf8OgLtbKPNiEFFG4.ykz1I4V677ndZhhbYTJYhGB1HMdU3vBUTeyJuC1zAZs&dib_tag=se&keywords=koraliki+w%C4%85%C5%BC&qid=1709410862&sprefix=koraliki+w%C4%85%C5%BC%2Caps%2C102&sr=8-12", 
+      "imageLink": "https://m.media-amazon.com/images/I/7182AMiTnbL._AC_SX679_.jpg"
+  }, 
+  {
+      "shop": "amazon", 
+      "type": "bracelet", 
+      "affLink": "https://www.amazon.pl/antycznego-bi%25C5%25BCuterii-zawieszki-rzemioslo-tworzenie/dp/B07RRYZF77/ref=sr_1_78?__mk_pl_PL=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;crid=2ZHE2H4I9Q6UB&amp;dib=eyJ2IjoiMSJ9.nAYNf6lBh0JJxxLQkPkWEo1T2t6PGB0kEdIeGL82SuLvPg0h1G7PATVbXTvwcfErtPEZU5JAKcM9CEVnpGgGQeCPh3rrNJ9yQDyx8CFfc8oHW6ORzJKaBkvLxgCk2GPpvgDttN9xHVJFWgBSLpmIMx_by9UMiTu0raEbtzVO_OZcjAijMR3Re_6-EgOF5NWhuihWVC7Zv9GFu-s1MEquMIdRVPY6gwfGRWwg9p57JWwuxEGpXZhcYj5AzekhgoDd0jpl6sJu5QyOU52OByFv_Er8gDqV9v8t6K_jHooyX2s.J_JdDiKRHRm1ptARBChN6GzP31X--caxxfCBBDESstM&amp;dib_tag=se&amp;keywords=koraliki%252Bptak&amp;qid=1709410736&amp;sprefix=koraliki%252Bptak%252Caps%252C106&amp;sr=8-78&amp;th=1&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=fc39f05ac2c5d19959bdf1ab289db655&camp=247&creative=1211", 
+      "link": "https://www.amazon.pl/antycznego-bi%C5%BCuterii-zawieszki-rzemioslo-tworzenie/dp/B07RRYZF77/ref=sr_1_78?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2ZHE2H4I9Q6UB&dib=eyJ2IjoiMSJ9.nAYNf6lBh0JJxxLQkPkWEo1T2t6PGB0kEdIeGL82SuLvPg0h1G7PATVbXTvwcfErtPEZU5JAKcM9CEVnpGgGQeCPh3rrNJ9yQDyx8CFfc8oHW6ORzJKaBkvLxgCk2GPpvgDttN9xHVJFWgBSLpmIMx_by9UMiTu0raEbtzVO_OZcjAijMR3Re_6-EgOF5NWhuihWVC7Zv9GFu-s1MEquMIdRVPY6gwfGRWwg9p57JWwuxEGpXZhcYj5AzekhgoDd0jpl6sJu5QyOU52OByFv_Er8gDqV9v8t6K_jHooyX2s.J_JdDiKRHRm1ptARBChN6GzP31X--caxxfCBBDESstM&dib_tag=se&keywords=koraliki%2Bptak&qid=1709410736&sprefix=koraliki%2Bptak%2Caps%2C106&sr=8-78&th=1", 
+      "imageLink": "https://m.media-amazon.com/images/I/617FnMfLgPL._AC_SX679_.jpg"
+  }, 
+  {
+      "shop": "amazon", 
+      "type": "bracelet", 
+      "affLink": "https://www.amazon.pl/KOMBIUDA-Bi%25C5%25BCuterii-Zawieszki-Bransoletka-Rzemie%25C5%259Blnicze/dp/B0CF8JXLPM/ref=sr_1_64?__mk_pl_PL=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;crid=2ZHE2H4I9Q6UB&amp;dib=eyJ2IjoiMSJ9.nAYNf6lBh0JJxxLQkPkWEo1T2t6PGB0kEdIeGL82SuLvPg0h1G7PATVbXTvwcfErtPEZU5JAKcM9CEVnpGgGQeCPh3rrNJ9yQDyx8CFfc8oHW6ORzJKaBkvLxgCk2GPpvgDttN9xHVJFWgBSLpmIMx_by9UMiTu0raEbtzVO_OZcjAijMR3Re_6-EgOF5NWhuihWVC7Zv9GFu-s1MEquMIdRVPY6gwfGRWwg9p57JWwuxEGpXZhcYj5AzekhgoDd0jpl6sJu5QyOU52OByFv_Er8gDqV9v8t6K_jHooyX2s.J_JdDiKRHRm1ptARBChN6GzP31X--caxxfCBBDESstM&amp;dib_tag=se&amp;keywords=koraliki+ptak&amp;qid=1709410736&amp;sprefix=koraliki+ptak%252Caps%252C106&amp;sr=8-64&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=9da94c8fdb7861b0c978c0d7223c6df9&camp=247&creative=1211", 
+      "link": "https://www.amazon.pl/KOMBIUDA-Bi%C5%BCuterii-Zawieszki-Bransoletka-Rzemie%C5%9Blnicze/dp/B0CF8JXLPM/ref=sr_1_64?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2ZHE2H4I9Q6UB&dib=eyJ2IjoiMSJ9.nAYNf6lBh0JJxxLQkPkWEo1T2t6PGB0kEdIeGL82SuLvPg0h1G7PATVbXTvwcfErtPEZU5JAKcM9CEVnpGgGQeCPh3rrNJ9yQDyx8CFfc8oHW6ORzJKaBkvLxgCk2GPpvgDttN9xHVJFWgBSLpmIMx_by9UMiTu0raEbtzVO_OZcjAijMR3Re_6-EgOF5NWhuihWVC7Zv9GFu-s1MEquMIdRVPY6gwfGRWwg9p57JWwuxEGpXZhcYj5AzekhgoDd0jpl6sJu5QyOU52OByFv_Er8gDqV9v8t6K_jHooyX2s.J_JdDiKRHRm1ptARBChN6GzP31X--caxxfCBBDESstM&dib_tag=se&keywords=koraliki+ptak&qid=1709410736&sprefix=koraliki+ptak%2Caps%2C106&sr=8-64", 
+      "imageLink": "https://m.media-amazon.com/images/I/61c8ecWkfiL._AC_SX679_.jpg"
+  }, 
+  {
+      "shop": "amazon", 
+      "type": "bracelet", 
+      "affLink": "https://www.amazon.pl/COHEALI-Medalionowe-Ksztalcie-Bi%25C5%25BCuterii-Aromaterapii/dp/B0C5GHK7WK/ref=sr_1_51?__mk_pl_PL=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;crid=2ZHE2H4I9Q6UB&amp;dib=eyJ2IjoiMSJ9.xxv6nU8qWMnq0y1vomgJoj4ihJ0FnImV_SP5KZ6786ewkNd7fI-4yffOfJfD_ifkgyD6G0oFUErw7-Kp-auVGwAaXDAlEG3KWzjMjDOd4jt0k6xBNZ2nUyAxpqJIQJL0CUvNnBU0tpoYEjANmt6Dr4CStJNtVS8kqqL4cxtjxHGKbhzdktCyH0hvTl-V6BFdLxjiZO3XiYh-Rys82a9JR8gcb6Ad6bFj9VvHrMESvBgY81A2lk-LCmQH0aGWSuR0W8Y7k2-q1Qz4AbDB36K9Ua4S_I2FRCV_tEdKQftJSxY.JQKfzeFfugryszzTMB_y1Ox8HEvOiaUv7hVqFQLikTc&amp;dib_tag=se&amp;keywords=koraliki+ptak&amp;qid=1709410700&amp;sprefix=koraliki+ptak%252Caps%252C106&amp;sr=8-51&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=04b8756901ae63d4db3bae876e524021&camp=247&creative=1211", 
+      "link": "https://www.amazon.pl/COHEALI-Medalionowe-Ksztalcie-Bi%C5%BCuterii-Aromaterapii/dp/B0C5GHK7WK/ref=sr_1_51?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2ZHE2H4I9Q6UB&dib=eyJ2IjoiMSJ9.xxv6nU8qWMnq0y1vomgJoj4ihJ0FnImV_SP5KZ6786ewkNd7fI-4yffOfJfD_ifkgyD6G0oFUErw7-Kp-auVGwAaXDAlEG3KWzjMjDOd4jt0k6xBNZ2nUyAxpqJIQJL0CUvNnBU0tpoYEjANmt6Dr4CStJNtVS8kqqL4cxtjxHGKbhzdktCyH0hvTl-V6BFdLxjiZO3XiYh-Rys82a9JR8gcb6Ad6bFj9VvHrMESvBgY81A2lk-LCmQH0aGWSuR0W8Y7k2-q1Qz4AbDB36K9Ua4S_I2FRCV_tEdKQftJSxY.JQKfzeFfugryszzTMB_y1Ox8HEvOiaUv7hVqFQLikTc&dib_tag=se&keywords=koraliki+ptak&qid=1709410700&sprefix=koraliki+ptak%2Caps%2C106&sr=8-51", 
+      "imageLink": "https://m.media-amazon.com/images/I/51nXwJwZbcL._AC_SX679_.jpg"
+  }, 
+  {
+      "shop": "amazon", 
+      "type": "bracelet", 
+      "affLink": "https://www.amazon.pl/Operitacx-zawieszki-bransoletek-eteryczne-koralik%25C3%25B3w/dp/B0CS6BYZFS/ref=sr_1_42?__mk_pl_PL=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;crid=2ZHE2H4I9Q6UB&amp;dib=eyJ2IjoiMSJ9.xxv6nU8qWMnq0y1vomgJoj4ihJ0FnImV_SP5KZ6786ewkNd7fI-4yffOfJfD_ifkgyD6G0oFUErw7-Kp-auVGwAaXDAlEG3KWzjMjDOd4jt0k6xBNZ2nUyAxpqJIQJL0CUvNnBU0tpoYEjANmt6Dr4CStJNtVS8kqqL4cxtjxHGKbhzdktCyH0hvTl-V6BFdLxjiZO3XiYh-Rys82a9JR8gcb6Ad6bFj9VvHrMESvBgY81A2lk-LCmQH0aGWSuR0W8Y7k2-q1Qz4AbDB36K9Ua4S_I2FRCV_tEdKQftJSxY.JQKfzeFfugryszzTMB_y1Ox8HEvOiaUv7hVqFQLikTc&amp;dib_tag=se&amp;keywords=koraliki+ptak&amp;qid=1709410700&amp;sprefix=koraliki+ptak%252Caps%252C106&amp;sr=8-42&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=8ad03d774ff882095258341d578589e7&camp=247&creative=1211", 
+      "link": "https://www.amazon.pl/Operitacx-zawieszki-bransoletek-eteryczne-koralik%C3%B3w/dp/B0CS6BYZFS/ref=sr_1_42?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2ZHE2H4I9Q6UB&dib=eyJ2IjoiMSJ9.xxv6nU8qWMnq0y1vomgJoj4ihJ0FnImV_SP5KZ6786ewkNd7fI-4yffOfJfD_ifkgyD6G0oFUErw7-Kp-auVGwAaXDAlEG3KWzjMjDOd4jt0k6xBNZ2nUyAxpqJIQJL0CUvNnBU0tpoYEjANmt6Dr4CStJNtVS8kqqL4cxtjxHGKbhzdktCyH0hvTl-V6BFdLxjiZO3XiYh-Rys82a9JR8gcb6Ad6bFj9VvHrMESvBgY81A2lk-LCmQH0aGWSuR0W8Y7k2-q1Qz4AbDB36K9Ua4S_I2FRCV_tEdKQftJSxY.JQKfzeFfugryszzTMB_y1Ox8HEvOiaUv7hVqFQLikTc&dib_tag=se&keywords=koraliki+ptak&qid=1709410700&sprefix=koraliki+ptak%2Caps%2C106&sr=8-42", 
+      "imageLink": "https://m.media-amazon.com/images/I/71WlPHKMRTL._AC_SX679_.jpg"
+  }, 
+  {
+      "shop": "amazon", 
+      "type": "bracelet", 
+      "affLink": "https://www.amazon.pl/TEHAUX-Wisiorek-Bi%25C5%25BCuteria-Szcz%25C4%2599%25C5%259Bcie-Zwisaj%25C4%2585cy/dp/B0CCQMLW5G/ref=sr_1_15?__mk_pl_PL=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;crid=2ZHE2H4I9Q6UB&amp;dib=eyJ2IjoiMSJ9.xxv6nU8qWMnq0y1vomgJoj4ihJ0FnImV_SP5KZ6786ewkNd7fI-4yffOfJfD_ifkgyD6G0oFUErw7-Kp-auVGwAaXDAlEG3KWzjMjDOd4jt0k6xBNZ2nUyAxpqJIQJL0CUvNnBU0tpoYEjANmt6Dr4CStJNtVS8kqqL4cxtjxHGKbhzdktCyH0hvTl-V6BFdLxjiZO3XiYh-Rys82a9JR8gcb6Ad6bFj9VvHrMESvBgY81A2lk-LCmQH0aGWSuR0W8Y7k2-q1Qz4AbDB36K9Ua4S_I2FRCV_tEdKQftJSxY.JQKfzeFfugryszzTMB_y1Ox8HEvOiaUv7hVqFQLikTc&amp;dib_tag=se&amp;keywords=koraliki+ptak&amp;qid=1709410700&amp;sprefix=koraliki+ptak%252Caps%252C106&amp;sr=8-15&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=b82566602bd5c621536e69e0623cc3d5&camp=247&creative=1211", 
+      "link": "https://www.amazon.pl/TEHAUX-Wisiorek-Bi%C5%BCuteria-Szcz%C4%99%C5%9Bcie-Zwisaj%C4%85cy/dp/B0CCQMLW5G/ref=sr_1_15?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2ZHE2H4I9Q6UB&dib=eyJ2IjoiMSJ9.xxv6nU8qWMnq0y1vomgJoj4ihJ0FnImV_SP5KZ6786ewkNd7fI-4yffOfJfD_ifkgyD6G0oFUErw7-Kp-auVGwAaXDAlEG3KWzjMjDOd4jt0k6xBNZ2nUyAxpqJIQJL0CUvNnBU0tpoYEjANmt6Dr4CStJNtVS8kqqL4cxtjxHGKbhzdktCyH0hvTl-V6BFdLxjiZO3XiYh-Rys82a9JR8gcb6Ad6bFj9VvHrMESvBgY81A2lk-LCmQH0aGWSuR0W8Y7k2-q1Qz4AbDB36K9Ua4S_I2FRCV_tEdKQftJSxY.JQKfzeFfugryszzTMB_y1Ox8HEvOiaUv7hVqFQLikTc&dib_tag=se&keywords=koraliki+ptak&qid=1709410700&sprefix=koraliki+ptak%2Caps%2C106&sr=8-15", 
+      "imageLink": "https://m.media-amazon.com/images/I/61Nvk-mqaQL._AC_SX679_.jpg"
+  }, 
+  {
+      "shop": "amazon", 
+      "type": "bracelet", 
+      "affLink": "https://www.amazon.pl/HAPINARY-%25C5%259Awi%25C4%2585teczne-Zawieszki-Emaliowane-Bransoletki/dp/B0CQ3QBSMW/ref=sr_1_29?__mk_pl_PL=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;crid=LL387KK1427R&amp;dib=eyJ2IjoiMSJ9.iAspSUoie3jHj1IDBr_AWMOvNe2IeiyZaM9wIwAQV-rcRec_3pNoSuCDDv_zL_k6zIkEV-7npjjizvUsyqui8mq5a5Y9tUuOe4jmUHY3VSAlr6olk854F-CchXDwoMTnRPRY221tqwmWsZ5UY0FmF3eoMf91kLF7-FO-C6RwZhjEqBCxc4qJmo4rrjBJoJ3T9BGhk09sdDX0J9qVcv3-JQXW9AT3noAsIyUdp-UZDsRIV81ZVebHiX6pWQd_oxtMEQt6hKDF2KMyxH5UVKj7vVPPVW9N92mrlkvQu7za91o.G5SyWeTde2mrbdSdeiywlgKQFDlfsVUoif-2Dh7aTL0&amp;dib_tag=se&amp;keywords=koraliki+zegar&amp;qid=1709410672&amp;sprefix=koraliki+zegar%252Caps%252C106&amp;sr=8-29&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=a3dc57fc6c92064b77e96e23f8457212&camp=247&creative=1211", 
+      "link": "https://www.amazon.pl/HAPINARY-%C5%9Awi%C4%85teczne-Zawieszki-Emaliowane-Bransoletki/dp/B0CQ3QBSMW/ref=sr_1_29?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=LL387KK1427R&dib=eyJ2IjoiMSJ9.iAspSUoie3jHj1IDBr_AWMOvNe2IeiyZaM9wIwAQV-rcRec_3pNoSuCDDv_zL_k6zIkEV-7npjjizvUsyqui8mq5a5Y9tUuOe4jmUHY3VSAlr6olk854F-CchXDwoMTnRPRY221tqwmWsZ5UY0FmF3eoMf91kLF7-FO-C6RwZhjEqBCxc4qJmo4rrjBJoJ3T9BGhk09sdDX0J9qVcv3-JQXW9AT3noAsIyUdp-UZDsRIV81ZVebHiX6pWQd_oxtMEQt6hKDF2KMyxH5UVKj7vVPPVW9N92mrlkvQu7za91o.G5SyWeTde2mrbdSdeiywlgKQFDlfsVUoif-2Dh7aTL0&dib_tag=se&keywords=koraliki+zegar&qid=1709410672&sprefix=koraliki+zegar%2Caps%2C106&sr=8-29", 
+      "imageLink": "https://m.media-amazon.com/images/I/71W3aXyIWDL._AC_SX679_.jpg"
+  }, 
+  {
+      "shop": "amazon", 
+      "type": "bracelet", 
+      "affLink": "https://www.amazon.pl/HAPINARY-Bransoletki-Rzemie%25C5%259Blniczy-Naszyjnik-Bi%25C5%25BCuteria/dp/B0CQ3SYZLH/ref=sr_1_16?__mk_pl_PL=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;crid=LL387KK1427R&amp;dib=eyJ2IjoiMSJ9.iAspSUoie3jHj1IDBr_AWMOvNe2IeiyZaM9wIwAQV-rcRec_3pNoSuCDDv_zL_k6zIkEV-7npjjizvUsyqui8mq5a5Y9tUuOe4jmUHY3VSAlr6olk854F-CchXDwoMTnRPRY221tqwmWsZ5UY0FmF3eoMf91kLF7-FO-C6RwZhjEqBCxc4qJmo4rrjBJoJ3T9BGhk09sdDX0J9qVcv3-JQXW9AT3noAsIyUdp-UZDsRIV81ZVebHiX6pWQd_oxtMEQt6hKDF2KMyxH5UVKj7vVPPVW9N92mrlkvQu7za91o.G5SyWeTde2mrbdSdeiywlgKQFDlfsVUoif-2Dh7aTL0&amp;dib_tag=se&amp;keywords=koraliki+zegar&amp;qid=1709410672&amp;sprefix=koraliki+zegar%252Caps%252C106&amp;sr=8-16&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=6c3ceb14fe1518dae7345a326d3b6e14&camp=247&creative=1211", 
+      "link": "https://www.amazon.pl/HAPINARY-Bransoletki-Rzemie%C5%9Blniczy-Naszyjnik-Bi%C5%BCuteria/dp/B0CQ3SYZLH/ref=sr_1_16?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=LL387KK1427R&dib=eyJ2IjoiMSJ9.iAspSUoie3jHj1IDBr_AWMOvNe2IeiyZaM9wIwAQV-rcRec_3pNoSuCDDv_zL_k6zIkEV-7npjjizvUsyqui8mq5a5Y9tUuOe4jmUHY3VSAlr6olk854F-CchXDwoMTnRPRY221tqwmWsZ5UY0FmF3eoMf91kLF7-FO-C6RwZhjEqBCxc4qJmo4rrjBJoJ3T9BGhk09sdDX0J9qVcv3-JQXW9AT3noAsIyUdp-UZDsRIV81ZVebHiX6pWQd_oxtMEQt6hKDF2KMyxH5UVKj7vVPPVW9N92mrlkvQu7za91o.G5SyWeTde2mrbdSdeiywlgKQFDlfsVUoif-2Dh7aTL0&dib_tag=se&keywords=koraliki+zegar&qid=1709410672&sprefix=koraliki+zegar%2Caps%2C106&sr=8-16", 
+      "imageLink": "https://m.media-amazon.com/images/I/717yFkfcr+L._AC_SX679_.jpg"
+  }, 
+  {
+      "shop": "amazon", 
+      "type": "bracelet", 
+      "affLink": "https://www.amazon.pl/SUNNYCLUE-steampunkowe-tybeta%25C5%2584skiego-zawieszki-tworzenia/dp/B0CN8NNJPX/ref=sr_1_2?__mk_pl_PL=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;crid=LL387KK1427R&amp;dib=eyJ2IjoiMSJ9.iAspSUoie3jHj1IDBr_AWMOvNe2IeiyZaM9wIwAQV-rcRec_3pNoSuCDDv_zL_k6zIkEV-7npjjizvUsyqui8mq5a5Y9tUuOe4jmUHY3VSAlr6olk854F-CchXDwoMTnRPRY221tqwmWsZ5UY0FmF3eoMf91kLF7-FO-C6RwZhjEqBCxc4qJmo4rrjBJoJ3T9BGhk09sdDX0J9qVcv3-JQXW9AT3noAsIyUdp-UZDsRIV81ZVebHiX6pWQd_oxtMEQt6hKDF2KMyxH5UVKj7vVPPVW9N92mrlkvQu7za91o.G5SyWeTde2mrbdSdeiywlgKQFDlfsVUoif-2Dh7aTL0&amp;dib_tag=se&amp;keywords=koraliki+zegar&amp;qid=1709410672&amp;sprefix=koraliki+zegar%252Caps%252C106&amp;sr=8-2&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=eb3947a9159b7a63a4aab48311a3c348&camp=247&creative=1211", 
+      "link": "https://www.amazon.pl/SUNNYCLUE-steampunkowe-tybeta%C5%84skiego-zawieszki-tworzenia/dp/B0CN8NNJPX/ref=sr_1_2?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=LL387KK1427R&dib=eyJ2IjoiMSJ9.iAspSUoie3jHj1IDBr_AWMOvNe2IeiyZaM9wIwAQV-rcRec_3pNoSuCDDv_zL_k6zIkEV-7npjjizvUsyqui8mq5a5Y9tUuOe4jmUHY3VSAlr6olk854F-CchXDwoMTnRPRY221tqwmWsZ5UY0FmF3eoMf91kLF7-FO-C6RwZhjEqBCxc4qJmo4rrjBJoJ3T9BGhk09sdDX0J9qVcv3-JQXW9AT3noAsIyUdp-UZDsRIV81ZVebHiX6pWQd_oxtMEQt6hKDF2KMyxH5UVKj7vVPPVW9N92mrlkvQu7za91o.G5SyWeTde2mrbdSdeiywlgKQFDlfsVUoif-2Dh7aTL0&dib_tag=se&keywords=koraliki+zegar&qid=1709410672&sprefix=koraliki+zegar%2Caps%2C106&sr=8-2", 
+      "imageLink": "https://m.media-amazon.com/images/I/61iV0XcE7-L._AC_SX679_.jpg"
+  }, 
+  {
+      "shop": "amazon", 
+      "type": "bracelet", 
+      "affLink": "https://www.amazon.pl/SUNNYCLUE-silikonowe-ogniskowe-zawieszki-kowbojski/dp/B0CH8HGP7Y/ref=sr_1_10?__mk_pl_PL=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;crid=QNLHYHPJL49N&amp;dib=eyJ2IjoiMSJ9.Tg43S3PEtNhyeCQVIZwAgBa5z5MZxLi1ZxZP9gghyZKqVSV5KAxykoesoQ1pde0kYs19RBuKZkKOVYeyjlsyONQk69HVjEOxjdpFTqUoEgt1b2sxnMxm5svHpEaw-slAtxWScPk8JCcwOTMzFkxYq_akv5uE-s5A65b4-nioDiCMSf7EQEfWt3FNC_b1ro3L5ooriKAp4-8n0DLG85k37knDkHx8fFhJ7qIlmogaZnHLLWJqd6H3PyXlkv2fYCJx7-gXXdVzv9fL6rlNwwjG_MSVDaRyWfINUmdn38meuLc.mbbNdAVuRLRpHTK2xscDTm1ZO5URTBYLYi91W2-bCTM&amp;dib_tag=se&amp;keywords=koraliki+buty&amp;qid=1709410620&amp;sprefix=koraliki+buty%252Caps%252C131&amp;sr=8-10&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=ab06c464ac6feb408dd932e92e5cd2fc&camp=247&creative=1211", 
+      "link": "https://www.amazon.pl/SUNNYCLUE-silikonowe-ogniskowe-zawieszki-kowbojski/dp/B0CH8HGP7Y/ref=sr_1_10?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=QNLHYHPJL49N&dib=eyJ2IjoiMSJ9.Tg43S3PEtNhyeCQVIZwAgBa5z5MZxLi1ZxZP9gghyZKqVSV5KAxykoesoQ1pde0kYs19RBuKZkKOVYeyjlsyONQk69HVjEOxjdpFTqUoEgt1b2sxnMxm5svHpEaw-slAtxWScPk8JCcwOTMzFkxYq_akv5uE-s5A65b4-nioDiCMSf7EQEfWt3FNC_b1ro3L5ooriKAp4-8n0DLG85k37knDkHx8fFhJ7qIlmogaZnHLLWJqd6H3PyXlkv2fYCJx7-gXXdVzv9fL6rlNwwjG_MSVDaRyWfINUmdn38meuLc.mbbNdAVuRLRpHTK2xscDTm1ZO5URTBYLYi91W2-bCTM&dib_tag=se&keywords=koraliki+buty&qid=1709410620&sprefix=koraliki+buty%2Caps%2C131&sr=8-10", 
+      "imageLink": "https://m.media-amazon.com/images/I/51qtm-BESpL._AC_SX679_.jpg"
+  }, 
+  {
+      "shop": "amazon", 
+      "type": "bracelet", 
+      "affLink": "https://www.amazon.pl/krysztalowe-krysztaly-r%25C4%2599kodzielo-koraliki-r%25C4%2599kodziela/dp/B09CMM4W29/ref=sr_1_13?__mk_pl_PL=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;crid=QNLHYHPJL49N&amp;dib=eyJ2IjoiMSJ9.Tg43S3PEtNhyeCQVIZwAgBa5z5MZxLi1ZxZP9gghyZKqVSV5KAxykoesoQ1pde0kYs19RBuKZkKOVYeyjlsyONQk69HVjEOxjdpFTqUoEgt1b2sxnMxm5svHpEaw-slAtxWScPk8JCcwOTMzFkxYq_akv5uE-s5A65b4-nioDiCMSf7EQEfWt3FNC_b1ro3L5ooriKAp4-8n0DLG85k37knDkHx8fFhJ7qIlmogaZnHLLWJqd6H3PyXlkv2fYCJx7-gXXdVzv9fL6rlNwwjG_MSVDaRyWfINUmdn38meuLc.mbbNdAVuRLRpHTK2xscDTm1ZO5URTBYLYi91W2-bCTM&amp;dib_tag=se&amp;keywords=koraliki%252Bbuty&amp;qid=1709410620&amp;sprefix=koraliki%252Bbuty%252Caps%252C131&amp;sr=8-13&amp;th=1&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=a26133ee235e5ba6fae256834019655a&camp=247&creative=1211", 
+      "link": "https://www.amazon.pl/krysztalowe-krysztaly-r%C4%99kodzielo-koraliki-r%C4%99kodziela/dp/B09CMM4W29/ref=sr_1_13?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=QNLHYHPJL49N&dib=eyJ2IjoiMSJ9.Tg43S3PEtNhyeCQVIZwAgBa5z5MZxLi1ZxZP9gghyZKqVSV5KAxykoesoQ1pde0kYs19RBuKZkKOVYeyjlsyONQk69HVjEOxjdpFTqUoEgt1b2sxnMxm5svHpEaw-slAtxWScPk8JCcwOTMzFkxYq_akv5uE-s5A65b4-nioDiCMSf7EQEfWt3FNC_b1ro3L5ooriKAp4-8n0DLG85k37knDkHx8fFhJ7qIlmogaZnHLLWJqd6H3PyXlkv2fYCJx7-gXXdVzv9fL6rlNwwjG_MSVDaRyWfINUmdn38meuLc.mbbNdAVuRLRpHTK2xscDTm1ZO5URTBYLYi91W2-bCTM&dib_tag=se&keywords=koraliki%2Bbuty&qid=1709410620&sprefix=koraliki%2Bbuty%2Caps%2C131&sr=8-13&th=1", 
+      "imageLink": "https://m.media-amazon.com/images/I/51ST-7m9oiL._AC_SX679_.jpg"
+  }, 
+  {
+      "shop": "amazon", 
+      "type": "bracelet", 
+      "affLink": "https://www.amazon.pl/TEHAUX-Rhinestone-Majsterkowicz%25C3%25B3w-Rzemioslo-Bransoletka/dp/B0CBVS85JG/ref=sr_1_114?__mk_pl_PL=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;crid=3EAL4V1ITE5DZ&amp;dib=eyJ2IjoiMSJ9.lvGtJW951BY7HK9PbyYV39OIfFEIyFE4zhKY_8Af3581lPrk9KfB43vEbHKliZrc_uCamyYd6LaCGiVbd889RXEGQ63iksBj5YzKsIOn5qFTbV_ONBna2l_ejhD8jAEVR-tRpydsD3u0fnbB1h5ySGB1w_pbwQlkOVzqz3Xt8ltWO2S5QzEOkbULIZbstzy9UlztAJIrDG37br9kF6f4S20IpF1__j5A2RyRZrErEaKW1lhUHvzvtj9zbIwY8BxRM4JlpGQdSzj1tYFbAfvkjR77F9FVy_fcQmpGslrAQcE.zbrfZ2ZQEOKZPQT3gRUftwrgJ-j2RtNFGz2IxZQskjg&amp;dib_tag=se&amp;keywords=koraliki+w%25C4%2585%25C5%25BC&amp;qid=1709411671&amp;sprefix=koraliki+w%25C4%2585%25C5%25BC%252Caps%252C102&amp;sr=8-114&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=d815b8c0f529b7831e48e6d9ada27cfa&camp=247&creative=1211", 
+      "link": "https://www.amazon.pl/TEHAUX-Rhinestone-Majsterkowicz%C3%B3w-Rzemioslo-Bransoletka/dp/B0CBVS85JG/ref=sr_1_114?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3EAL4V1ITE5DZ&dib=eyJ2IjoiMSJ9.lvGtJW951BY7HK9PbyYV39OIfFEIyFE4zhKY_8Af3581lPrk9KfB43vEbHKliZrc_uCamyYd6LaCGiVbd889RXEGQ63iksBj5YzKsIOn5qFTbV_ONBna2l_ejhD8jAEVR-tRpydsD3u0fnbB1h5ySGB1w_pbwQlkOVzqz3Xt8ltWO2S5QzEOkbULIZbstzy9UlztAJIrDG37br9kF6f4S20IpF1__j5A2RyRZrErEaKW1lhUHvzvtj9zbIwY8BxRM4JlpGQdSzj1tYFbAfvkjR77F9FVy_fcQmpGslrAQcE.zbrfZ2ZQEOKZPQT3gRUftwrgJ-j2RtNFGz2IxZQskjg&dib_tag=se&keywords=koraliki+w%C4%85%C5%BC&qid=1709411671&sprefix=koraliki+w%C4%85%C5%BC%2Caps%2C102&sr=8-114", 
+      "imageLink": "https://m.media-amazon.com/images/I/81TwLaSFiTL._AC_SX679_.jpg"
+  }, 
+  {
+      "shop": "amazon", 
+      "type": "bracelet", 
+      "affLink": "https://www.amazon.pl/KONTONTY-Klonowego-Bi%25C5%25BCuterii-Dystansowy-Drewniane/dp/B0CDJWKF1F/ref=sr_1_73?__mk_pl_PL=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;crid=2UGCYUMWSZ69Z&amp;dib=eyJ2IjoiMSJ9.dpIw8FWq0zm6AQl2caFy8bT9GMroMhIw1no9lja1majJlkkhtKV26ETLKxC4msMXalThswqFhyrmideKZRqzvbbKEhyLGAWDE5jFmqgeFUXp7M0XJtrh-9YQYgl8rNILzYXJy944jOOZDdByYW8PFK611WVk7BQ2NzSe6nhbakNub-96gmcydJ5asMbXlFC4L6HMkDXEOYHqoTv2yhdCPwlMYAS7xBpKUlUfW64CnCXhbLszFDt5QjBJW2pRE0XAuFEjgIVLnx1ptqUzpdvWfNlS5Gvjg2DUSV479yFz_H4.4nlqrPREQKzY2NDy7zDgTpktTzZgzYv3tHMiIVzwfNU&amp;dib_tag=se&amp;keywords=koraliki+jesie%25C5%2584&amp;qid=1709411764&amp;sprefix=koraliki+jesie%25C5%2584%252Caps%252C103&amp;sr=8-73&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=9e8cbc9bf28fd7b756c29a2e4999b868&camp=247&creative=1211", 
+      "link": "https://www.amazon.pl/KONTONTY-Klonowego-Bi%C5%BCuterii-Dystansowy-Drewniane/dp/B0CDJWKF1F/ref=sr_1_73?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2UGCYUMWSZ69Z&dib=eyJ2IjoiMSJ9.dpIw8FWq0zm6AQl2caFy8bT9GMroMhIw1no9lja1majJlkkhtKV26ETLKxC4msMXalThswqFhyrmideKZRqzvbbKEhyLGAWDE5jFmqgeFUXp7M0XJtrh-9YQYgl8rNILzYXJy944jOOZDdByYW8PFK611WVk7BQ2NzSe6nhbakNub-96gmcydJ5asMbXlFC4L6HMkDXEOYHqoTv2yhdCPwlMYAS7xBpKUlUfW64CnCXhbLszFDt5QjBJW2pRE0XAuFEjgIVLnx1ptqUzpdvWfNlS5Gvjg2DUSV479yFz_H4.4nlqrPREQKzY2NDy7zDgTpktTzZgzYv3tHMiIVzwfNU&dib_tag=se&keywords=koraliki+jesie%C5%84&qid=1709411764&sprefix=koraliki+jesie%C5%84%2Caps%2C103&sr=8-73", 
+      "imageLink": "https://m.media-amazon.com/images/I/614BsV6MR6L._AC_SX679_.jpg"
+  }, 
+  {
+      "shop": "amazon", 
+      "type": "bracelet", 
+      "affLink": "https://www.amazon.pl/akrylowy-bi%25C5%25BCuteria-bransoletka-akcesoria-plastikowe/dp/B09MM43MT2/ref=sr_1_2?__mk_pl_PL=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;crid=3VOVPCO6HOX9Q&amp;dib=eyJ2IjoiMSJ9.f5rPIia4FpUksGCQ5PJocFgaIqBIw_sOdwaUcJXes4dt-P_pHkpncTGsU0Zzi_vWDFdvCysgGUaKx9mbrdIk3Svvq32VWiNSN3dDc6W363cguisW55wkeuAihQzBedi9ixg7VjJoo1DDfJwZlNgDcFipq9uO9l3AenOHwvKIPSFkU7YRgibvvC9cvonNV4Fl_ExdNLE16hMV7zIndp9pBQtYjyzc2gcCzvrfsDgujMKLGQCw3OHvHP1eeoUvIFJulys5j8vQFyhs3YjI-a5o7J35HByV2zbvdnTt_Ezdg4U.ZmT7nF_MliL7r8mvgo9xzKN3LuBtJ572Vogq5sD-L1A&amp;dib_tag=se&amp;keywords=koraliki+li%25C5%259Bcie&amp;qid=1709411841&amp;sprefix=koraliki+li%25C5%259Bcie%252Caps%252C100&amp;sr=8-2&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=9e9f037720328a1433af3f89316cfb13&camp=247&creative=1211", 
+      "link": "https://www.amazon.pl/akrylowy-bi%C5%BCuteria-bransoletka-akcesoria-plastikowe/dp/B09MM43MT2/ref=sr_1_2?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3VOVPCO6HOX9Q&dib=eyJ2IjoiMSJ9.f5rPIia4FpUksGCQ5PJocFgaIqBIw_sOdwaUcJXes4dt-P_pHkpncTGsU0Zzi_vWDFdvCysgGUaKx9mbrdIk3Svvq32VWiNSN3dDc6W363cguisW55wkeuAihQzBedi9ixg7VjJoo1DDfJwZlNgDcFipq9uO9l3AenOHwvKIPSFkU7YRgibvvC9cvonNV4Fl_ExdNLE16hMV7zIndp9pBQtYjyzc2gcCzvrfsDgujMKLGQCw3OHvHP1eeoUvIFJulys5j8vQFyhs3YjI-a5o7J35HByV2zbvdnTt_Ezdg4U.ZmT7nF_MliL7r8mvgo9xzKN3LuBtJ572Vogq5sD-L1A&dib_tag=se&keywords=koraliki+li%C5%9Bcie&qid=1709411841&sprefix=koraliki+li%C5%9Bcie%2Caps%2C100&sr=8-2", 
+      "imageLink": "https://m.media-amazon.com/images/I/51CevIKtt-L._AC_SX679_.jpg"
+  },
+  {
+    "link": "https://www.amazon.pl/Koralik%C3%B3w-bransoletek-Elastyczny-Naszyjniki-Bransoletki/dp/B0B6PP11TP/ref=sr_1_8_mod_primary_new?crid=2JFA05FGGWAGW&keywords=koraliki+do+bransoletek&qid=1701248391&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=koraliki%2Caps%2C125&sr=8-8",
+    "imageLink": "https://m.media-amazon.com/images/I/81PiE1F7G5L._AC_SL1500_.jpg",
+    "shop": "amazon",
+    "type": "bracelet",
+    "era": "",
+    "affLink": "https://www.amazon.pl/Koralik%25C3%25B3w-bransoletek-Elastyczny-Naszyjniki-Bransoletki/dp/B0B6PP11TP/ref=sr_1_8_mod_primary_new?crid=2JFA05FGGWAGW&amp;keywords=koraliki+do+bransoletek&amp;qid=1701248391&amp;sbo=RZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D&amp;sprefix=koraliki%252Caps%252C125&amp;sr=8-8&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=7eea6c5eb6917aee086eedc53d722c2b&camp=247&creative=1211"
+  },
+  {
+    "link": "https://www.amazon.pl/tworzenia-bransoletek-polimerowej-naszyjnik%C3%B3w-kolczyk%C3%B3w/dp/B0BCJGY9S7/ref=sr_1_6?crid=2JFA05FGGWAGW&keywords=koraliki%2Bdo%2Bbransoletek&qid=1701248391&sprefix=koraliki%2Caps%2C125&sr=8-6&th=1",
+    "imageLink": "https://m.media-amazon.com/images/I/81txgyj7tjL._AC_SX679_.jpg",
+    "shop": "amazon",
+    "type": "bracelet",
+    "era": "",
+    "affLink": "https://www.amazon.pl/tworzenia-bransoletek-polimerowej-naszyjnik%25C3%25B3w-kolczyk%25C3%25B3w/dp/B0BCJGY9S7/ref=sr_1_6?crid=2JFA05FGGWAGW&amp;keywords=koraliki+do+bransoletek&amp;qid=1701248391&amp;sprefix=koraliki%252Caps%252C125&amp;sr=8-6&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=178c45c42903ad1e955b59209af129f9&camp=247&creative=1211"
+  },
+  {
+    "link": "https://www.amazon.pl/CoKeeSun-koralik%C3%B3w-literami-bransoletek-bi%C5%BCuterii/dp/B0CBLN3BVS/ref=sr_1_11?crid=2JFA05FGGWAGW&keywords=koraliki+do+bransoletek&qid=1701248391&sprefix=koraliki%2Caps%2C125&sr=8-11",
+    "imageLink": "https://m.media-amazon.com/images/I/814tTFGAwrL._AC_SX679_.jpg",
+    "shop": "amazon",
+    "type": "bracelet",
+    "era": "",
+    "affLink": "https://www.amazon.pl/CoKeeSun-koralik%25C3%25B3w-literami-bransoletek-bi%25C5%25BCuterii/dp/B0CBLN3BVS/ref=sr_1_11?crid=2JFA05FGGWAGW&amp;keywords=koraliki+do+bransoletek&amp;qid=1701248391&amp;sprefix=koraliki%252Caps%252C125&amp;sr=8-11&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=720a0036be673f993a23d63545a7d117&camp=247&creative=1211"
+  },
+  {
+    "link": "https://www.amazon.pl/dystansowych-czarno-bialych-bransoletki-samodzielnego-bransoletek/dp/B0B3XMHKPD/ref=sr_1_14?crid=2JFA05FGGWAGW&keywords=koraliki+do+bransoletek&qid=1701248391&sprefix=koraliki%2Caps%2C125&sr=8-14",
+    "imageLink": "https://m.media-amazon.com/images/I/81wNVlzWQeL._AC_SX679_.jpg",
+    "shop": "amazon",
+    "type": "bracelet",
+    "era": "",
+    "affLink": "https://www.amazon.pl/dystansowych-czarno-bialych-bransoletki-samodzielnego-bransoletek/dp/B0B3XMHKPD/ref=sr_1_14?crid=2JFA05FGGWAGW&amp;keywords=koraliki+do+bransoletek&amp;qid=1701248391&amp;sprefix=koraliki%252Caps%252C125&amp;sr=8-14&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=e79ca6c786065476060c8338bc819d1b&camp=247&creative=1211"
+  },
+  {
+    "link": "https://www.amazon.pl/akrylowych-bransoletek-alfabetowe-bransoletki-bialo-czarne/dp/B09ZY4HWFT/ref=sr_1_15_mod_primary_new?crid=2JFA05FGGWAGW&keywords=koraliki+do+bransoletek&qid=1701248391&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=koraliki%2Caps%2C125&sr=8-15",
+    "imageLink": "https://m.media-amazon.com/images/I/81Siq5CPU4L._AC_SX679_.jpg",
+    "shop": "amazon",
+    "type": "bracelet",
+    "era": "",
+    "affLink": "https://www.amazon.pl/akrylowych-bransoletek-alfabetowe-bransoletki-bialo-czarne/dp/B09ZY4HWFT/ref=sr_1_15_mod_primary_new?crid=2JFA05FGGWAGW&amp;keywords=koraliki+do+bransoletek&amp;qid=1701248391&amp;sbo=RZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D&amp;sprefix=koraliki%252Caps%252C125&amp;sr=8-15&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=ebaf7506cd8eb5b23145e660afdfa9e4&camp=247&creative=1211"
+  },
+  {
+    "link": "https://www.amazon.pl/bransoletek-polimerowej-naszyjnik%C3%B3w-u%C5%9Bmiechni%C4%99tymi-zawieszkami/dp/B0BGSBGLZX/ref=sr_1_16?crid=2JFA05FGGWAGW&keywords=koraliki+do+bransoletek&qid=1701248391&sprefix=koraliki%2Caps%2C125&sr=8-16",
+    "imageLink": "https://m.media-amazon.com/images/I/914o1exZX1L._AC_SX679_.jpg",
+    "shop": "amazon",
+    "type": "bracelet",
+    "era": "",
+    "affLink": "https://www.amazon.pl/bransoletek-polimerowej-naszyjnik%25C3%25B3w-u%25C5%259Bmiechni%25C4%2599tymi-zawieszkami/dp/B0BGSBGLZX/ref=sr_1_16?crid=2JFA05FGGWAGW&amp;keywords=koraliki+do+bransoletek&amp;qid=1701248391&amp;sprefix=koraliki%252Caps%252C125&amp;sr=8-16&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=e898837e3ea71bdcdbd7791bfabbf0d6&camp=247&creative=1211"
+  },
+  {
+    "link": "https://www.amazon.pl/Bransoletek-Rekodziela-Akcesoriami-Przechowywania-Tworzenia/dp/B0C2PB81BQ/ref=sr_1_30?crid=2JFA05FGGWAGW&keywords=koraliki%2Bdo%2Bbransoletek&qid=1701248391&sprefix=koraliki%2Caps%2C125&sr=8-30&th=1",
+    "imageLink": "https://m.media-amazon.com/images/I/71TPrTPck6L._AC_SX679_.jpg",
+    "shop": "amazon",
+    "type": "bracelet",
+    "era": "",
+    "affLink": "https://www.amazon.pl/Bransoletek-Rekodziela-Akcesoriami-Przechowywania-Tworzenia/dp/B0C2PB81BQ/ref=sr_1_30?crid=2JFA05FGGWAGW&amp;keywords=koraliki%252Bdo%252Bbransoletek&amp;qid=1701248391&amp;sprefix=koraliki%252Caps%252C125&amp;sr=8-30&amp;th=1&_encoding=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=83cb28a89eaa46cf9c40bae9c824239f&camp=247&creative=1211"
+  },
+  {
+    "link": "https://www.amazon.pl/s?k=koraliki+do+bransoletek&crid=2JFA05FGGWAGW&sprefix=koraliki%2Caps%2C125&ref=nb_sb_ss_ts-doa-p_1_8",
+    "imageLink": "https://m.media-amazon.com/images/I/81L-W9beq4L._AC_SX679_.jpg",
+    "shop": "amazon",
+    "type": "bracelet",
+    "era": "",
+    "affLink": "https://www.amazon.pl/gp/search?ie=UTF8&tag=swiftiespl-21&linkCode=ur2&linkId=56e2a43b57376c7026e0c4a17ff258fa&camp=247&creative=1211&index=arts-crafts&keywords=koraliki%20bransoletek"
+  }
+]

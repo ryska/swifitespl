@@ -45,7 +45,7 @@ const Shop = () => {
         <div className="shop">
             <Sidebar />
             <div className="content">
-                {!['fanmade', 'xmas', 'custom'].includes(currentTab) && <Topbar />}
+                {!['fanmade', 'xmas', 'custom', 'bracelets'].includes(currentTab) && <Topbar />}
                 <div className='items'>
                     {currentTab === 'fanmade' && <Artists />}
                     {filteredItems.map((item: ItemType, key) => <Item key={key} link={item.link ? item.link : ""} shop={item.shop} imageLink={item.imageLink} affLink={item.affLink} />)}
